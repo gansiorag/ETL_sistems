@@ -39,7 +39,7 @@ A Hadoop environment is configured by editing a set of configuration files:
 * sudo nano .bashrc
 * insert code 
 ```
-#Hadoop Related Options
+#Hadoop Related Options <br>
 export HADOOP_HOME=/home/hdoop/hadoop-3.2.1
 export HADOOP_INSTALL=$HADOOP_HOME
 export HADOOP_MAPRED_HOME=$HADOOP_HOME
