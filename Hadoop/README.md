@@ -29,12 +29,12 @@ Generate an SSH key pair and define the location is is to be stored in:
 * tar xzf hadoop-3.2.1.tar.gz
 ## Single Node Hadoop Deployment (Pseudo-Distributed Mode)
 A Hadoop environment is configured by editing a set of configuration files:
-    * bashrc
-    * hadoop-env.sh
-    * core-site.xml
-    * hdfs-site.xml
-    * mapred-site-xml
-    * yarn-site.xml
+* bashrc
+* hadoop-env.sh
+* core-site.xml
+* hdfs-site.xml
+* mapred-site-xml
+* yarn-site.xml
 ### Configure Hadoop Environment Variables (bashrc)
 * sudo nano .bashrc
 * insert code 
