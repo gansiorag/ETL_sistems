@@ -1,0 +1,33 @@
+<============================>
+_ : Message
+id : 16471
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-24 18:44:45+00:00
+message : Понравилась онтология, весьма проработана.
+(смотрел поверхностно)
+https://www.w3.org/TR/prov-o/
+https://www.w3.org/TR/prov-dm/#bib-PROV-LAYOUT
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 66, 'length': 29}, {'_': 'MessageEntityUrl', 'offset': 96, 'length': 46}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23651, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-24 18:45:39+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None

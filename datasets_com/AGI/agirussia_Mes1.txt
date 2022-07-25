@@ -1,0 +1,1424 @@
+<============================>
+_ : Message
+id : 42984
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 19:22:41+00:00
+message : Не совсем понятно, при чем здесь молекулы. На квантовом уровне нет молекул. Пенроуз говорит, что в нейронах есть "microtubules", в которых происходит "само-коллапс" волновой функции. Нейронов много, и вот многочисленные само-коллапсы и есть физическая природа сознания.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 381648649}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 71682, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-24 19:23:12+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42983
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 19:03:41+00:00
+message : У всего в этой Вселенной квантовая природа. Пенроуз же, натягивая её на сознание, говорит только о якобы возможной высокотемпературной квантовой запутанности некоторых молекул в нейронах.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 414651841}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42981, 'reply_to_peer_id': None, 'reply_to_top_id': 42960}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42982
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 18:00:48+00:00
+message : вы так да центра земли скоро докопаете)
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 2095800903}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42979, 'reply_to_peer_id': None, 'reply_to_top_id': 42960}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-24 18:05:01+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42981
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 17:55:17+00:00
+message : Тогда мы приходим к теории Пенроуза - к квантовой природе мозга
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 381648649}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42979, 'reply_to_peer_id': None, 'reply_to_top_id': 42960}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42980
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 17:52:31+00:00
+message : Я могу самого себя назвать как угодно, например материей. Если существую я, существует и материя. Чтобы в этой цепочке появилась энергия, мне придется что-то вычислять.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 381648649}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42978, 'reply_to_peer_id': None, 'reply_to_top_id': 42960}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42979
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 17:49:01+00:00
+message : Если уж так глубоко копать, то есть только вселенская волновая функция.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 414651841}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42976, 'reply_to_peer_id': None, 'reply_to_top_id': 42960}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42978
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 17:43:36+00:00
+message : А материя у вас значит существует😂
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 418198604}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42976, 'reply_to_peer_id': None, 'reply_to_top_id': 42960}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-24 17:49:46+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42977
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 17:35:20+00:00
+message : На практике у всех ТЗ разное. Многие говорят, что хотят получить интеллект. Но если их попросить ни в коем виде не ссылаться ни на человека, ни на биологию, а объяснить задачу в инженерных терминах, то задачи у этих людей будут разные.
+
+Если задача уже описана в инженерных терминах, то какая нам разница, насколько хорошо мозг описывается алгоритмом. Наверное, строгая невычислимость мозга была бы проблемой, но именно строгой невычислимости нет. Нет такого, что в мозге точно, 100% есть машина времени, и больше нигде её нет, а без неё интеллект не сделать.
+
+Но иногда удобно упоминать некий гипотетический "алгоритм мозга". По разным причинам удобно - чтобы оценить сверху потребный объём кода например. Или удобно описывать некую функциональность мозга на языке алгоритмов - например, перевод изображения в описание в терминах объектов.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 394199355}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42975, 'reply_to_peer_id': None, 'reply_to_top_id': 42970}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42976
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 17:35:19+00:00
+message : Вот как раз энергии и не существует :) Посмотрите определение энергии, это чисто математическая фантазия, удобный, для человека, инструмент измерения материи. Не более того.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 381648649}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42974, 'reply_to_peer_id': None, 'reply_to_top_id': 42960}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-24 17:38:20+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42975
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 17:24:01+00:00
+message : Ну забавно конечно. Но, думаю, что к нам, стремящимся построить аги в этом мире и за конечное время эти абстракции не имеют отношения. А вот в принципе недетерминированные системы либо из-за квантовой механики, либо из-за динамического хаоса, безусловно есть. Для меня несомненно, что мозг именно к ним и относится
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 250377867}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42970, 'reply_to_peer_id': None, 'reply_to_top_id': None}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42974
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 17:08:02+00:00
+message : А почему остановились? ) Нет никаких лептонов, бозонов, адронов. Есть только энергия, нарезанная на кусочки.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 414651841}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42960, 'reply_to_peer_id': None, 'reply_to_top_id': None}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-24 17:13:25+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42973
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 17:02:04+00:00
+message : Решается. Современный подход - искать прогу на питоне. Олдскульный подход - написать самому.
+Питон ваш мне неинтересен, набросал навскидку на JS.
+Обязательный параметр чувствительность, по умолчанию в примере 5%. Он позволяет игнорировать локальные всплески. Кстати, можно переписать алгоритм так, что параметром будет модальность. Тогда чувствительность будет не нужна, будет определять заданное модальностью число пиков. Работает просто, за один проход - ищет максимумы, справа и слева от которых есть меньшие значения, отличающиеся в сумме более чем на чувствительность. Такой алгоритм предполагает, что точность измерений удовлетворительная, т.е. рядом нет сильно отличающихся значений. Все это можно совершенствовать. 
+var dataArray = [0,1,2,4,6,8,12,11,11,9,6,3,3,4,6,8,9,8,9,10,11,12,10,8,6,5,3]
+var sensitivity = 0.05 * Math.max(...dataArray);
+var nPeaks = 0
+var iCandidateNumber = -1
+var iCandidateValue = -1;
+var rCandidateRatingLeft = 0;
+var rCandidateRatingRight = 0;
+dataArray.forEach((value, number) => 
+{ 
+    if(value > iCandidateValue) {
+        if(iCandidateValue > 0)
+            rCandidateRatingLeft += (value - iCandidateValue);
+        iCandidateNumber = number;
+        iCandidateValue = value;
+        return;
+    }
+    if(value < iCandidateValue)
+    {
+    if(rCandidateRatingLeft > sensitivity)
+    {
+        rCandidateRatingRight += (iCandidateValue - value);
+        if(rCandidateRatingRight > sensitivity) {
+            iCandidateNumber = -1;
+            iCandidateValue = -1;
+            rCandidateRatingRight = 0;
+            rCandidateRatingLeft = 0;
+            nPeaks += 1;
+        }
+        return;
+    }
+    }
+});
+console.log('Peaks:'+nPeaks);
+Вывод: "Peaks:2"
+На питоне переписать не проблема. Ошибки наверняка есть, прогнал только разок на примере. Но подход очевидно правильный.
+P.S. Немного подумал... вроде и чувствительность можно алгоритмом рассчитать на основании разброса соседних значений выборки. Будет работать полностью автономно, без всяких параметров.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 251818132}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42782, 'reply_to_peer_id': None, 'reply_to_top_id': None}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-24 17:18:10+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42972
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 17:01:07+00:00
+message :  😊
+out : False
+mentioned : False
+media_unread : False
+silent : True
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 303967065}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42971, 'reply_to_peer_id': None, 'reply_to_top_id': None}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42971
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 17:01:05+00:00
+message : спасибо
+сейчас посмотрю
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 250377867}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 1, 'replies_pts': 71682, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': 42972, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42970
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 17:00:37+00:00
+message : Машина времени в основном...
+https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F
+Там описано в терминах того, как бы эти вычисления выглядели с точки зрения математики. Вот если удастся доказать про некое явление, что оно моделируется только через сверхтьюринг и никак иначе, иначе будет огромная ошибка - тогда да, мы имеем дело с неалгоритмизируемым объектом.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 394199355}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 6521792438954460260, 'url': 'https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F', 'display_url': 'ru.m.wikipedia.org/wiki/Сверхтьюринговые_вычисления', 'hash': -557513354, 'type': 'article', 'site_name': 'Wikipedia', 'title': 'Сверхтьюринговые вычисления', 'description': 'Сверхтьюринговыми вычислениями (или гипервычислениями (англ.\xa0hypercomputation)) называются такие вычисления, которые не могут быть проделаны на машине Тьюринга. Они включают в себя разнообразные гипотетические методы, основанные на суперрекурсивных алгоритмах, а также некоторые другие типы вычислений\xa0— например, интерактивные вычисления. Термин гипервычисления (англ.\xa0hypercomputation) был впервые введён Джеком Коуплендом и Дианой Праудфут. Возможность физической реализации таких вычислений активно обсуждается.', 'photo': {'_': 'Photo', 'id': 6015722278328838188, 'access_hash': 7461156517600407830, 'file_reference': b'\x00b\xdd\x9d<\xd2\xc2:\xa1\xac\x06\xf7X\x10\x9bf\xae\xb0| \xdc', 'date': datetime.datetime(2018, 11, 16, 18, 51, 49, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoSize', 'type': 'x', 'w': 41, 'h': 30, 'size': 891}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': {'_': 'Page', 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F', 'blocks': [{'_': 'PageBlockTitle', 'text': {'_': 'TextPlain', 'text': 'Сверхтьюринговые вычисления'}}, {'_': 'PageBlockParagraph', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextBold', 'text': {'_': 'TextPlain', 'text': 'Сверхтьюринговыми вычислениями'}}, {'_': 'TextPlain', 'text': ' (или '}, {'_': 'TextBold', 'text': {'_': 'TextPlain', 'text': 'гипервычислениями'}}, {'_': 'TextPlain', 'text': ' ('}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'англ.'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA', 'webpage_id': 1633011974576180847}, {'_': 'TextPlain', 'text': '\xa0hypercomputation)) называются такие вычисления, которые не могут быть проделаны на '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'машине Тьюринга'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%B0_%D0%A2%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%B0', 'webpage_id': 1633011975790214372}, {'_': 'TextPlain', 'text': '. Они включают в себя разнообразные гипотетические методы, основанные на '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'суперрекурсивных алгоритмах'}, 'url': 'https://ru.m.wikipedia.org/w/index.php?title=%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D1%80%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5_%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B&action=edit&redlink=1', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ', а также некоторые другие типы вычислений\xa0— например, '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'интерактивные вычисления'}, 'url': 'https://ru.m.wikipedia.org/w/index.php?title=%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F&action=edit&redlink=1', 'webpage_id': 0}, {'_': 'TextPlain', 'text': '. Термин '}, {'_': 'TextItalic', 'text': {'_': 'TextPlain', 'text': 'гипервычисления'}}, {'_': 'TextPlain', 'text': ' ('}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'англ.'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA', 'webpage_id': 1633011974576180847}, {'_': 'TextPlain', 'text': '\xa0hypercomputation) был впервые введён '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Джеком Коуплендом'}, 'url': 'https://ru.m.wikipedia.org/w/index.php?title=%D0%9A%D0%BE%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B4,_%D0%94%D0%B6%D0%B5%D0%BA&action=edit&redlink=1', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' и '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Дианой Праудфут'}, 'url': 'https://ru.m.wikipedia.org/w/index.php?title=%D0%9F%D1%80%D0%B0%D1%83%D0%B4%D1%84%D1%83%D1%82,_%D0%94%D0%B8%D0%B0%D0%BD%D0%B0&action=edit&redlink=1', 'webpage_id': 0}, {'_': 'TextPlain', 'text': '.'}, {'_': 'TextSuperscript', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextAnchor', 'text': {'_': 'TextEmpty'}, 'name': 'back_cite_ref-first_1-0'}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '[1]'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#cite_note-first-1', 'webpage_id': 0}]}}, {'_': 'TextPlain', 'text': ' Возможность физической реализации таких вычислений активно обсуждается.'}]}}, {'_': 'PageBlockDetails', 'blocks': [{'_': 'PageBlockParagraph', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Модели, более мощные, чем машина Тьюринга, были введены '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Аланом Тьюрингом'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%90%D0%BB%D0%B0%D0%BD_%D0%A2%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3', 'webpage_id': 1633011974210173951}, {'_': 'TextPlain', 'text': ' в его работе 1939 года '}, {'_': 'TextItalic', 'text': {'_': 'TextPlain', 'text': '«Системы логик, основанных на ординалах»'}}, {'_': 'TextPlain', 'text': '. Эта работа исследовала математические системы, в которых существовал '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'оракул'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9E%D1%80%D0%B0%D0%BA%D1%83%D0%BB_(%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F)', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ', который мог вычислить одну произвольную нерекурсивную функцию на множестве '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'натуральных чисел'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9D%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%87%D0%B8%D1%81%D0%BB%D0%BE', 'webpage_id': 1633011974429914849}, {'_': 'TextPlain', 'text': '. Он использовал эту модель для того, чтобы показать, что даже в такой, более мощной системе, всё равно присутствуют невычислимые функции (например, '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'проблема остановки'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B8', 'webpage_id': 1633011975194740181}, {'_': 'TextPlain', 'text': ' машины с оракулом). В своей работе Тьюринг ясно дал понять, что такая модель является не более чем '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'математической абстракцией'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D0%B1%D1%81%D1%82%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D1%8F', 'webpage_id': 1633011974402179082}, {'_': 'TextPlain', 'text': ' и не может быть реализована в реальном мире.'}, {'_': 'TextSuperscript', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextAnchor', 'text': {'_': 'TextEmpty'}, 'name': 'back_cite_ref-2'}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '[2]'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#cite_note-2', 'webpage_id': 0}]}}]}}], 'title': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'История'}, {'_': 'TextAnchor', 'text': {'_': 'TextEmpty'}, 'name': 'История'}]}, 'open': False}, {'_': 'PageBlockDetails', 'blocks': [{'_': 'PageBlockList', 'items': [{'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Машина Тьюринга, которая может '}, {'_': 'TextItalic', 'text': {'_': 'TextPlain', 'text': 'выполнить'}}, {'_': 'TextPlain', 'text': ' бесконечное количество шагов за конечное время (просто возможность работы машины Тьюринга в течение бесконечного времени (то есть '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'потенциальная бесконечность'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B5%D1%81%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ') недостаточна). Один из предполагаемых способов достичь такого результата\xa0— использовать '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'замедление времени'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%B5%D0%B4%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8', 'webpage_id': 1633011975202477068}, {'_': 'TextPlain', 'text': ' для того, чтобы позволить компьютеру совершить бесконечное количество циклов за конечное по часам внешнего наблюдателя время (такое вычисление потребует бесконечной энергии\xa0— см. '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'пространство-время Маламета — Хогарта'}, 'url': 'https://ru.m.wikipedia.org/w/index.php?title=%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE-%D0%B2%D1%80%D0%B5%D0%BC%D1%8F_%D0%9C%D0%B0%D0%BB%D0%B0%D0%BC%D0%B5%D1%82%D0%B0_%E2%80%94_%D0%A5%D0%BE%D0%B3%D0%B0%D1%80%D1%82%D0%B0&action=edit&redlink=1', 'webpage_id': 0}, {'_': 'TextPlain', 'text': '). Ещё одним, чисто математическим, способом является так называемая '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'машина Зенона'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%B0_%D0%97%D0%B5%D0%BD%D0%BE%D0%BD%D0%B0', 'webpage_id': 1633011974148860864}, {'_': 'TextPlain', 'text': ', основанная на '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'парадоксе Зенона'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%97%D0%B5%D0%BD%D0%BE%D0%BD%D0%B0', 'webpage_id': 1633011973999640911}, {'_': 'TextPlain', 'text': '. Машина Зенона выполняет свой первый шаг вычислений за время, например, 1 минуту, следующий за ½ минуты, третий за ¼ минуты и\xa0т.\xa0д. Суммируя эту бесконечную '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'геометрическую прогрессию'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F', 'webpage_id': 1633011974290363977}, {'_': 'TextPlain', 'text': ', мы получим, что машина выполняет бесконечное количество шагов в течение 2 минут. Однако, в соответствии с рассуждениями аналогичными классическому парадоксу Зенона, такая машина невозможна не только физически, но и логически.'}, {'_': 'TextSuperscript', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextAnchor', 'text': {'_': 'TextEmpty'}, 'name': 'back_cite_ref-3'}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '[3]'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#cite_note-3', 'webpage_id': 0}]}}]}}]}, {'_': 'PageBlockList', 'items': [{'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextBold', 'text': {'_': 'TextPlain', 'text': 'Вечная машина Тьюринга'}}, {'_': 'TextPlain', 'text': ' это обобщение машины Зенона, которая может выполнить неопределенно продолжительное вычисление, шаги в котором перенумерованы потенциально трансфинитными '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'ординальными числами'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%BE%D0%B2%D0%BE%D0%B5_%D1%87%D0%B8%D1%81%D0%BB%D0%BE', 'webpage_id': 1633011975626031219}, {'_': 'TextPlain', 'text': '. Она моделирует обычную во всех остальных смыслах машину Тьюринга, для которой неостанавливающиеся вычисления завершаются путём достижения специального состояния, зарезервированного для достижения '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'предельного ординала'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D0%BB', 'webpage_id': 1633011974356834044}, {'_': 'TextPlain', 'text': ', и для которой доступны результаты всех предыдущих бесконечных вычислений.'}, {'_': 'TextSuperscript', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextAnchor', 'text': {'_': 'TextEmpty'}, 'name': 'back_cite_ref-4'}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '[4]'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#cite_note-4', 'webpage_id': 0}]}}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Действительный компьютер'}, 'url': 'https://ru.m.wikipedia.org/w/index.php?title=%D0%94%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80&action=edit&redlink=1', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' (подвид идеализированного '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'аналогового компьютера'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80', 'webpage_id': 1633011974027583180}, {'_': 'TextPlain', 'text': ') может быть способен осуществлять гипервычисления'}, {'_': 'TextSuperscript', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextAnchor', 'text': {'_': 'TextEmpty'}, 'name': 'back_cite_ref-5'}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '[5]'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#cite_note-5', 'webpage_id': 0}]}}, {'_': 'TextPlain', 'text': ' при условии, что физика допускает существование настоящих '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'действительных чисел'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%92%D0%B5%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%87%D0%B8%D1%81%D0%BB%D0%BE', 'webpage_id': 1633011975284151871}, {'_': 'TextPlain', 'text': '. Это, вероятно, требует существования каких-то очень странных законов физики (например наличия измеримой физической константы, которая может быть использована в качестве оракула\xa0— см., например, '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'константа Хайтина'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B0_%D0%A5%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B0', 'webpage_id': 1633011974868290314}, {'_': 'TextPlain', 'text': ') и должно, как минимум, требовать возможности измерения физических констант с произвольной точностью, несмотря на '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'тепловой шум'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9_%D1%88%D1%83%D0%BC', 'webpage_id': 1633011974966148966}, {'_': 'TextPlain', 'text': ' и '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'квантовомеханические эффекты'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0', 'webpage_id': 1633011974427273820}, {'_': 'TextPlain', 'text': '.'}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Квантовомеханические системы'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0', 'webpage_id': 1633011974427273820}, {'_': 'TextPlain', 'text': ', которые каким-то образом используют, например, бесконечную суперпозицию состояний для вычисления невычислимых функций.'}, {'_': 'TextSuperscript', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextAnchor', 'text': {'_': 'TextEmpty'}, 'name': 'back_cite_ref-6'}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '[6]'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#cite_note-6', 'webpage_id': 0}]}}, {'_': 'TextPlain', 'text': ' Это невозможно при использовании стандартного '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'квантового компьютера'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ', поскольку доказано, что обычный квантовый компьютер PSPACE-приводим (квантовый компьютер, работающий полиномиальное время, может быть смоделирован на классическом компьютере, использующем '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'полиномиальное пространство'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81_PSPACE', 'webpage_id': 1633011975253338411}, {'_': 'TextPlain', 'text': ').'}, {'_': 'TextSuperscript', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextAnchor', 'text': {'_': 'TextEmpty'}, 'name': 'back_cite_ref-7'}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '[7]'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#cite_note-7', 'webpage_id': 0}]}}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Техника, известная как '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'неограниченный детерминизм'}, 'url': 'https://ru.m.wikipedia.org/w/index.php?title=%D0%9D%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B8%D0%B7%D0%BC&action=edit&redlink=1', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ', может позволять вычисление невычислимых функций. Это вопрос является предметом обсуждения в литературе.'}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Использование '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'замкнутых времениподобных кривых'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BA%D0%BD%D1%83%D1%82%D0%B0%D1%8F_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D0%BD%D0%B0%D1%8F_%D0%BA%D1%80%D0%B8%D0%B2%D0%B0%D1%8F', 'webpage_id': 1633011974528679195}, {'_': 'TextPlain', 'text': ', вопреки распространённому мнению, не позволяет выполнять сверхтьюринговые вычисления, так как отсутствует бесконечный объём памяти.'}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'В начале 1990-х годов '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Хава Сигельманн'}, 'url': 'https://ru.m.wikipedia.org/w/index.php?title=%D0%A5%D0%B0%D0%B2%D0%B0_%D0%A1%D0%B8%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC%D0%B0%D0%BD%D0%BD&action=edit&redlink=1', 'webpage_id': 0}, {'_': 'TextSuperscript', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextAnchor', 'text': {'_': 'TextEmpty'}, 'name': 'back_cite_ref-8'}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '[8]'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#cite_note-8', 'webpage_id': 0}]}}, {'_': 'TextPlain', 'text': ' предложила модель, основанную на бесконечной эволюции нейронных сетей, способную проводить гипервычисления.'}, {'_': 'TextSuperscript', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextAnchor', 'text': {'_': 'TextEmpty'}, 'name': 'back_cite_ref-9'}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '[9]'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#cite_note-9', 'webpage_id': 0}]}}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'В предположениях непрерывной Ньютоновой вселенной (когда время и пространство бесконечно делимы), существует возможность построить цепочку вычислительных модулей '}, {'_': 'TextImage', 'document_id': 6015937142201516105, 'w': 30, 'h': 22}, {'_': 'TextPlain', 'text': ', каждый из которых в 2 раза меньше и в 2 раза быстрее предыдущего'}, {'_': 'TextSuperscript', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextAnchor', 'text': {'_': 'TextEmpty'}, 'name': 'back_cite_ref-10'}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '[10]'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#cite_note-10', 'webpage_id': 0}]}}, {'_': 'TextPlain', 'text': '. При этом нет нужды прибегать к неограниченным массам, силам, скоростям, поскольку меньший размер очевидно предполагает более быструю вычислительную способность при фиксированной физической скорости процесса, '}, {'_': 'TextImage', 'document_id': 5952711534227488897, 'w': 254, 'h': 26}, {'_': 'TextPlain', 'text': '. Машина '}, {'_': 'TextImage', 'document_id': 5953154083362701447, 'w': 92, 'h': 22}, {'_': 'TextPlain', 'text': ' обладает бесконечной памятью даже если каждый модуль обладает только конечной памятью, так как модулей бесконечно много. Кроме того, машина способна совершить бесконечное число операций за конечное время, подобно машине Зенона, так как операции следующего модуля выполняются за в 2 раза меньшее время, чем предыдущего, и мы получаем сходящуюся геометрическую прогрессию временных интервалов. Существенное отличие машины Зенона и машины '}, {'_': 'TextImage', 'document_id': 6052068412845195733, 'w': 21, 'h': 19}, {'_': 'TextPlain', 'text': ' в том, что '}, {'_': 'TextImage', 'document_id': 6052068412845195733, 'w': 21, 'h': 19}, {'_': 'TextPlain', 'text': ' не может оперировать с выделенной конечной ячейкой памяти бесконечное число раз за конечное время. Это освобождает '}, {'_': 'TextImage', 'document_id': 6052068412845195733, 'w': 21, 'h': 19}, {'_': 'TextPlain', 'text': ' от так называемого парадокса Томсона'}, {'_': 'TextSuperscript', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextAnchor', 'text': {'_': 'TextEmpty'}, 'name': 'back_cite_ref-11'}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '[11]'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#cite_note-11', 'webpage_id': 0}]}}, {'_': 'TextPlain', 'text': ', суть которого в непредсказуемости финального результата выполнения бесконечной последовательности записи поочередно 0,1,0,1,... в фиксированную ячейку памяти.'}]}}]}], 'title': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Предполагаемые способы сверхтьюринговых вычислений'}, {'_': 'TextAnchor', 'text': {'_': 'TextEmpty'}, 'name': 'Предполагаемые_способы_сверхтьюринговых_вычислений'}]}, 'open': False}, {'_': 'PageBlockDetails', 'blocks': [{'_': 'PageBlockList', 'items': [{'_': 'PageListItemText', 'text': {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Тезис Чёрча — Тьюринга'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A2%D0%B5%D0%B7%D0%B8%D1%81_%D0%A7%D1%91%D1%80%D1%87%D0%B0_%E2%80%94_%D0%A2%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%B0', 'webpage_id': 1633011975448156321}}, {'_': 'PageListItemText', 'text': {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Оракул (вычисления)'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9E%D1%80%D0%B0%D0%BA%D1%83%D0%BB_(%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F)', 'webpage_id': 0}}, {'_': 'PageListItemText', 'text': {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Машина Зенона'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%B0_%D0%97%D0%B5%D0%BD%D0%BE%D0%BD%D0%B0', 'webpage_id': 1633011974148860864}}, {'_': 'PageListItemText', 'text': {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Вычисления'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%92%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F', 'webpage_id': 0}}, {'_': 'PageListItemText', 'text': {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Парадокс Зенона'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81_%D0%97%D0%B5%D0%BD%D0%BE%D0%BD%D0%B0', 'webpage_id': 1633011973999640911}}]}], 'title': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'См. также'}, {'_': 'TextAnchor', 'text': {'_': 'TextEmpty'}, 'name': 'См._также'}]}, 'open': False}, {'_': 'PageBlockDetails', 'blocks': [{'_': 'PageBlockOrderedList', 'items': [{'_': 'PageListOrderedItemText', 'num': '', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '↑'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#back_cite_ref-first_1-0', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' '}, {'_': 'TextAnchor', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextItalic', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Alan Turing’s forgotten ideas in computer science'}, 'url': 'http://www.sciamdigital.com/index.cfm?fa=Products.ViewIssuePreview&ARTICLEID_CHAR=94B166BF-E481-47FA-80C8-112C6BAF404', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Архивная копия'}, 'url': 'http://web.archive.org/web/20131111194007/http://www.sciamdigital.com/index.cfm?fa=Products.ViewIssuePreview&ARTICLEID_CHAR=94B166BF-E481-47FA-80C8-112C6BAF404', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' от 11 ноября 2013 на '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Wayback Machine'}, 'url': 'https://ru.m.wikipedia.org/wiki/Wayback_Machine', 'webpage_id': 0}]}}, {'_': 'TextPlain', 'text': '. '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Scientific American'}, 'url': 'https://ru.m.wikipedia.org/wiki/Scientific_American', 'webpage_id': 1633011974374546805}, {'_': 'TextPlain', 'text': ', April 1999.'}]}, 'name': 'cite_note-first-1'}]}}, {'_': 'PageListOrderedItemText', 'num': '', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '↑'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#back_cite_ref-2', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' '}, {'_': 'TextAnchor', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': '«Предположим, что мы получили какой-то способ решения проблем теории чисел, оракул, дающий решения таких задач. Мы не должны дальше углубляться в вопрос природы оракула, за исключением того, что он не может быть машиной.»(Undecidable p. 167, a reprint of Turing’s paper '}, {'_': 'TextItalic', 'text': {'_': 'TextPlain', 'text': 'Systems of Logic Based On Ordinals'}}, {'_': 'TextPlain', 'text': ')'}]}, 'name': 'cite_note-2'}]}}, {'_': 'PageListOrderedItemText', 'num': '', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '↑'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#back_cite_ref-3', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' '}, {'_': 'TextAnchor', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'См. например '}, {'_': 'TextItalic', 'text': {'_': 'TextPlain', 'text': 'Shagrir, O.'}}, {'_': 'TextPlain', 'text': ' '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Super-tasks, accelerating Turing machines and uncomputability'}, 'url': 'http://edelstein.huji.ac.il/staff/shagrir/papers/Supertasks_Accelerating_Turing_Machines_and_Uncomputability.pdf', 'webpage_id': 0}, {'_': 'TextPlain', 'text': '\xa0(англ.)\xa0// Theor. Comput. Sci. 317, 1-3\xa0: journal.\xa0— 2004.\xa0— June (vol. 317).\xa0— P. 105—114.\xa0— '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'doi'}, 'url': 'https://ru.m.wikipedia.org/wiki/Doi', 'webpage_id': 1633011975011005880}, {'_': 'TextPlain', 'text': ':'}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '10.1016/j.tcs.2003.12.007'}, 'url': 'https://dx.doi.org/10.1016%2Fj.tcs.2003.12.007', 'webpage_id': 0}, {'_': 'TextPlain', 'text': '. '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Архивировано'}, 'url': 'https://web.archive.org/web/20110721133626/http://edelstein.huji.ac.il/staff/shagrir/papers/Supertasks_Accelerating_Turing_Machines_and_Uncomputability.pdf', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' 21\xa0июля 2011\xa0года.'}]}, 'name': 'cite_note-3'}]}}, {'_': 'PageListOrderedItemText', 'num': '', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '↑'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#back_cite_ref-4', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' '}, {'_': 'TextAnchor', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Джоэл Девид Хемкинс и Энди Льюис, '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Infinite time Turing machines'}, 'url': 'http://jdh.hamkins.org/Publications/2000e', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Архивировано'}, 'url': 'https://web.archive.org/web/20111005150801/http://jdh.hamkins.org/Publications/2000e', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' 5\xa0октября 2011\xa0года., '}, {'_': 'TextItalic', 'text': {'_': 'TextPlain', 'text': 'Journal of Symbolic Logic'}}, {'_': 'TextPlain', 'text': ', 65(2):567—604, 2000.'}]}, 'name': 'cite_note-4'}]}}, {'_': 'PageListOrderedItemText', 'num': '', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '↑'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#back_cite_ref-5', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' '}, {'_': 'TextAnchor', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Арнольд Шёнхаге, «On the power of random access machines», in '}, {'_': 'TextItalic', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Proc. Intl. Colloquium on Automata, Languages, and Programming (ICALP), pages 520—529, 1979. Source of citation: '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Scott Aaronson'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%90%D0%B0%D1%80%D0%BE%D0%BD%D1%81%D0%BE%D0%BD,_%D0%A1%D0%BA%D0%BE%D1%82%D1%82', 'webpage_id': 1633011975538302353}, {'_': 'TextPlain', 'text': ', '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '«NP-complete Problems and Physical Reality»'}, 'url': 'http://www.scottaaronson.com/papers/npcomplete.pdf', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' p. 12'}]}}]}, 'name': 'cite_note-5'}]}}, {'_': 'PageListOrderedItemText', 'num': '', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '↑'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#back_cite_ref-6', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' '}, {'_': 'TextAnchor', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Существуют утверждения в пользу этого; смотри например '}, {'_': 'TextItalic', 'text': {'_': 'TextPlain', 'text': 'Tien Kieu.'}}, {'_': 'TextPlain', 'text': ' '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': "Quantum Algorithm for the Hilbert's Tenth Problem"}, 'url': 'http://www.arxiv.org/pdf/quant-ph/0110136', 'webpage_id': 0}, {'_': 'TextPlain', 'text': '\xa0(англ.)\xa0// '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Int. J. Theor. Phys.'}, 'url': 'https://en.wikipedia.org/wiki/International_Journal_of_Theoretical_Physics', 'webpage_id': 3384953263331303502}, {'_': 'TextPlain', 'text': '\xa0: journal.\xa0— 2003.\xa0— Vol. 42.\xa0— P. 1461—1478.\xa0— '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'doi'}, 'url': 'https://ru.m.wikipedia.org/wiki/Doi', 'webpage_id': 1633011975011005880}, {'_': 'TextPlain', 'text': ':'}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '10.1023/A:1025780028846'}, 'url': 'https://dx.doi.org/10.1023%2FA%3A1025780028846', 'webpage_id': 0}, {'_': 'TextPlain', 'text': '. и процитированную там литературу. Ошибки подхода Kieu были указаны Warren D. Smith в '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Three counterexamples refuting Kieu’s plan for «quantum adiabatic hypercomputation»; and some uncomputable quantum mechanical tasks'}, 'url': 'http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TY8-4JD0GX5-1&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=a63612cc7522010ee340e8ddada13779', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Архивная копия'}, 'url': 'http://web.archive.org/web/20100306171055/http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TY8-4JD0GX5-1&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=a63612cc7522010ee340e8ddada13779', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' от 6 марта 2010 на '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Wayback Machine'}, 'url': 'https://ru.m.wikipedia.org/wiki/Wayback_Machine', 'webpage_id': 0}]}, 'name': 'cite_note-6'}]}}, {'_': 'PageListOrderedItemText', 'num': '', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '↑'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#back_cite_ref-7', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' '}, {'_': 'TextAnchor', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Bernstein and Vazirani, '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Quantum complexity theory'}, 'url': 'http://www.cs.berkeley.edu/~vazirani/bv.ps', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ', SIAM Journal on Computing, 26(5):1411—1473, 1997.'}]}, 'name': 'cite_note-7'}]}}, {'_': 'PageListOrderedItemText', 'num': '', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '↑'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#back_cite_ref-8', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' '}, {'_': 'TextAnchor', 'text': {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': ': BINDS lab\xa0: HAVA’S BIO\xa0:'}, 'url': 'http://binds.cs.umass.edu/havaBio.html', 'webpage_id': 0}, 'name': 'cite_note-8'}]}}, {'_': 'PageListOrderedItemText', 'num': '', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '↑'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#back_cite_ref-9', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' '}, {'_': 'TextAnchor', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Verifying Properties of Neural Networks'}, 'url': 'http://www.cs.math.ist.utl.pt/ftp/pub/CostaJF/01-RCS-iwann.pdf', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' p.6'}]}, 'name': 'cite_note-9'}]}}, {'_': 'PageListOrderedItemText', 'num': '', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '↑'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#back_cite_ref-10', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' '}, {'_': 'TextAnchor', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'E. B. Davies, '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Building infinite machines'}, 'url': 'https://www.jstor.org/stable/3541913', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ', '}, {'_': 'TextItalic', 'text': {'_': 'TextPlain', 'text': 'The British Journal for the Philosophy of Science'}}, {'_': 'TextPlain', 'text': ', 52:671-682, 2001.'}]}, 'name': 'cite_note-10'}]}}, {'_': 'PageListOrderedItemText', 'num': '', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': '↑'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F#back_cite_ref-11', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' '}, {'_': 'TextAnchor', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'J. Thomson, '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Tasks and Super-Tasks'}, 'url': 'https://academic.oup.com/analysis/article/15/1/1/170170', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ', '}, {'_': 'TextItalic', 'text': {'_': 'TextPlain', 'text': 'Analysis'}}, {'_': 'TextPlain', 'text': ', 15:1-13, 1954.'}]}, 'name': 'cite_note-11'}]}}]}], 'title': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Примечания'}, {'_': 'TextAnchor', 'text': {'_': 'TextEmpty'}, 'name': 'Примечания'}]}, 'open': False}, {'_': 'PageBlockDetails', 'blocks': [{'_': 'PageBlockList', 'items': [{'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Martin Davis, '}, {'_': 'TextItalic', 'text': {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Why there is no such discipline as hypercomputation'}, 'url': 'http://research.cs.queensu.ca/home/akl/cisc879/papers/PAPERS_FROM_APPLIED_MATHEMATICS_AND_COMPUTATION/Special_Issue_on_Hypercomputation/davis%5B1%5D.pdf', 'webpage_id': 0}}, {'_': 'TextPlain', 'text': ', Applied Mathematics and Computation, Volume 178, Issue 1, 1 July 2006, Pages 4-7, Special Issue on Hypercomputation'}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Mike Stannett, '}, {'_': 'TextItalic', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'The case for hypercomputation'}, 'url': 'http://research.cs.queensu.ca/home/akl/cisc879/papers/PAPERS_FROM_APPLIED_MATHEMATICS_AND_COMPUTATION/Special_Issue_on_Hypercomputation/stannett%5b1%5d.pdf', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Архивная копия'}, 'url': 'http://web.archive.org/web/20160304053941/http://research.cs.queensu.ca/home/akl/cisc879/papers/PAPERS_FROM_APPLIED_MATHEMATICS_AND_COMPUTATION/Special_Issue_on_Hypercomputation/stannett%5b1%5d.pdf', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' от 4 марта 2016 на '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Wayback Machine'}, 'url': 'https://ru.m.wikipedia.org/wiki/Wayback_Machine', 'webpage_id': 0}]}}, {'_': 'TextPlain', 'text': ', Applied Mathematics and Computation, Volume 178, Issue 1, 1 July 2006, Pages 8-24, Special Issue on Hypercomputation'}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Alan Turing, '}, {'_': 'TextItalic', 'text': {'_': 'TextPlain', 'text': 'Systems of logic based on ordinals'}}, {'_': 'TextPlain', 'text': ', Proc. London math. soc., '}, {'_': 'TextBold', 'text': {'_': 'TextPlain', 'text': '45'}}, {'_': 'TextPlain', 'text': ', 1939'}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Hava Siegelmann. '}, {'_': 'TextItalic', 'text': {'_': 'TextPlain', 'text': 'Neural Networks and Analog Computation: Beyond the Turing Limit'}}, {'_': 'TextPlain', 'text': ' Boston: Birkhäuser.'}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Hava Siegelmann. '}, {'_': 'TextUrl', 'text': {'_': 'TextItalic', 'text': {'_': 'TextPlain', 'text': 'The simple dynamics of super Turing theories'}}, 'url': 'http://binds.cs.umass.edu/papers/1996_Siegelmann_TheorCompSci.pdf', 'webpage_id': 0}, {'_': 'TextPlain', 'text': '; Theoretical Computer Science Volume 168, Issue 2, 20 November 1996, Pages 461—472.'}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Keith Douglas. '}, {'_': 'TextItalic', 'text': {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Super-Turing Computation: a Case Study Analysis'}, 'url': 'http://www.philosopher-animal.com/papers/take6c.PDF', 'webpage_id': 0}}, {'_': 'TextPlain', 'text': ' ('}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'PDF'}, 'url': 'https://ru.m.wikipedia.org/wiki/Portable_Document_Format', 'webpage_id': 1633011974823731110}, {'_': 'TextPlain', 'text': '), M.S. Thesis, Carnegie Mellon University, 2003.'}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'L. Blum, F. Cucker, M. Shub, S. Smale, '}, {'_': 'TextItalic', 'text': {'_': 'TextPlain', 'text': 'Complexity and Real Computation'}}, {'_': 'TextPlain', 'text': ', Springer-Verlag 1997. General development of complexity theory for abstract machines that compute on real numbers instead of bits.'}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'On the computational power of neural nets'}, 'url': 'https://ru.m.wikipedia.org/wiki/ftp://ftp.cs.cuhk.hk/pub/neuro/papers/jcss1.ps.Z', 'webpage_id': 0}, {'_': 'TextPlain', 'text': '\xa0(недоступная ссылка)'}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Toby Ord. '}, {'_': 'TextUrl', 'text': {'_': 'TextItalic', 'text': {'_': 'TextPlain', 'text': 'Hypercomputation: Computing more than the Turing machine can compute'}}, 'url': 'http://arxiv.org/abs/math/0209332', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ': A survey article on various forms of hypercomputation.'}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Apostolos Syropoulos (2008), '}, {'_': 'TextItalic', 'text': {'_': 'TextPlain', 'text': 'Hypercomputation: Computing Beyond the Church-Turing Barrier'}}, {'_': 'TextPlain', 'text': ', Springer. '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'ISBN 978-0-387-30886-9'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9780387308869', 'webpage_id': 0}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Burgin, M. S. (1983) Inductive Turing Machines, '}, {'_': 'TextItalic', 'text': {'_': 'TextPlain', 'text': 'Notices of the Academy of Sciences of the USSR'}}, {'_': 'TextPlain', 'text': ', v. 270, No. 6, pp. 1289—1293'}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Mark Burgin (2005), '}, {'_': 'TextItalic', 'text': {'_': 'TextPlain', 'text': 'Super-recursive algorithms'}}, {'_': 'TextPlain', 'text': ', Monographs in computer science, Springer. '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'ISBN 0-387-95569-0'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0387955690', 'webpage_id': 0}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Cockshott, P. and Michaelson, G. Are there new Models of Computation? Reply to Wegner and Eberbach, '}, {'_': 'TextItalic', 'text': {'_': 'TextPlain', 'text': 'The computer Journal'}}, {'_': 'TextPlain', 'text': ', 2007'}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Copeland, J. (2002) '}, {'_': 'TextItalic', 'text': {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Hypercomputation'}, 'url': 'http://research.cs.queensu.ca/home/akl/cisc879/papers/PAPERS_FROM_MINDS_AND_MACHINES/VOLUME_12_NO_4/NV6361035557Q678.pdf', 'webpage_id': 0}}, {'_': 'TextPlain', 'text': ', Minds and machines, v. 12, pp. 461—502'}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Martin Davis (2006), «'}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'The Church-Turing Thesis: Consensus and opposition'}, 'url': 'https://wayback.archive-it.org/all/20080221162316/http://people.cs.uchicago.edu/~simon/TEACH/28000/DavisUniversal.pdf', 'webpage_id': 0}, {'_': 'TextPlain', 'text': '». Proceedings, Computability in Europe 2006. Lecture notes in computer science, 3988 pp. 125—132'}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Hagar, A. and Korolev, A. (2007) Quantum Hypercomputation\xa0— Hype or Computation? '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'http://philsci-archive.pitt.edu/archive/00003180/'}, 'url': 'http://philsci-archive.pitt.edu/archive/00003180/', 'webpage_id': 0}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextPlain', 'text': 'Rogers, H. (1987) Theory of Recursive Functions and Effective Computability, MIT Press, Cambridge Massachusetts'}}]}], 'title': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Литература'}, {'_': 'TextAnchor', 'text': {'_': 'TextEmpty'}, 'name': 'Литература'}]}, 'open': False}, {'_': 'PageBlockDetails', 'blocks': [{'_': 'PageBlockList', 'items': [{'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'Hypercomputation Research Network'}, 'url': 'http://www.hypercomputation.net/', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' \xa0(англ.)'}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextUrl', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Toby Ord, '}, {'_': 'TextItalic', 'text': {'_': 'TextPlain', 'text': 'Hypercomputation: computing more than the Turing machine'}}]}, 'url': 'http://arxiv.org/abs/math/0209332', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' \xa0(англ.)'}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextUrl', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Toby Ord, '}, {'_': 'TextItalic', 'text': {'_': 'TextPlain', 'text': 'The many forms of hypercomputation'}}]}, 'url': 'http://www.amirrorclear.net/academic/papers/many-forms.pdf', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' \xa0(англ.)'}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextUrl', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Paolo Cotogno, '}, {'_': 'TextItalic', 'text': {'_': 'TextPlain', 'text': 'Hypercomputation and the Physical Church-Turing thesis'}}]}, 'url': 'http://citeseer.ist.psu.edu/cotogno03hypercomputation.html', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' \xa0(англ.)'}]}}]}], 'title': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Ссылки'}, {'_': 'TextAnchor', 'text': {'_': 'TextEmpty'}, 'name': 'Ссылки'}]}, 'open': False}, {'_': 'PageBlockParagraph', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Источник — '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'https://ru.wikipedia.org/w/index.php?title=Сверхтьюринговые_вычисления&oldid=114776681'}, 'url': 'https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%82%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F&oldid=114776681', 'webpage_id': 0}]}}, {'_': 'PageBlockRelatedArticles', 'title': {'_': 'TextEmpty'}, 'articles': [{'_': 'PageRelatedArticle', 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%BB%D0%BB%D0%B5%D0%BB%D0%B8%D0%B7%D0%BC', 'webpage_id': 1633011974867864948, 'title': 'Квантовый параллелизм', 'description': 'Квантовый параллелизм\xa0— принцип, лежащий в основе работы квантовых компьютеров и позволяющий им потенциально превзойти в производительности классические компьютеры. В основе квантового параллелизма лежит использование при вычислениях суперпозиций базовых состояний, что позволяет одновременно производить большое количество вычислений с различными исходными данными. Например, 64-разрядный квантовый регистр может хранить до значений одновременно , а квантовый компьютер может все эти значения одновременно обрабатывать . Тем не менее, извлечение результатов таких вычислений затруднено, что ограничивает область применения квантовых компьютеров.', 'photo_id': 5786511809455433880, 'author': None, 'published_date': None}, {'_': 'PageRelatedArticle', 'url': 'https://ru.m.wikipedia.org/wiki/%D0%92%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D0%BC%D0%B0%D1%8F_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F', 'webpage_id': 1633011974265673004, 'title': 'Вычислимая функция', 'description': 'Вычислимые функции\xa0— это множество функций вида, которые могут быть реализованы на машине Тьюринга. Задачу вычисления функции называют алгоритмически разрешимой или алгоритмически неразрешимой, в зависимости от того, возможен ли алгоритм, вычисляющий эту функцию.', 'photo_id': 5824628836753582290, 'author': None, 'published_date': None}, {'_': 'PageRelatedArticle', 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0', 'webpage_id': 1633011974283741715, 'title': 'Цифровая физика', 'description': 'подход в физике и космологии, изучающий Вселенную с информационной точки зрения', 'photo_id': None, 'author': None, 'published_date': None}, {'_': 'PageRelatedArticle', 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0_%D0%A2%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%B0', 'webpage_id': 1633011974601050525, 'title': 'Квантовая машина Тьюринга', 'description': 'Квантовая машина Тьюринга (англ.\xa0quantum Turing machine; иногда\xa0— универсальный квантовый компьютер)\xa0— абстрактная машина, используемая для моделирования квантового компьютера; простая модель, которая, в то же время, может описать любые квантовые вычисления: любой квантовый алгоритм может быть формально описан как некоторая квантовая машина Тьюринга. Впервые построена в 1985 году Дэвидом Дойчем, обратившим внимание на аналогию между квантовыми вентилями и логическими вентилями в цифровых схемах (в той же работе предложен тезис Чёрча — Тьюринга — Дойча).', 'photo_id': None, 'author': None, 'published_date': None}, {'_': 'PageRelatedArticle', 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A2%D0%B5%D0%B7%D0%B8%D1%81_%D0%A7%D1%91%D1%80%D1%87%D0%B0_%E2%80%94_%D0%A2%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%B0_%E2%80%94_%D0%94%D0%BE%D0%B9%D1%87%D0%B0', 'webpage_id': 1633011975401066318, 'title': 'Тезис Чёрча — Тьюринга — Дойча', 'description': 'Тезис Чёрча\xa0— Тьюринга\xa0— Дойча (CTD-принцип\xa0— по аббревиатуре от Church, Turing, Deutsch; также сильный тезис Чёрча\xa0— Тьюринга)\xa0— более строгая в физическом смысле формулировка эвристического вычислительного тезиса Чёрча\xa0— Тьюринга, предложенная Дэвидом Дойчем в 1985 году.', 'photo_id': None, 'author': None, 'published_date': None}]}], 'photos': [{'_': 'Photo', 'id': 5786511809455433880, 'access_hash': -6013670413935903919, 'file_reference': b'\x00b\xdd\x9d<x\x85a\x91\x06\x00\xc5J\xcd\x95#\x96\x0e\x91U\xe4', 'date': datetime.datetime(2018, 12, 6, 8, 35, 6, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoSize', 'type': 'x', 'w': 36, 'h': 32, 'size': 874}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, {'_': 'Photo', 'id': 5824628836753582290, 'access_hash': 5640201679770204865, 'file_reference': b'\x00b\xdd\x9d<\xa1*\xe5\xd5]?n%\x15<\xe6=\x18\xdc$6', 'date': datetime.datetime(2018, 12, 19, 20, 26, 28, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoSize', 'type': 's', 'w': 90, 'h': 21, 'size': 847}, {'_': 'PhotoSize', 'type': 'x', 'w': 128, 'h': 30, 'size': 1630}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, {'_': 'Photo', 'id': 5959586136647116993, 'access_hash': -8933727921371142805, 'file_reference': b'\x00b\xdd\x9d<\xa69\xaf\xf8M\x95\x84Dbc\xaa\xe4\xc6\xd6m6', 'date': datetime.datetime(2018, 10, 29, 8, 48, 54, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoSize', 'type': 's', 'w': 84, 'h': 90, 'size': 1883}, {'_': 'PhotoSize', 'type': 'x', 'w': 267, 'h': 287, 'size': 21132}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, {'_': 'Photo', 'id': 5961866957554822086, 'access_hash': -761401131276696634, 'file_reference': b'\x00b\xdd\x9d<\xef\x17\x12\x99`\xb0\xa3hfdb\xf4>wu\n', 'date': datetime.datetime(2020, 12, 14, 16, 3, 52, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoSize', 'type': 'm', 'w': 16, 'h': 20, 'size': 503}, {'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x14\x10\xb9%\xf6\xc9\x91|\xa2\xc8\xecUH<\x92=\xbd3O\x172-\xccp\xcb\x1a\xa9\x90\x12\xa5[==x\xa8\xf1\xe6\xeb\x03\xfb\xb0G\xfa\x9f\xfe\xb5F\xf2\x7f\xc4\xd2V#-\x1a\x04\x8d?\xbcM\x00ic\xf5\xa4\xc0\xceq\xcd\x14P\x07'}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}], 'documents': [{'_': 'Document', 'id': 6015937142201516105, 'access_hash': 440034826762453779, 'file_reference': b'\x00b\xdd\x9d<\xbf\x977\n\xef$\x1bmB\x16\xc5\x080\xab\x92\x0c', 'date': datetime.datetime(2018, 11, 16, 18, 51, 49, tzinfo=datetime.timezone.utc), 'mime_type': 'image/png', 'size': 798, 'dc_id': 4, 'attributes': [{'_': 'DocumentAttributeImageSize', 'w': 41, 'h': 30}, {'_': 'DocumentAttributeFilename', 'file_name': '8656f32ad5c50e679b491b361a423727491496a0.png'}], 'thumbs': [{'_': 'PhotoSize', 'type': 's', 'w': 41, 'h': 30, 'size': 867}], 'video_thumbs': []}, {'_': 'Document', 'id': 5952711534227488897, 'access_hash': -6947906865480755629, 'file_reference': b'\x00b\xdd\x9d<\xc0\x0f\xc7\xd7:\xd4\xc1\x0br\xf4\xf4Eu\\\xeb\x84', 'date': datetime.datetime(2019, 1, 31, 12, 4, 21, tzinfo=datetime.timezone.utc), 'mime_type': 'image/png', 'size': 4313, 'dc_id': 4, 'attributes': [{'_': 'DocumentAttributeImageSize', 'w': 348, 'h': 36}, {'_': 'DocumentAttributeFilename', 'file_name': 'a50b6dcfcbd9897ab6e97df797fbefd0c6ffa8ef.png'}], 'thumbs': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x04(\xd5\x00\x86\xc0c\x8fJqL\xff\x00\x11\xe9\x8e\xb4Q@\x01\\\xf74\x9b\x07\xa9\xe4\xd1E\x00\x01\x07\xa9\xfc\xe8\xa2\x8a\x00'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 33, 'size': 4169}], 'video_thumbs': []}, {'_': 'Document', 'id': 5953154083362701447, 'access_hash': 602139512118147782, 'file_reference': b'\x00b\xdd\x9d<\x91\xfe2\xefC\xf3 GG\xd21V\xcep\xeeJ', 'date': datetime.datetime(2019, 1, 31, 12, 4, 21, tzinfo=datetime.timezone.utc), 'mime_type': 'image/png', 'size': 1584, 'dc_id': 4, 'attributes': [{'_': 'DocumentAttributeImageSize', 'w': 126, 'h': 30}, {'_': 'DocumentAttributeFilename', 'file_name': '0f4559bb1dc3faeab0c22f1c9597c28ee4f655d9.png'}], 'thumbs': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\n(\xbb+\xbf\xef\x8a3a\x80\n}\x0fJ\xb2K"\x80\xaa[\xeai\xf4P\x03\x0b\x1d\xaa\xc4m\xe7\x9a\x86gc\x8d\x85\x8e\x1c\x11\x8e\xe3\x8c\xd5\x9a(\x02\xbc2|\xee\xce\xc7,\xd8\x03\x9c\x0e\x83\xf9\xd1S\x90\x0e2\x01\xa2\x80?'}, {'_': 'PhotoSize', 'type': 'm', 'w': 126, 'h': 30, 'size': 1686}], 'video_thumbs': []}, {'_': 'Document', 'id': 6052068412845195733, 'access_hash': -3709870292039290020, 'file_reference': b'\x00b\xdd\x9d<Q\x92T\x9e\xf6\x03\x98\x8c\xdc4\xc1\xfd*\xc8p\xca', 'date': datetime.datetime(2019, 12, 22, 13, 53, 48, tzinfo=datetime.timezone.utc), 'mime_type': 'image/png', 'size': 625, 'dc_id': 4, 'attributes': [{'_': 'DocumentAttributeImageSize', 'w': 29, 'h': 26}, {'_': 'DocumentAttributeFilename', 'file_name': 'f82cade9898ced02fdd08712e5f0c0151758a0dd.png'}], 'thumbs': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b"\x01\x1a\x1d\xd4\xb8gHY\xd1\x95J\x8c\x92\xc3#\x15\x06\x9fu-\xc0\x94L\xaa\xae\x8d\x8c-I{\xf3B#\xff\x00\x9e\x8c\x13\xf0\xef\xfaf\xab\xc0\xcb\x0e\xa7x\x18\xe1J\xab\xfe\x9f\xfdz\x00\x9a\xfa\xe4\xda\xc0Y\x00/\x8c\x80zS\xed\x9aw\x85^V\x8f,\x01\x00)\x18\xfdj\x95\xfa\xb4\x89\x14l0\xf7\x12\x00G\xa2\x8e\xd5\xa8\x068\x14\x01RU\xb9{\x98\xdcE\x1e\xc8\xc9\xc6_\x93\xdb=(kB\xfa\x80\xb8'\xe4\xd8\x01\x1e\xa7?\xfe\xaa\xb7E\x00g\xc9\r\xd4\x97\xb1\xceb\x8f\x11\x82\x02\xf9\x9e\xbd\xfaV\x85\x14P\x07"}, {'_': 'PhotoSize', 'type': 's', 'w': 29, 'h': 26, 'size': 701}], 'video_thumbs': []}], 'part': False, 'rtl': False, 'v2': True, 'views': None}, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 29, 'length': 187}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 2, 'replies_pts': 71682, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': 42977, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42969
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 16:57:38+00:00
+message : А что такон сверхтьюринговские вычисления?
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 250377867}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 71682, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42968
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 16:57:05+00:00
+message : Не обязательно. Система, в которой нет сверхтьюринговских вычислений, и которая вследствие этого может быть смоделирована алгоритмом. Смоделирована, спрогнозирована. С какой-то точностью.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 394199355}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42967, 'reply_to_peer_id': None, 'reply_to_top_id': None}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-24 16:57:29+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42967
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 16:56:16+00:00
+message : Т.е. просто имется в виду, что это -детерминированная система?
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 250377867}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 1, 'replies_pts': 71682, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': 42968, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42966
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 16:55:33+00:00
+message : Ну вы же можете описать эти 2 тела формулами? Значит, это алгоритмизируется. А если можете описать некими не-формулами, которые доказуемо не сводятся к алгоритму - значит, мы имеет дело с процессом, который нельзя свести к алгоритму
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 394199355}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42964, 'reply_to_peer_id': None, 'reply_to_top_id': 42952}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-24 19:27:47+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42965
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 16:55:25+00:00
+message : Да, он должен как человека обосновать свой выбор неважно насколько он бредовый — у коровы и курицы есть ноги, а у травы – нет.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 414651841}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42941, 'reply_to_peer_id': None, 'reply_to_top_id': 42854}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-24 16:56:06+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42964
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 16:54:23+00:00
+message : С этой точки зрения система из двух тел с действующей силой тяготения - это алгоритм. 
+Извиняюсь, но я совершенно не понимаю смысл этого высказывания.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 250377867}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42962, 'reply_to_peer_id': None, 'reply_to_top_id': 42952}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42963
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 16:38:18+00:00
+message : "Конечная лента тоже конечный автомат." - на практике разница огромна
+
+"Детерм.алгоритм может порождать рандом.  Добавление не требуется." - я пояснил выше, что рандом нужен в смысле того, что циферки на выходе не надо считать как точечные оценки будущего, а надо, чтобы алгоритм выдавал вероятностные распределения. Это максимально корректный учёт рандома/неизвестности в реальности, а не рандом внутри модели
+
+"А из 3-х тел? Задача гравитирующих тел." - а в чём проблема? Вы её можете предсказать на секунду вперёд с хорошей точностью. Вы её гипотетически можете предсказать на любое время вперёд с хорошей точностью, если имеете идеально точные начальные данные. У вас нет способа прогноза, который был бы точнее, чем некие измерения и некие формулы.
+Задача 3-х тел была бы исключением, если бы можно было сделать прогноз, более точный, чем по каким-либо формулам, и он бы задействовал сверхтьюринговские вычисления (и это можно было бы провернуть на практике).
+Так что система из 3-х тел сводима к алгоритму, но из-за погрешности в измерении начальных условий мы точно не уверены, к какому именно
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 394199355}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42962, 'reply_to_peer_id': None, 'reply_to_top_id': 42952}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42962
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 16:21:47+00:00
+message : "А есть алгоритм. Это тот же конечный автомат, только ещё с лентой."
+
+Конечная лента тоже конечный автомат.
+
+"Наверное, шире только алгоритм+рандом." 
+
+Детерм.алгоритм может порождать рандом.  Добавление не требуется.
+(не псевдослучайные числа, а настоящий рандом)
+
+"С этой точки зрения система из двух тел с действующей силой тяготения - это алгоритм (или эквивалентно некоторому алгоритму), мозг действует по алгоритму. "
+
+А из 3-х тел? Задача гравитирующих тел.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 5154637910}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42952, 'reply_to_peer_id': None, 'reply_to_top_id': None}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-24 16:26:36+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42961
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 14:40:06+00:00
+message : Алгоритм - такая же выдуманная сущность, как и атомы, молекулы и  т.д. https://ru.wikipedia.org/wiki/Мереологический_нигилизм
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 381648649}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42957, 'reply_to_peer_id': None, 'reply_to_top_id': 42951}
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 6521792437604656248, 'url': 'https://ru.wikipedia.org/wiki/Мереологический_нигилизм', 'display_url': 'ru.m.wikipedia.org/wiki/Мереологический_нигилизм', 'hash': 2023436897, 'type': 'article', 'site_name': 'Wikipedia', 'title': 'Мереологический нигилизм', 'description': 'Мереологический нигилизм\xa0— философская позиция, согласно которой объекты, состоящие из частей, не существуют. Существуют только базовые объекты, которые не состоят из частей.', 'photo': None, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': {'_': 'Page', 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B8%D0%B3%D0%B8%D0%BB%D0%B8%D0%B7%D0%BC', 'blocks': [{'_': 'PageBlockTitle', 'text': {'_': 'TextPlain', 'text': 'Мереологический нигилизм'}}, {'_': 'PageBlockParagraph', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextBold', 'text': {'_': 'TextPlain', 'text': 'Мереологический нигилизм'}}, {'_': 'TextPlain', 'text': '\xa0— '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'философская'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F', 'webpage_id': 0}, {'_': 'TextPlain', 'text': ' позиция, согласно которой объекты, состоящие из частей, не существуют. Существуют только базовые объекты, которые не состоят из частей.'}]}}, {'_': 'PageBlockParagraph', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Например, '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'лес'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9B%D0%B5%D1%81', 'webpage_id': 1633011974070968919}, {'_': 'TextPlain', 'text': ' не существует в реальности как отдельный объект, это просто большое количество деревьев в ограниченном пространстве. Понятие же «лес» создано для облегчения мышления и общения. Мы не можем воспринимать вырубку отдельных (каждое из деревьев индивидуально) 173 тыс. деревьев из 346 тыс. находящихся рядом, а вырубку 50\xa0% леса\xa0— можем.'}]}}, {'_': 'PageBlockParagraph', 'text': {'_': 'TextPlain', 'text': 'Примеры:'}}, {'_': 'PageBlockList', 'items': [{'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'не существует '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'общество'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE', 'webpage_id': 1633011975475576252}, {'_': 'TextPlain', 'text': '\xa0— это группа отдельных людей;'}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'не существует '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'человек'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA', 'webpage_id': 1633011975138306125}, {'_': 'TextPlain', 'text': '\xa0— это набор из органов, которые в свою очередь состоят из тканей и\xa0так далее;'}]}}, {'_': 'PageListItemText', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'можно говорить о существовании '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'электронов'}, 'url': 'https://ru.m.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD', 'webpage_id': 1633011975498978833}, {'_': 'TextPlain', 'text': ', поскольку у них нет составных частей (по крайней мере, неизвестны).'}]}}]}, {'_': 'PageBlockParagraph', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': 'Источник — '}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'https://ru.wikipedia.org/w/index.php?title=Мереологический_нигилизм&oldid=121513678'}, 'url': 'https://ru.wikipedia.org/w/index.php?title=%D0%9C%D0%B5%D1%80%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B8%D0%B3%D0%B8%D0%BB%D0%B8%D0%B7%D0%BC&oldid=121513678', 'webpage_id': 0}]}}, {'_': 'PageBlockRelatedArticles', 'title': {'_': 'TextEmpty'}, 'articles': [{'_': 'PageRelatedArticle', 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9B%D0%B5%D1%81%D0%BE%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5', 'webpage_id': 1633011976001422675, 'title': 'Лесовосстановление', 'description': 'выращивание лесов на территориях, подвергшихся вырубкам, пожарам и т. д.', 'photo_id': 6009341924022004052, 'author': None, 'published_date': None}, {'_': 'PageRelatedArticle', 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9E%D0%B1%D0%B5%D0%B7%D0%BB%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D0%B5', 'webpage_id': 1633011973999421910, 'title': 'Обезлесение', 'description': 'вырубка леса для освобождения территории от деревьев', 'photo_id': 532578586565394423, 'author': None, 'published_date': None}, {'_': 'PageRelatedArticle', 'url': 'https://ru.m.wikipedia.org/wiki/%D0%9B%D0%B5%D1%81%D0%BD%D0%B0%D1%8F_%D1%81%D0%B2%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0', 'webpage_id': 1633011974522391544, 'title': 'Лесная свастика', 'description': 'лесопосадка в форме свастики', 'photo_id': None, 'author': None, 'published_date': None}, {'_': 'PageRelatedArticle', 'url': 'https://ru.m.wikipedia.org/wiki/%D0%97%D0%B2%D1%83%D0%BA_%D0%BF%D0%B0%D0%B4%D0%B0%D1%8E%D1%89%D0%B5%D0%B3%D0%BE_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B0_%D0%B2_%D0%BB%D0%B5%D1%81%D1%83', 'webpage_id': 1633011975578385916, 'title': 'Звук падающего дерева в лесу', 'description': '«Слышен ли звук падающего дерева в лесу, если рядом никого нет?»\xa0— философская загадка, касающаяся проблем наблюдения и реальности. Проблема заключается в определении термина «звук».', 'photo_id': 5783836439967017184, 'author': None, 'published_date': None}, {'_': 'PageRelatedArticle', 'url': 'https://ru.m.wikipedia.org/wiki/%D0%A0%D1%83%D0%B1%D0%BA%D0%B0_%D0%BB%D0%B5%D1%81%D0%B0', 'webpage_id': 1633011975713997413, 'title': 'Рубка леса', 'description': 'Ру́бка ле́са\xa0— спиливание, срубание или срезание деревьев, кустарников или лиан в лесу. Производится с целью получения древесины (лесозаготовка), а также для оздоровления, возобновления леса и повышения его продуктивности. Различаются четыре основных типа рубок: главного пользования, рубки ухода, санитарные и комплексные. Важное отличие рубок главного пользования от рубок ухода в том, что после первых обязательно должны проводиться лесовосстановительные мероприятия.', 'photo_id': 5833812915646474825, 'author': None, 'published_date': None}]}], 'photos': [{'_': 'Photo', 'id': 6009341924022004052, 'access_hash': -7146405834221123497, 'file_reference': b'\x00b\xdd\x9d<\x17\xe1ga\x92\xf0`\xefe\xfbE\xa3\xb9\xf2w\xc3', 'date': datetime.datetime(2019, 5, 27, 12, 47, 17, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b"\x01\x1e(\xban!\x1f\xc5\xfaSE\xd4\x03\xd7\xf2\xaa\x04\x1a\x0c\x12u\xe3\xf1\xa3\x9d\x93\xca\x8dD\xbc\xb7?\xc7\x8f\xc2\xa7I\x11\xfe\xe3\x03\xf45\x87\xe4\xbf\xb5!-\x11\xceH\xf7\x14\\\xab\x1b\xf4Vm\xb5\xdc\xa5\x0eN\xed\xbd\x8fz(\x15\xca\xca\xc1X\x13\xda\xa52.9<\xfaUr2)\x8ex>\xd5\x98\xc9\x8c\xf9>\xd5\x1c\xb2\x86B\x05C\x9f\xbc=)s\xc9\xfa\xe2\xa8\t\xad\xdfl\x80v<QQ'\r\x9a(\xbd\x84\x7f"}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 240, 'size': 26158}, {'_': 'PhotoSize', 'type': 'x', 'w': 800, 'h': 600, 'size': 172170}, {'_': 'PhotoSize', 'type': 'y', 'w': 1200, 'h': 900, 'size': 293841}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, {'_': 'Photo', 'id': 532578586565394423, 'access_hash': -1935080659642838934, 'file_reference': b'\x00b\xdd\x9d<./\xe7\xb5SS\xcc\x159m\xd4E,\x8c\xa4Y', 'date': datetime.datetime(2017, 1, 4, 20, 28, 36, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoSize', 'type': 's', 'w': 90, 'h': 67, 'size': 1018}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 239, 'size': 12401}, {'_': 'PhotoSize', 'type': 'x', 'w': 600, 'h': 449, 'size': 22112}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, {'_': 'Photo', 'id': 5783836439967017184, 'access_hash': 1657836539885706115, 'file_reference': b'\x00b\xdd\x9d<\xb3\x02^^\xe6\xd5\x8aS\xb3\x83\x8b\x9a\xd6\xb7\x9f!', 'date': datetime.datetime(2018, 12, 5, 21, 28, 25, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoSize', 'type': 's', 'w': 67, 'h': 90, 'size': 1804}, {'_': 'PhotoSize', 'type': 'm', 'w': 240, 'h': 320, 'size': 41095}, {'_': 'PhotoSize', 'type': 'x', 'w': 600, 'h': 800, 'size': 233097}, {'_': 'PhotoSize', 'type': 'y', 'w': 960, 'h': 1280, 'size': 552973}, {'_': 'PhotoSize', 'type': 'w', 'w': 1200, 'h': 1600, 'size': 709744}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, {'_': 'Photo', 'id': 5833812915646474825, 'access_hash': 480307261741899180, 'file_reference': b'\x00b\xdd\x9d<x\x1f\nt\x03\xdb\xa2?\x9d\x7f\xb8-\x8fbd\xd5', 'date': datetime.datetime(2020, 1, 14, 20, 10, 29, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b"\x01\x1e(\x90\x1c?=I\xa7\xcc\xe5!\x8f\x83\x8c\x82i\xa5\x94\xb8#\xf3\xa6N\xe0\xba\x83\x9e\x07J\x00l\x9f8O\x90\x81\xd35^\xe4\xe2a\x8cq\xcd[\xcevc\x8c\x1c\x1cU9A7-\x91\xd2\x8e\xa1\xd0q\x00a\xfb\x1a)e'*\x84s\xebE&\x08\x91\xf6\xee\xeb\xd0\xd3\x1d\xc3I\x9c\x8a\xbbsn\x99#h\x07\x1dED,7\x01\xb5\xc8>\xf4\xc4@\x92a\x82\x820O@i\xa3\x06V'\xa9=*\xda\xd8\xec\x90\xa9\x93$s\x9cPlI9\xde\x07\xd0P4V\x94\xeepA=;\xd1W\xa3\xb5\x01\xc6\xe6\xc9\x034R\xb0\xcf"}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 240, 'size': 43334}, {'_': 'PhotoSize', 'type': 'x', 'w': 800, 'h': 600, 'size': 273311}, {'_': 'PhotoSize', 'type': 'y', 'w': 1200, 'h': 900, 'size': 483499}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, {'_': 'Photo', 'id': 5928329391891392858, 'access_hash': 4758905848244057215, 'file_reference': b'\x00b\xdd\x9d<u\x87\xf1\xc8\x9c4\x9d\xa5\x978\xa9\xda8\x0f\x8a\x80', 'date': datetime.datetime(2019, 8, 5, 12, 26, 13, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b"\x01\x1e(\xab\xd3\x00\xf1\xc0\xfc\xaake\x0f+4\x99UQ\x92W\xa9\xcf\xf9\x15\x0b\x82H\x18\xe7\x03\xfc*H\xc9O\x98psR2\xfa+B\xbb\x89Ua\xf7T\x9e\x94\x8f}\xf2\xfd\xd1\xb8\xfa\xd5\x06ws\x92I&\x9b\x86'\x18\xa7q\x16$\xbf\x93!\x86\x01\x1e\x9d(\xa8\x04\\\xfc\xc7\xf0\x14R\xb8\xc4b\xc4\x0e\xc0S|\xd223\xc59X\x9f\x97\xd3\xa5'\x96\x1b8\xe3'\x14\xae\x01\xe6\xe7\xad?9M\xd9\xe4UPH|T\x8a\xd9\x85\xbd\x8d1\x0eg`\xe7\x1dE\x15\x16\xec\xbf\xe3E\x16\x03"}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 240, 'size': 39323}, {'_': 'PhotoSize', 'type': 'x', 'w': 800, 'h': 600, 'size': 250428}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, {'_': 'Photo', 'id': 5801907635124021488, 'access_hash': 4368376517525952677, 'file_reference': b'\x00b\xdd\x9d<\x947\xa1\x149\xab\x92"t\xae\xa0uj\xf5\xd8\n', 'date': datetime.datetime(2019, 3, 18, 10, 33, 40, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01(\x1bb\x05\xc8\x04d\xd3\x9e1\xd4\x0e\x94\x9d\x14\xfa\x92\x058\x07\xe3#\x83\xd7\x9a\xe8oS\x12\x18]\xbc\xcc7!\xa8h\x97q\xe3\xbf\xad\x11\x0c\xb8\xf6\xe6\x9e\xdfx\xd5A\\R\xd1\xe8>X\xdf\xcb,\x07\xcb\xc1&\x84#\x1f/J\xb2\xac\x1d\x02\x83\x91\xd0\xd5W\xc2\x12\x18\xe3\x1e\xb5\xce\xa5\xcd#f\xac\x88\x94\x11+b\xa4c\xf3\x1aKq\xe7\xb4\xa5\x18\x1d\xb8>\x99\xf5\xa6\xb1*\xc4\x11\x82+hI\x19\xb8\x8f(\xea\x1eH\xa5*z\xed\xc7\x15\x9f,\xd2\xce\xd9\x91\xb2h\xa2\xb9V\xa6\xc2F\xd2D\xc1\xe3b\xadZ\x82\xe1\xc8\x06H\x94\xbe99\xa2\x8a\xd2\n\xe4\xc9\xd8'}, {'_': 'PhotoSize', 'type': 'm', 'w': 212, 'h': 320, 'size': 19886}, {'_': 'PhotoSize', 'type': 'x', 'w': 332, 'h': 500, 'size': 40603}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, {'_': 'Photo', 'id': 6040732383994555610, 'access_hash': -1594292555523229103, 'file_reference': b'\x00b\xdd\x9d<\xbe\x1a\xb4\xf2\xfeu5e\x87w\x18\x9cN:AG', 'date': datetime.datetime(2021, 10, 28, 8, 22, 26, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b"\x01\x1e(\xb1\x1d\xe9X@\xc0\xc8\xefLk\xc7'95Ad \xe3\xb1\xe9O$\xd2\xb8\x8b\x82\xe5\x89\xce\xf6\x07\xebN\xfbl\xa3\xf8\x81\xfc*\x81l\x0e\xb5\x1f\x98s\xd6\x8b\x81\xac\x97\xe7\xf8\x94\x1f\xa5\x15\x93\xe6\x1d\xdcQE\xc6\n\x929\xc8\x1f\x9dJ\x91H8%qV\x05:\xa0\n\xc6\xd9\xc8##\xf1\xedM\x16\x8e3\xca\xd5\xce\xb4\x0e(\xbb\x02\x98\xb4\x91Nr\r\x15sq\xa2\x8b\x81"}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 240, 'size': 28116}, {'_': 'PhotoSize', 'type': 'x', 'w': 800, 'h': 600, 'size': 187017}, {'_': 'PhotoSize', 'type': 'y', 'w': 1200, 'h': 900, 'size': 318510}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}], 'documents': [], 'part': False, 'rtl': False, 'v2': False, 'views': None}, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 71, 'length': 54}]
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-24 14:47:20+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42960
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 14:04:27+00:00
+message : Ну тогда единтсвеные существующие в природе сущности - это кварки, лептоны и фотоны. Потому что все остальное- это их комбминации и взаимодействия....
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 250377867}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 8, 'replies_pts': 71682, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': 42983, 'read_max_id': None}
+edit_date : 2022-07-24 14:35:59+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42959
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 13:55:10+00:00
+message : Он под несуществующими подразумевает сущности более высокого порядка, которые возникают при взаимодействии простых, т.е. он имеет ввиду, что это не новая сущность, а совокупность старых, как я понимаю
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 2095800903}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42958, 'reply_to_peer_id': None, 'reply_to_top_id': None}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-24 13:55:27+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42958
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 13:29:09+00:00
+message : Не очень понял о чем это замечание. О каких несуществующих сущностях речь?
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 250377867}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 1, 'replies_pts': 71682, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': 42959, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42957
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 13:27:41+00:00
+message : У людей давняя традиция - придумывать несуществующие сущности, например, см. Легенды и мифы древней Греции. Впрочем, это тоже алгоритм, который реализуется в рамках AGIFA.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 504937131}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42956, 'reply_to_peer_id': None, 'reply_to_top_id': 42951}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42956
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 13:15:32+00:00
+message : Если бы работа мозга объяснялась химическими реакциями, то не было бы психологии, была бы одна химия. Или даже ядерная физика - так как все из элементарных частиц... 
+Это также как сводить демонстрацию какого-то фильма на ноуте к матлогике - ведь он полностью основан на логических операциях над битами.
+Впрочем, я тривиальные вещи говорю...
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 250377867}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42954, 'reply_to_peer_id': None, 'reply_to_top_id': 42951}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-24 13:16:26+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42955
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 12:54:31+00:00
+message : Тут небольшое пояснение. Я не знаю, есть ли смысл втыкать внутрь машины Тьюринга именно рандом, если мы хотим еë использовать как предсказательную черноящичную модель.
+Но можно на выходе МТ давать не одно число, а вероятностное распределение. Это и будет способ учесть рандом в реальном процессе (или то, что есть неизвестные переменные, что для нас тот же рандом)
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 394199355}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42953, 'reply_to_peer_id': None, 'reply_to_top_id': 42952}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42954
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 12:28:24+00:00
+message : Я выше рисовал схему - на уровне химических реакций самые обыкновенные алгоритмы. Всё что выше по уровню сложности - строится из них.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 504937131}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42951, 'reply_to_peer_id': None, 'reply_to_top_id': None}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42953
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 12:27:18+00:00
+message : рандом тоже алгоритм)
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 2095800903}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42952, 'reply_to_peer_id': None, 'reply_to_top_id': None}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-24 16:26:59+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42952
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 12:24:42+00:00
+message : Есть другой подход к алгоритмам.
+Существуют разные классы моделей кусков реальности. Например, есть вектор-функция: на входе вектор, на выходе вектор. Через такую вектор-функцию мы может проводить классификацию картинок, например. Но временной ряд уже не продолжим, без дополнительных хаков.
+Есть конечный автомат. Можно подобрать конечный автомат для прогноза временного ряда, то есть по факту для динамического прогноза мира. Но конечным автоматом часть задач не решаются - например, если вы сделаете конечный автомат, который предсказывает результат сортировки массива, то есть размер будет нелинейно зависеть от размера массива. То есть через LSTM-сеть нельзя точно прогнозировать мир, в котором есть сортировщики массивов, либо это нужна слишком огромная сеть.
+А есть алгоритм. Это тот же конечный автомат, только ещё с лентой. Это самый универсальный класс моделей, что у нас есть. Наверное, шире только алгоритм+рандом.
+
+Утверждение "нечто=алгоритм" не означает, что там есть лента. А означает, что мы можем подобрать алгоритм, который будет предсказывать оцифрованные наблюдения этого "нечто" по прошлым оцифрованным наблюдениям этого же "нечто" плюс его окружения. С этой точки зрения система из двух тел с действующей силой тяготения - это алгоритм (или эквивалентно некоторому алгоритму), мозг действует по алгоритму. Да всё, что угодно, что можно как-то предсказать, действует по алгоритму (+рандому) - до тех пор, пока мы не откроем более широкий класс вычислителей, вроде свертьюринговских машин. Тогда да, можно будет сказать, что нечто не эквивалентно алгоритму+рандому
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 394199355}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 6, 'replies_pts': 71682, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': 42966, 'read_max_id': None}
+edit_date : 2022-07-24 12:37:34+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42951
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 12:04:42+00:00
+message : а где там все это есть?
+где эта лента, это считыватель-записыватель?
+где процессор, где память, где шина данных/инструкций?
+Вы правда знаете, где там все это есть?
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 250377867}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 4, 'replies_pts': 71682, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': 42961, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42950
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 11:56:36+00:00
+message : Всё там есть. Шаблоны мышления не позволяют увидеть то, что лежит на поверхности.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 504937131}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42946, 'reply_to_peer_id': None, 'reply_to_top_id': None}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42948
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 11:41:11+00:00
+message : да, так пожалуй, будет вернее...
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 250377867}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 71682, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42947
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 11:39:55+00:00
+message : Можно использовать "логика работы мозга", "закономерности работы мозга" и множество других слов без излишних ассоциаций.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 418198604}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42946, 'reply_to_peer_id': None, 'reply_to_top_id': None}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-24 11:40:09+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42946
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 11:24:37+00:00
+message : Все так... но меня несколько коробит выражение "алгоритмы работы мозга". Алгоритмы - сразу вызывают ассоциации с машиной Тьюринга, фоннеймановской архитектурой и т.д. В мозге ничего похожего, по всей видимости, нет...
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 250377867}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 2, 'replies_pts': 71682, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': 42950, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42945
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 11:19:20+00:00
+message : Программисты были в кавычках, так как под ними подразумевались люди, которые рассматривают психологию как алгоритмы мозга человека. И для которых психологические тесты интересны в первую очередь с точки зрения АГИ, а не своей психики.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 418198604}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42944, 'reply_to_peer_id': None, 'reply_to_top_id': 42854}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-24 11:29:15+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42944
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 11:13:26+00:00
+message : здесь больше теоретиков и философов, которые умеют программировать(что != программистам)
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 2095800903}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42943, 'reply_to_peer_id': None, 'reply_to_top_id': 42854}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42943
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 11:09:34+00:00
+message : По идее, это группа как раз для "программистов", которые пытаются найти алгоритм работы мозга. Странно, что таких здесь не большинство))
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 418198604}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42942, 'reply_to_peer_id': None, 'reply_to_top_id': 42854}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-24 16:58:02+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42942
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 10:43:09+00:00
+message : Удивительная история) Такое впечатление, что многие не понимают что такое "психологический текст". Таковой предполагает, что ответ надо дать здесь и сейчас, и ответом должно быть первое, что приходит в голову.  Никакого правильного ответа тут быть не может. Хотя, если посмотреть шире, то из прохождения  теста в сообществе можно сделать вывод, что испытуемые разделились на три группы: (1) с европейским типом мышления, ориентированным на классификацию, (2) с восточным типом мышления, обращающем  внимание прежде всего на связи в деятельности, и (3) программисты, которые пытаются найти алгоритм решения задачи (даже там, где ее - задачи - нет).
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 130121130}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42939, 'reply_to_peer_id': None, 'reply_to_top_id': 42854}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-24 11:58:03+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42941
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 09:00:26+00:00
+message : Настоящий самостоятельный АГИ должен мочь ответить, что ему это не интересно, так как не помогает выполнять его задачи. Но если задача АГИ в развлечении/удовлетворении человека, то можно выбрать любой вариант и даже придумать развлекательную сказку почему именно такой выбор. Сложной мотивацией АГИ и будет отличаться от простого чатбота.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 418198604}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42939, 'reply_to_peer_id': None, 'reply_to_top_id': 42854}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-24 11:10:39+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42940
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 07:06:20+00:00
+message : ... или дать ответ в текущем конесте или ...
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 302910826}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42939, 'reply_to_peer_id': None, 'reply_to_top_id': 42854}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 42939
+peer_id : {'_': 'PeerChannel', 'channel_id': 1195482130}
+date : 2022-07-24 06:29:47+00:00
+message : Предполагается что должен быть дан однозначный ответ на тест корова, курица, трава. Но как мне видится AGI должен дать не ответ, а поставить новый вопрос для получения информации и выяснения контекста. То есть в ситуации, когда вероятность классов, количество и сила связей между вариантами ответа приблизительно одинакова, то от человека и от AGI в норме ожидается постановка дополнительных вопросов для уменьшения неопределённости.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 168296620}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 42855, 'reply_to_peer_id': None, 'reply_to_top_id': 42854}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-24 07:05:47+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
