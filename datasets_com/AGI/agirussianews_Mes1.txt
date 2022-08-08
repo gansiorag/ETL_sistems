@@ -1,0 +1,599 @@
+<============================>
+_ : Message
+id : 662
+peer_id : {'_': 'PeerChannel', 'channel_id': 1204700902}
+date : 2022-08-02 14:36:00+00:00
+message : Шумский С.А.
+
+Презентация семинара «Мозг и язык: индексация смыслов»
+
+Аудиозапись семинара «Мозг и язык: индексация смыслов»
+
+Шумский С.А. Мозг и Язык: Гипотеза о строении «органа языка»
+
+(можно скачать)
+https://social.hse.ru/soc/structanalysis/presentations/index.html
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : {'_': 'MessageFwdHeader', 'date': datetime.datetime(2022, 7, 30, 14, 59, 22, tzinfo=datetime.timezone.utc), 'imported': False, 'from_id': {'_': 'PeerUser', 'user_id': 938994515}, 'from_name': None, 'channel_post': None, 'post_author': None, 'saved_from_peer': None, 'saved_from_msg_id': None, 'psa_type': None}
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 6751995071129116964, 'url': 'https://social.hse.ru/soc/structanalysis/presentations/index.html', 'display_url': 'social.hse.ru/soc/structanalysis/presentations/index.html', 'hash': 0, 'type': 'article', 'site_name': 'social.hse.ru', 'title': 'Материалы и презентации научно-учебной группы', 'description': None, 'photo': {'_': 'Photo', 'id': 5800066081996516192, 'access_hash': 6279224450823871936, 'file_reference': b'\x00b\xe9E\xd1q5*F\xd2\xc5\x93\x01\xff\xe6\x12&\xb4\xc6\xad,', 'date': datetime.datetime(2020, 10, 20, 7, 38, 50, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b"\x01\x15(\xa9\x9a\x07'\x02\x9b\x9aT?75\xd8s\x92l8\xcf8\xf5\xc7\x14\xc3\xc5NY~\xcf\xb3q\xdd\xb7\x18\xff\x00\x81\x13U\xdc\xfc\xd4\x93\x1bB\xe6\x8anh\xa6!\xb4QE\x03\x17q\xe9\x93IE\x14\x00QE\x14\x01"}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 167, 'size': 7684}, {'_': 'PhotoSize', 'type': 'x', 'w': 470, 'h': 246, 'size': 14421}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 204, 'length': 65}]
+views : 77
+forwards : 1
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 72952, 'comments': True, 'recent_repliers': [], 'channel_id': 1195482130, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-08-02 14:36:03+00:00
+post_author : Anton Kolonin
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 661
+peer_id : {'_': 'PeerChannel', 'channel_id': 1204700902}
+date : 2022-08-01 08:00:14+00:00
+message : Похоже, Narrow AGI для автономного ударного дрона (из категории "lethal autonomous weapons systems" или LAWS) это наиболее перспективное применение "суммы технологий" 🥲🥲🥲 https://novoeizdanie.com/v-polshe-hotyat-sozdat-dolinu-dronov-konczepcziyu-predstavil-eks-direktor-czru/
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 8023180783734125160, 'url': 'https://novoeizdanie.com/v-polshe-hotyat-sozdat-dolinu-dronov-konczepcziyu-predstavil-eks-direktor-czru/', 'display_url': 'novoeizdanie.com/v-polshe-hotyat-sozdat-dolinu-dronov-konczepcziyu-predstavil-eks-direktor-czru', 'hash': 0, 'type': 'article', 'site_name': 'Новое Издание', 'title': 'В Польше хотят создать «Долину дронов»: концепцию представил экс-директор ЦРУ | Новое Издание', 'description': 'Идею создания локации беспилотников обговорили представители США, Польши и Украины. В Польше могут создать локацию БПЛА для ускорения инноваций в этой области в пользу Варшавы…', 'photo': {'_': 'Photo', 'id': 5986621237788520094, 'access_hash': -5870364635043922010, 'file_reference': b'\x00b\xe9E\xd1d\x10?\xe8\xca\x91;W\x9e\x85\x88\xdc\x86\xceR\xd7', 'date': datetime.datetime(2022, 7, 27, 15, 14, 6, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x17(\xbd.\xc6\xc3\x11\xcdA!\xfd\xd8\xd8\x80\x90j\xc6\xfc\x9c\x18\xb1\xf8\xd5Y\xed@\x8f\x11\x97_\xa3u\xa6"\xbbO\x08\x94\xa1$\x1fqK\xb8\x126\xf3\x9fJK[B\x18\xb4\xbf{\xb8nj\xca\xc7\xb1\x02\xfat\xfaU\xa6\xc9h\x80\xa5\x151Z*\xae+\x13\x89\x14\x1c\x82i\xdf\x7f\xbd\x14V;\x1a\x0c.\xa0\xe3\x9a2\xa4f\x8a)\x8a\xc4o*)\xc5\x14Q@\x1f'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 181, 'size': 11759}, {'_': 'PhotoSizeProgressive', 'type': 'x', 'w': 478, 'h': 270, 'sizes': [2312, 5792, 8574, 12144, 18856]}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 174, 'length': 104}]
+views : 138
+forwards : 3
+replies : {'_': 'MessageReplies', 'replies': 5, 'replies_pts': 72952, 'comments': True, 'recent_repliers': [{'_': 'PeerUser', 'user_id': 5277945934}, {'_': 'PeerUser', 'user_id': 302910826}, {'_': 'PeerUser', 'user_id': 414651841}], 'channel_id': 1195482130, 'max_id': 43731, 'read_max_id': None}
+edit_date : 2022-08-01 08:00:17+00:00
+post_author : Anton Kolonin
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 660
+peer_id : {'_': 'PeerChannel', 'channel_id': 1204700902}
+date : 2022-07-29 18:07:38+00:00
+message : Кстати, о пчелах: https://lenta.ru/news/2022/07/29/pain/
+Оказалось, что шмели в ответ на неприятные стимулы реагируют аналогично животным, для которых известно, что они способны чувствовать боль и дискомфорт. Результаты исследования опубликованы в журнале Proceedings of the National Academy of Sciences (PNAS).
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 18, 'length': 38}]
+views : 154
+forwards : 1
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 72952, 'comments': True, 'recent_repliers': [], 'channel_id': 1195482130, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-29 18:08:21+00:00
+post_author : Anton Kolonin
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 659
+peer_id : {'_': 'PeerChannel', 'channel_id': 1204700902}
+date : 2022-07-29 14:49:16+00:00
+message : https://www.youtube.com/watch?v=Hlld3ZJO6iw
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 1503448449410846694, 'url': 'https://www.youtube.com/watch?v=Hlld3ZJO6iw', 'display_url': 'youtube.com/watch?v=Hlld3ZJO6iw', 'hash': 0, 'type': 'video', 'site_name': 'YouTube', 'title': 'Когнитивная архитектура на основе принципов обработки информации ... — Антон Колонин —Семинар AGI', 'description': 'Когнитивная архитектура на основе принципов обработки информации мозгом и задачного подхода — Антон Колонин\nСеминар русскоязычного сообщества AGI\n28 июля 2022\n\nhttps://arxiv.org/abs/2206.03487\nhttps://arxiv.org/abs/2204.07919\n\nhttps://agirussia.org/\nМы ведем группы и организуем семинары русскоязычного сообщества разработчиков систем AGI (Artificial General Intelligence или Общий Искусственный Интеллект) или Strong AI (Сильный Искусственный Интеллект), а также - являющийся их частным случаем HLAI (Human-Level Artificial Intelligence или Искусственный Интеллект Человеческого Уровня).\n\nГруппы:\nhttps://t.me/agirussianews (новостной канал)\nhttps://t.me/agirussia (основная)\nhttps://t.me/agiterms (вопросы терминологии)\nhttps://t.me/agibots (разговорный интеллект)\nhttps://t.me/agifintech (финансовые технологии)\nhttps://t.me/collectivei (коллективный интеллект)\nhttps://vk.com/agirussia\nhttps://www.facebook.com/groups/agirussia (основная)\nhttps://www.facebook.com/groups/socialintelligence (коллективный интеллект)\nhttps://groups.google.com/g/agirussia\n\nОнлайн-семинары идут по четвергам, в 18:00 по Московскому времени. Продолжительность два часа, обычно это либо доклад на один-полтора часа и последующее обсуждение на полчаса-час либо круглый стол с регламентом на усмотрение модератора дискуссии. Технические средства проведения, регламент и модерацию обычно обеспечивает инициатор конкретного семинара либо спикер и его коллеги.\n\nРегистрация на семинары (внизу страницы):\nhttps://aigents.timepad.ru/event/1412596\n\nПрограмма следующих семинаров:\nhttps://agirussia.org/workshops.html', 'photo': {'_': 'Photo', 'id': 5991115929653718643, 'access_hash': 66333972481680327, 'file_reference': b'\x00b\xe9E\xd1\xc0\xdc\x03\xafT\xb6\xabw\x8eNt\x8eI\xda\xc7\xe1', 'date': datetime.datetime(2022, 7, 29, 15, 26, 54, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x1e(i\xd1\x95O\xcd3\x0f\xf8\x08\xff\x00\x1aO\xecd\xff\x00\x9f\x83\xff\x00|\x8f\xf1\xad\xa7\xdd\xfc ~4\xdc\xb0\x1c\xa8\xa0\x0c\x7f\xecu\xed9\xfc\x87\xf8\xd2\x7fc\xa7k\x82\x7f\x01\xfe5\xb3\xb8\x8e\xa0P\x15\xc3rF>\x94\x01\x90\xba2\xb7\xdd\x9d\xbf\xef\x91\xfe4V\xd6Tw\x14P\x03\x1a"[;\x8d5\xb6\x8e2I\xae|j\xb7\x83\xa4\x83\xfe\xf9\x14\xbf\xda\xd7\x99\xff\x00X?\xef\x91@\x1d\x03\x0c(-Aq \xda\xbd\xeb\x9f\xfe\xd7\xbc\xff\x00\x9e\xa3\xfe\xf9\x14\x7fk^\x7f\xcfQ\xff\x00|\x8a\x00\xdfXy%\xb1\xf4\x14W>uk\xc3\xff\x00-G\xfd\xf2(\xa5a\xdc'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 240, 'size': 19553}, {'_': 'PhotoSize', 'type': 'x', 'w': 480, 'h': 360, 'size': 31825}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': 'https://www.youtube.com/embed/Hlld3ZJO6iw', 'embed_type': 'iframe', 'embed_width': 480, 'embed_height': 360, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 0, 'length': 43}]
+views : 676
+forwards : 7
+replies : {'_': 'MessageReplies', 'replies': 1, 'replies_pts': 72952, 'comments': True, 'recent_repliers': [{'_': 'PeerUser', 'user_id': 302910826}], 'channel_id': 1195482130, 'max_id': 43551, 'read_max_id': None}
+edit_date : 2022-07-29 14:49:19+00:00
+post_author : Anton Kolonin
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 657
+peer_id : {'_': 'PeerChannel', 'channel_id': 1204700902}
+date : 2022-07-28 13:18:57+00:00
+message : Рекомендуется к прочтению: https://arxiv.org/abs/2003.13350
+Atari games have been a long-standing benchmark in the reinforcement learning (RL) community for the past decade. This benchmark was
+proposed to test general competency of RL algorithms. Previous work has achieved good average performance by doing outstandingly well
+on many games of the set, but very poorly in
+several of the most challenging games. We propose Agent57, the first deep RL agent that outperforms the standard human benchmark on all
+57 Atari games. To achieve this result, we train a
+neural network which parameterizes a family of
+policies ranging from very exploratory to purely
+exploitative. We propose an adaptive mechanism
+to choose which policy to prioritize throughout
+the training process. Additionally, we utilize a
+novel parameterization of the architecture that allows for more consistent and stable learning.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 27, 'length': 32}]
+views : 150
+forwards : 4
+replies : {'_': 'MessageReplies', 'replies': 10, 'replies_pts': 72952, 'comments': True, 'recent_repliers': [{'_': 'PeerUser', 'user_id': 992851216}, {'_': 'PeerUser', 'user_id': 2095800903}, {'_': 'PeerUser', 'user_id': 394199355}], 'channel_id': 1195482130, 'max_id': 43465, 'read_max_id': None}
+edit_date : 2022-07-28 13:28:25+00:00
+post_author : Anton Kolonin
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 656
+peer_id : {'_': 'PeerChannel', 'channel_id': 1204700902}
+date : 2022-07-26 06:00:22+00:00
+message : Коллеги, помните вопрос об автоматизации процесса выявления числа "мод" в распределении? Я задачу (для своих задач) решил и поделюсь результатом и смогу рассказать на одном из ближайших семинаров. Но, прежде всего, хотелось бы с с вашей помощью оценить адекватность "решения" - от каждого из вас требуется только 5 минут и 20 кликов, чтобы пройти этот опросник: https://docs.google.com/forms/d/e/1FAIpQLSeFQDd8Q33FgZvfR7NHFYrSpk4NElWSxRKAuzhQOrhM8D-FHQ/viewform?usp=sf_link
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaDocument', 'document': {'_': 'Document', 'id': 5402194458861116153, 'access_hash': -2433871257773236890, 'file_reference': b'\x02G\xceF\xe6\x00\x00\x02\x90b\xe9E\xd1\x9b\xb7\xce\x18J\xa3\xea}\xdb^\xb5`,\xf2_\x1f', 'date': datetime.datetime(2022, 7, 26, 6, 0, 22, tzinfo=datetime.timezone.utc), 'mime_type': 'image/png', 'size': 88628, 'dc_id': 2, 'attributes': [{'_': 'DocumentAttributeImageSize', 'w': 1976, 'h': 476}, {'_': 'DocumentAttributeFilename', 'file_name': 'M-P.png'}], 'thumbs': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\n(\xd5icFUf\x00\x9e\x82\x9c\xce\xa82\xc4\x0f\xad\x04\x0c\xf4\x14\xac\x06:S\x10\xd1"\x14\x0f\x91\xb4\xf7\xa3\xccRYA\x19^\xb4\xec\x0ct\x14\x00=\x05 \x1a\xce\x00_z)\xd8\x1e\x94P3'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 77, 'size': 5295}], 'video_thumbs': []}, 'ttl_seconds': None}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 362, 'length': 111}]
+views : 176
+forwards : 2
+replies : {'_': 'MessageReplies', 'replies': 12, 'replies_pts': 72952, 'comments': True, 'recent_repliers': [{'_': 'PeerUser', 'user_id': 160630665}, {'_': 'PeerUser', 'user_id': 146434732}, {'_': 'PeerUser', 'user_id': 302910826}], 'channel_id': 1195482130, 'max_id': 43267, 'read_max_id': None}
+edit_date : 2022-07-26 06:00:25+00:00
+post_author : Anton Kolonin
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 655
+peer_id : {'_': 'PeerChannel', 'channel_id': 1204700902}
+date : 2022-07-25 13:18:35+00:00
+message : Когнитивная архитектура на основе принципов обработки информации мозгом и задачного подхода — Антон Колонин, 28 июля 2022 18:00-20:30 (время Московское) 
+https://aigents.timepad.ru/event/1412596/
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 5221846781886631003, 'url': 'https://aigents.timepad.ru/event/1412596/', 'display_url': 'aigents.timepad.ru/event/1412596', 'hash': 0, 'type': 'article', 'site_name': 'aigents.timepad.ru', 'title': 'Семинар русскоязычного сообщества AGI / События на TimePad.ru', 'description': 'AI Dog — это проект по созданию сильного ИИ с эмоциями &#151; Захар Понимаш\n21 июля 2022 18:00-20:30 (время Московское)', 'photo': {'_': 'Photo', 'id': 5968570289107348364, 'access_hash': -6302084269537444401, 'file_reference': b'\x00b\xe9E\xd1\xb3Y\xfe\x17\xda\x81\xab\xe2P\xe4 \x1c\xd6\xe6\xefm', 'date': datetime.datetime(2020, 9, 10, 19, 48, 31, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x0f(\xcc\x0e\x0f\x0c\x07\xd6\x9e"V\xeaqPS\x91\x8a0a\xd4V\xa2\xb7b\xfbZ\xc1\xe4\xfc\xb9\r\xd3\x9fZ\xa4`|\x12\x98|pqV\xdfRg\x8bn\xd2\x1b\x18\xcej\x14\xba\xf2\xe3\n\x17\x90y\xe7\xad-FV\xc6:\xd1V\xd6d\x98\xedq\xc9\xe0g\x9a)\x85\xcf'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 122, 'size': 10495}, {'_': 'PhotoSize', 'type': 'x', 'w': 800, 'h': 304, 'size': 42253}, {'_': 'PhotoSize', 'type': 'y', 'w': 820, 'h': 312, 'size': 43459}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 91}, {'_': 'MessageEntityUrl', 'offset': 154, 'length': 41}]
+views : 1166
+forwards : 22
+replies : {'_': 'MessageReplies', 'replies': 3, 'replies_pts': 72952, 'comments': True, 'recent_repliers': [{'_': 'PeerUser', 'user_id': 150242219}, {'_': 'PeerUser', 'user_id': 250377867}, {'_': 'PeerUser', 'user_id': 302910826}], 'channel_id': 1195482130, 'max_id': 43423, 'read_max_id': None}
+edit_date : 2022-07-25 13:18:38+00:00
+post_author : Anton Kolonin
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 666
+peer_id : {'_': 'PeerChannel', 'channel_id': 1204700902}
+date : 2022-08-07 16:36:03+00:00
+message : https://3dnews.ru/1071216/iskusstvenniy-intellekt-predskazal-strukturi-pochti-vseh-izvestnih-nauke-belkov-eto-nachalo-novoy-eri-v-tsifrovoy-biologii
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 2198666504331361646, 'url': 'https://3dnews.ru/1071216/iskusstvenniy-intellekt-predskazal-strukturi-pochti-vseh-izvestnih-nauke-belkov-eto-nachalo-novoy-eri-v-tsifrovoy-biologii', 'display_url': '3dnews.ru/1071216/iskusstvenniy-intellekt-predskazal-strukturi-pochti-vseh-izvestnih-nauke-belkov-eto-nachalo-novoy-eri-v-tsifrovoy-biologii', 'hash': 0, 'type': 'photo', 'site_name': '3DNews - Daily Digital Digest', 'title': 'Искусственный интеллект предсказал структуры почти всех известных науке белков — это начало новой эры в цифровой биологии', 'description': 'Год назад компания DeepMind вызвала ажиотаж сообщением о способности раскрыть главную загадку в биологии — предсказать структуру любого белка.', 'photo': {'_': 'Photo', 'id': 5993465633246916144, 'access_hash': -1586147099676069058, 'file_reference': b'\x00b\xf0\x8a\xa8\xed>\x9a\x99\xc2\xf7F\xf4\xbbw\x9b\xcd\x13\xc9r\x89', 'date': datetime.datetime(2022, 7, 30, 10, 4, 48, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x18(\xd3iv\xcb\xb0\x8c\x9221O\xc8+\x91H\xc1\x01\x0e\xc0e{\xd2\xab\x07PT\xe4\x1ab\x19\x1b\xe7\x86?5:V)\x1b0\xea)0\x8e\xf9\x1dV\x9e@`A\xe8h\x00\xa2\x9a\x17\x07\xef\x93\xech\xa4\x01\xb0\x1e\xa34\xaa\xa1W\x02\x8a)\x80\x84\x1f0\x1e\xd8\xa5 \x9e\x87\x14QH\x06\xac@\x1c\x92I\xf7\xa2\x8a)\x81'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 197, 'size': 11611}, {'_': 'PhotoSizeProgressive', 'type': 'x', 'w': 750, 'h': 461, 'sizes': [3329, 8965, 20213, 28087, 43167]}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 0, 'length': 148}]
+views : 105
+forwards : 1
+replies : {'_': 'MessageReplies', 'replies': 1, 'replies_pts': 73309, 'comments': True, 'recent_repliers': [{'_': 'PeerUser', 'user_id': 414651841}], 'channel_id': 1195482130, 'max_id': 43910, 'read_max_id': None}
+edit_date : 2022-08-07 16:36:06+00:00
+post_author : Anton Kolonin
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 665
+peer_id : {'_': 'PeerChannel', 'channel_id': 1204700902}
+date : 2022-08-05 13:59:59+00:00
+message : https://youtu.be/SVLl-b6oLVs
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : {'_': 'MessageFwdHeader', 'date': datetime.datetime(2022, 8, 5, 12, 56, 1, tzinfo=datetime.timezone.utc), 'imported': False, 'from_id': None, 'from_name': 'Alex', 'channel_post': None, 'post_author': None, 'saved_from_peer': None, 'saved_from_msg_id': None, 'psa_type': None}
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 5127856302209973751, 'url': 'https://youtu.be/SVLl-b6oLVs', 'display_url': 'youtube.com/watch?v=SVLl-b6oLVs', 'hash': 0, 'type': 'video', 'site_name': 'YouTube', 'title': 'Нежелательные побочные эффекты. Как создать безопасный ИИ? #1 [Robert Miles]', 'description': 'Если вы в России: https://boosty.to/vertdider\nЕсли вы не в России: https://www.patreon.com/VertDider\n\nИскусственный интеллект может создать кучу проблем, и лишь недавно мы всерьез задумались о том, как этого избежать. Восстание машин и истребление всего человечества мы оставим научным фантастам, а вот о проблемах меньшего масштаба расскажет исследователь ИИ Роберт Майлс в серии видео о том, как можно сделать ИИ безопасным. Нам они понравились, надеемся, что вам тоже. Приятного просмотра!\n\nОтдельная благодарность за выход перевода Михаилу Самину.\n\nПеревод: Олег Сивченко\nРедактура: Алексей Малов\nНаучная редактура: Михаил Самин\nОзвучка: Станислав Черсков\nМонтаж звука: Андрей Фокин\nМонтаж видео: Джон Исмаилов\nОбложка: Андрей Гавриков\n\nСпасибо за поддержку на https://www.patreon.com/VertDider и https://boosty.to/vertdider\nОзвучки Vert Dider выходят с вашей помощью:\n\nСергей Платоненко, Мария Зверева, Адам Шифф, Rashn, Roman Gelingen, Сергей Клопов, Sonra44, Anton G, Vadim, Rekvet, Timophey Popov, Timur Rahmatulin, Адам Шифф, Илья Зверев, Никита Омельницкий, Nick Denizhenko, Pavel Dunaev, Mikhail Stolpovskiy, Sergey Zhukov, Amir, Куляш, Ника Калмыкова, Oleg Zingilevskiy, Anton Bolotov, Pavel Parpura, Dmitrii komarevtsev, Illarion Petrov, Михаил Самин, Andrei Lubalin, Vitaliy Vachynyuk, Alena, Roman Inflianskas, Katoto Chan, opperatius, Aleksandr P., Mykola Korniichuk, angel, Dzmitryi Halyava, Nastya, Artem Amirbekov, Aleksei Shabalin, Ihar Marozau, Kirill Zaslavskii, Victor Cazacov, Alexander Balynskiy, David Malko, POD666, Evgeny Vrublevsky, Stanislav Obrazcoff, Morock_D, Timur Sattarov, Валентин Матвейчик, Александр Фалалеев, Leonid Steinberg, Ilya, Vladyslav Sokolenko, Kseniya Stukova, Oleksandr Hrebeniuk, Katya Ma, Alexander Goida, Irina Shakhverdova, Sergey P, Kirill Vedensky, Vadim Velicodnii\n\n#VertDider #RobertMiles \n\nСайт студии: http://vertdider.tv\n\nМы в социальных сетях:\n— http://vk.com/studio_vd\n— https://t.me/vertdider\n— https://twitter.com/Vert_Dider\n— http://coub.com/vertdider\n\nИсточник: https://youtu.be/lqJUIqZNzP8', 'photo': {'_': 'Photo', 'id': 6009419521196142183, 'access_hash': 4356386326587651817, 'file_reference': b'\x00b\xf0\x8a\xa8l\x16\xd4\xd6\x18\\\xbd\xfa)8\x1d\xc7\xe9\xe6*\xef', 'date': datetime.datetime(2022, 8, 4, 17, 5, 13, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x17(\xcey\x0c\x84\x000(\x96\x13\x16\xd3\x90A\xef\x8aX\xa2\xde\x99\xcf=\xaay\xa1\xdf\xf3!8\x03\xbfz\xdbq6VH\x9aL\xed\x19\xc5M\xe5\xce:\xc7\x93\xf5\xa9-\x1e\x15\x89\x84\x98\xdc\xc4\x0e\x9d\x07\x7f\xe7\xfaQq4d\xc9\xb5F\xc7#\x8cr;\x9e\xde\xb4s5\xb0\xca\xed#\xa3\x15 \x02(\xa6\xc8\xc8\xcf\xf2&\xc1\xe9\x9a)\xf3\xcb\xb8\x12\xc2G\x96\xa3\xa1\xa9\xd2e\xdf\xe5\x14$\xd1EH\x8a\xac\x0clH\xc1\x14\x8a\xee\xcd\xc0\x14QV\xd2\xe6\xb0\xec;\xca\xe7$\xe3\xe9E\x14V\xdc\x91('}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 180, 'size': 19525}, {'_': 'PhotoSize', 'type': 'x', 'w': 800, 'h': 450, 'size': 85678}, {'_': 'PhotoSize', 'type': 'y', 'w': 1280, 'h': 720, 'size': 143113}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': 'https://www.youtube.com/embed/SVLl-b6oLVs', 'embed_type': 'iframe', 'embed_width': 1280, 'embed_height': 720, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 0, 'length': 28}]
+views : 138
+forwards : 3
+replies : {'_': 'MessageReplies', 'replies': 41, 'replies_pts': 73309, 'comments': True, 'recent_repliers': [{'_': 'PeerUser', 'user_id': 160630665}, {'_': 'PeerUser', 'user_id': 138602604}, {'_': 'PeerUser', 'user_id': 565875641}], 'channel_id': 1195482130, 'max_id': 43828, 'read_max_id': None}
+edit_date : 2022-08-05 14:00:02+00:00
+post_author : Anton Kolonin
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 664
+peer_id : {'_': 'PeerChannel', 'channel_id': 1204700902}
+date : 2022-08-04 14:04:48+00:00
+message : Сегодня семинара - нет! Каникулы!!! 🏖
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : 181
+forwards : 0
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 0, 'comments': True, 'recent_repliers': [], 'channel_id': 777, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-08-07 02:20:55+00:00
+post_author : Anton Kolonin
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 663
+peer_id : {'_': 'PeerChannel', 'channel_id': 1204700902}
+date : 2022-08-03 16:52:28+00:00
+message : #ии
+
+Технологии искусственного интеллекта помогли московским врачам поставить более 6,5 миллиона диагнозов
+
+В московских поликлиниках с 2020 года работает система поддержки принятия врачебных решений (СППВР). За это время сервис на основе искусственного интеллекта помог врачам-терапевтам поставить более 6,5 миллиона предварительных диагнозов, при этом более половины — с начала этого года.
+
+Модуль постановки предварительного диагноза анализирует жалобы пациента, которые врач вносит в единую медицинскую информационно-аналитическую систему (ЕМИАС) в ходе приема, а затем на их основе предлагает выбрать один из трех наиболее вероятных диагнозов, при этом не ограничивая решение врача. Терапевт может использовать вариант диагноза, предложенный искусственным интеллектом, или поставить собственный.
+
+Для подтверждения предварительного диагноза врач направляет пациента на лабораторные, инструментальные исследования или консультацию к узким специалистам. Здесь на помощь приходит второй модуль системы — «Пакетные назначения», — который формирует определенный перечень исследований или дополнительных консультаций. По своему усмотрению врач может согласиться с этим списком, расширить его или сократить, если пациент, например, недавно проходил какое-то из исследований. Эту информацию и результат пройденного исследования врач также увидит в окне модуля.
+
+После того как врач сформирует электронные направления, пациент уже самостоятельно через сервисы ЕМИАС может записаться на исследования или консультацию к специалисту в удобное время. По просьбе пациента врач также может распечатать все направления на назначенные исследования.
+
+Опыт использования СППВР показал, что время назначения диагностических исследований сократилось в среднем в 10 раз. Также сервис позволяет избежать повторного направления на исследования.
+https://www.mos.ru/news/item/110827073/
+
+@it_medicine
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : {'_': 'MessageFwdHeader', 'date': datetime.datetime(2022, 8, 3, 14, 16, 28, tzinfo=datetime.timezone.utc), 'imported': False, 'from_id': {'_': 'PeerChannel', 'channel_id': 1139356978}, 'from_name': None, 'channel_post': 3013, 'post_author': None, 'saved_from_peer': None, 'saved_from_msg_id': None, 'psa_type': None}
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityHashtag', 'offset': 0, 'length': 3}, {'_': 'MessageEntityBold', 'offset': 5, 'length': 103}, {'_': 'MessageEntityUrl', 'offset': 1826, 'length': 39}, {'_': 'MessageEntityMention', 'offset': 1867, 'length': 12}]
+views : 88
+forwards : 2
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 73309, 'comments': True, 'recent_repliers': [], 'channel_id': 1195482130, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-08-03 16:52:31+00:00
+post_author : Anton Kolonin
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 662
+peer_id : {'_': 'PeerChannel', 'channel_id': 1204700902}
+date : 2022-08-02 14:36:00+00:00
+message : Шумский С.А.
+
+Презентация семинара «Мозг и язык: индексация смыслов»
+
+Аудиозапись семинара «Мозг и язык: индексация смыслов»
+
+Шумский С.А. Мозг и Язык: Гипотеза о строении «органа языка»
+
+(можно скачать)
+https://social.hse.ru/soc/structanalysis/presentations/index.html
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : {'_': 'MessageFwdHeader', 'date': datetime.datetime(2022, 7, 30, 14, 59, 22, tzinfo=datetime.timezone.utc), 'imported': False, 'from_id': {'_': 'PeerUser', 'user_id': 938994515}, 'from_name': None, 'channel_post': None, 'post_author': None, 'saved_from_peer': None, 'saved_from_msg_id': None, 'psa_type': None}
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 6751995071129116964, 'url': 'https://social.hse.ru/soc/structanalysis/presentations/index.html', 'display_url': 'social.hse.ru/soc/structanalysis/presentations/index.html', 'hash': 0, 'type': 'article', 'site_name': 'social.hse.ru', 'title': 'Материалы и презентации научно-учебной группы', 'description': None, 'photo': {'_': 'Photo', 'id': 5800066081996516192, 'access_hash': 6279224450823871936, 'file_reference': b'\x00b\xf0\x8a\xa8\xeb\xd5\x97vA\xf9\x97\x8fN\xd0B fW\x8b\x07', 'date': datetime.datetime(2020, 10, 20, 7, 38, 50, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b"\x01\x15(\xa9\x9a\x07'\x02\x9b\x9aT?75\xd8s\x92l8\xcf8\xf5\xc7\x14\xc3\xc5NY~\xcf\xb3q\xdd\xb7\x18\xff\x00\x81\x13U\xdc\xfc\xd4\x93\x1bB\xe6\x8anh\xa6!\xb4QE\x03\x17q\xe9\x93IE\x14\x00QE\x14\x01"}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 167, 'size': 7684}, {'_': 'PhotoSize', 'type': 'x', 'w': 470, 'h': 246, 'size': 14421}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 204, 'length': 65}]
+views : 672
+forwards : 11
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 73309, 'comments': True, 'recent_repliers': [], 'channel_id': 1195482130, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-08-02 14:36:03+00:00
+post_author : Anton Kolonin
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 661
+peer_id : {'_': 'PeerChannel', 'channel_id': 1204700902}
+date : 2022-08-01 08:00:14+00:00
+message : Похоже, Narrow AGI для автономного ударного дрона (из категории "lethal autonomous weapons systems" или LAWS) это наиболее перспективное применение "суммы технологий" 🥲🥲🥲 https://novoeizdanie.com/v-polshe-hotyat-sozdat-dolinu-dronov-konczepcziyu-predstavil-eks-direktor-czru/
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 8023180783734125160, 'url': 'https://novoeizdanie.com/v-polshe-hotyat-sozdat-dolinu-dronov-konczepcziyu-predstavil-eks-direktor-czru/', 'display_url': 'novoeizdanie.com/v-polshe-hotyat-sozdat-dolinu-dronov-konczepcziyu-predstavil-eks-direktor-czru', 'hash': 0, 'type': 'article', 'site_name': 'Новое Издание', 'title': 'В Польше хотят создать «Долину дронов»: концепцию представил экс-директор ЦРУ | Новое Издание', 'description': 'Идею создания локации беспилотников обговорили представители США, Польши и Украины. В Польше могут создать локацию БПЛА для ускорения инноваций в этой области в пользу Варшавы…', 'photo': {'_': 'Photo', 'id': 5986621237788520094, 'access_hash': -5870364635043922010, 'file_reference': b'\x00b\xf0\x8a\xa8\x89\xf5\xe4Ep\x12p\xdc\xab\x10\x8c\x18k\xc1\x98\x92', 'date': datetime.datetime(2022, 7, 27, 15, 14, 6, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x17(\xbd.\xc6\xc3\x11\xcdA!\xfd\xd8\xd8\x80\x90j\xc6\xfc\x9c\x18\xb1\xf8\xd5Y\xed@\x8f\x11\x97_\xa3u\xa6"\xbbO\x08\x94\xa1$\x1fqK\xb8\x126\xf3\x9fJK[B\x18\xb4\xbf{\xb8nj\xca\xc7\xb1\x02\xfat\xfaU\xa6\xc9h\x80\xa5\x151Z*\xae+\x13\x89\x14\x1c\x82i\xdf\x7f\xbd\x14V;\x1a\x0c.\xa0\xe3\x9a2\xa4f\x8a)\x8a\xc4o*)\xc5\x14Q@\x1f'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 181, 'size': 11759}, {'_': 'PhotoSizeProgressive', 'type': 'x', 'w': 478, 'h': 270, 'sizes': [2312, 5792, 8574, 12144, 18856]}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 174, 'length': 104}]
+views : 199
+forwards : 5
+replies : {'_': 'MessageReplies', 'replies': 5, 'replies_pts': 73309, 'comments': True, 'recent_repliers': [{'_': 'PeerUser', 'user_id': 5277945934}, {'_': 'PeerUser', 'user_id': 302910826}, {'_': 'PeerUser', 'user_id': 414651841}], 'channel_id': 1195482130, 'max_id': 43731, 'read_max_id': None}
+edit_date : 2022-08-01 08:00:17+00:00
+post_author : Anton Kolonin
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 660
+peer_id : {'_': 'PeerChannel', 'channel_id': 1204700902}
+date : 2022-07-29 18:07:38+00:00
+message : Кстати, о пчелах: https://lenta.ru/news/2022/07/29/pain/
+Оказалось, что шмели в ответ на неприятные стимулы реагируют аналогично животным, для которых известно, что они способны чувствовать боль и дискомфорт. Результаты исследования опубликованы в журнале Proceedings of the National Academy of Sciences (PNAS).
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 18, 'length': 38}]
+views : 199
+forwards : 1
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 73309, 'comments': True, 'recent_repliers': [], 'channel_id': 1195482130, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-29 18:08:21+00:00
+post_author : Anton Kolonin
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 659
+peer_id : {'_': 'PeerChannel', 'channel_id': 1204700902}
+date : 2022-07-29 14:49:16+00:00
+message : https://www.youtube.com/watch?v=Hlld3ZJO6iw
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 1503448449410846694, 'url': 'https://www.youtube.com/watch?v=Hlld3ZJO6iw', 'display_url': 'youtube.com/watch?v=Hlld3ZJO6iw', 'hash': 0, 'type': 'video', 'site_name': 'YouTube', 'title': 'Когнитивная архитектура на основе принципов обработки информации ... — Антон Колонин —Семинар AGI', 'description': 'Когнитивная архитектура на основе принципов обработки информации мозгом и задачного подхода — Антон Колонин\nСеминар русскоязычного сообщества AGI\n28 июля 2022\n\nhttps://arxiv.org/abs/2206.03487\nhttps://arxiv.org/abs/2204.07919\n\nhttps://agirussia.org/\nМы ведем группы и организуем семинары русскоязычного сообщества разработчиков систем AGI (Artificial General Intelligence или Общий Искусственный Интеллект) или Strong AI (Сильный Искусственный Интеллект), а также - являющийся их частным случаем HLAI (Human-Level Artificial Intelligence или Искусственный Интеллект Человеческого Уровня).\n\nГруппы:\nhttps://t.me/agirussianews (новостной канал)\nhttps://t.me/agirussia (основная)\nhttps://t.me/agiterms (вопросы терминологии)\nhttps://t.me/agibots (разговорный интеллект)\nhttps://t.me/agifintech (финансовые технологии)\nhttps://t.me/collectivei (коллективный интеллект)\nhttps://vk.com/agirussia\nhttps://www.facebook.com/groups/agirussia (основная)\nhttps://www.facebook.com/groups/socialintelligence (коллективный интеллект)\nhttps://groups.google.com/g/agirussia\n\nОнлайн-семинары идут по четвергам, в 18:00 по Московскому времени. Продолжительность два часа, обычно это либо доклад на один-полтора часа и последующее обсуждение на полчаса-час либо круглый стол с регламентом на усмотрение модератора дискуссии. Технические средства проведения, регламент и модерацию обычно обеспечивает инициатор конкретного семинара либо спикер и его коллеги.\n\nРегистрация на семинары (внизу страницы):\nhttps://aigents.timepad.ru/event/1412596\n\nПрограмма следующих семинаров:\nhttps://agirussia.org/workshops.html', 'photo': {'_': 'Photo', 'id': 5991115929653718643, 'access_hash': 66333972481680327, 'file_reference': b'\x00b\xf0\x8a\xa8\xd6HE\xc7<\xd7\xda\xc2\xa5\xbdjw\xdd`\x1c\xbc', 'date': datetime.datetime(2022, 7, 29, 15, 26, 54, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x1e(i\xd1\x95O\xcd3\x0f\xf8\x08\xff\x00\x1aO\xecd\xff\x00\x9f\x83\xff\x00|\x8f\xf1\xad\xa7\xdd\xfc ~4\xdc\xb0\x1c\xa8\xa0\x0c\x7f\xecu\xed9\xfc\x87\xf8\xd2\x7fc\xa7k\x82\x7f\x01\xfe5\xb3\xb8\x8e\xa0P\x15\xc3rF>\x94\x01\x90\xba2\xb7\xdd\x9d\xbf\xef\x91\xfe4V\xd6Tw\x14P\x03\x1a"[;\x8d5\xb6\x8e2I\xae|j\xb7\x83\xa4\x83\xfe\xf9\x14\xbf\xda\xd7\x99\xff\x00X?\xef\x91@\x1d\x03\x0c(-Aq \xda\xbd\xeb\x9f\xfe\xd7\xbc\xff\x00\x9e\xa3\xfe\xf9\x14\x7fk^\x7f\xcfQ\xff\x00|\x8a\x00\xdfXy%\xb1\xf4\x14W>uk\xc3\xff\x00-G\xfd\xf2(\xa5a\xdc'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 240, 'size': 19553}, {'_': 'PhotoSize', 'type': 'x', 'w': 480, 'h': 360, 'size': 31825}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': 'https://www.youtube.com/embed/Hlld3ZJO6iw', 'embed_type': 'iframe', 'embed_width': 480, 'embed_height': 360, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 0, 'length': 43}]
+views : 1008
+forwards : 13
+replies : {'_': 'MessageReplies', 'replies': 13, 'replies_pts': 73309, 'comments': True, 'recent_repliers': [{'_': 'PeerUser', 'user_id': 2095800903}, {'_': 'PeerUser', 'user_id': 138602604}, {'_': 'PeerUser', 'user_id': 884142663}], 'channel_id': 1195482130, 'max_id': 43890, 'read_max_id': None}
+edit_date : 2022-07-29 14:49:19+00:00
+post_author : Anton Kolonin
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 657
+peer_id : {'_': 'PeerChannel', 'channel_id': 1204700902}
+date : 2022-07-28 13:18:57+00:00
+message : Рекомендуется к прочтению: https://arxiv.org/abs/2003.13350
+Atari games have been a long-standing benchmark in the reinforcement learning (RL) community for the past decade. This benchmark was
+proposed to test general competency of RL algorithms. Previous work has achieved good average performance by doing outstandingly well
+on many games of the set, but very poorly in
+several of the most challenging games. We propose Agent57, the first deep RL agent that outperforms the standard human benchmark on all
+57 Atari games. To achieve this result, we train a
+neural network which parameterizes a family of
+policies ranging from very exploratory to purely
+exploitative. We propose an adaptive mechanism
+to choose which policy to prioritize throughout
+the training process. Additionally, we utilize a
+novel parameterization of the architecture that allows for more consistent and stable learning.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 27, 'length': 32}]
+views : 182
+forwards : 4
+replies : {'_': 'MessageReplies', 'replies': 10, 'replies_pts': 73309, 'comments': True, 'recent_repliers': [{'_': 'PeerUser', 'user_id': 992851216}, {'_': 'PeerUser', 'user_id': 2095800903}, {'_': 'PeerUser', 'user_id': 394199355}], 'channel_id': 1195482130, 'max_id': 43465, 'read_max_id': None}
+edit_date : 2022-07-28 13:28:25+00:00
+post_author : Anton Kolonin
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 656
+peer_id : {'_': 'PeerChannel', 'channel_id': 1204700902}
+date : 2022-07-26 06:00:22+00:00
+message : Коллеги, помните вопрос об автоматизации процесса выявления числа "мод" в распределении? Я задачу (для своих задач) решил и поделюсь результатом и смогу рассказать на одном из ближайших семинаров. Но, прежде всего, хотелось бы с с вашей помощью оценить адекватность "решения" - от каждого из вас требуется только 5 минут и 20 кликов, чтобы пройти этот опросник: https://docs.google.com/forms/d/e/1FAIpQLSeFQDd8Q33FgZvfR7NHFYrSpk4NElWSxRKAuzhQOrhM8D-FHQ/viewform?usp=sf_link
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaDocument', 'document': {'_': 'Document', 'id': 5402194458861116153, 'access_hash': -2433871257773236890, 'file_reference': b'\x02G\xceF\xe6\x00\x00\x02\x90b\xf0\x8a\xa8\x1dE\xf0$O\xd1j\xd2\xaf\x10\xc0\xc7\xe1|\x9eJ', 'date': datetime.datetime(2022, 7, 26, 6, 0, 22, tzinfo=datetime.timezone.utc), 'mime_type': 'image/png', 'size': 88628, 'dc_id': 2, 'attributes': [{'_': 'DocumentAttributeImageSize', 'w': 1976, 'h': 476}, {'_': 'DocumentAttributeFilename', 'file_name': 'M-P.png'}], 'thumbs': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\n(\xd5icFUf\x00\x9e\x82\x9c\xce\xa82\xc4\x0f\xad\x04\x0c\xf4\x14\xac\x06:S\x10\xd1"\x14\x0f\x91\xb4\xf7\xa3\xccRYA\x19^\xb4\xec\x0ct\x14\x00=\x05 \x1a\xce\x00_z)\xd8\x1e\x94P3'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 77, 'size': 5295}], 'video_thumbs': []}, 'ttl_seconds': None}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 362, 'length': 111}]
+views : 191
+forwards : 2
+replies : {'_': 'MessageReplies', 'replies': 12, 'replies_pts': 73309, 'comments': True, 'recent_repliers': [{'_': 'PeerUser', 'user_id': 160630665}, {'_': 'PeerUser', 'user_id': 146434732}, {'_': 'PeerUser', 'user_id': 302910826}], 'channel_id': 1195482130, 'max_id': 43267, 'read_max_id': None}
+edit_date : 2022-07-26 06:00:25+00:00
+post_author : Anton Kolonin
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 655
+peer_id : {'_': 'PeerChannel', 'channel_id': 1204700902}
+date : 2022-07-25 13:18:35+00:00
+message : Когнитивная архитектура на основе принципов обработки информации мозгом и задачного подхода — Антон Колонин, 28 июля 2022 18:00-20:30 (время Московское) 
+https://aigents.timepad.ru/event/1412596/
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 5221846781886631003, 'url': 'https://aigents.timepad.ru/event/1412596/', 'display_url': 'aigents.timepad.ru/event/1412596', 'hash': 0, 'type': 'article', 'site_name': 'aigents.timepad.ru', 'title': 'Семинар русскоязычного сообщества AGI / События на TimePad.ru', 'description': 'Когнитивная архитектура на основе принципов обработки информации мозгом и задачного подхода &#151; Антон Колонин\n28 июля 2022 18:00-20:30 (время Московское)', 'photo': {'_': 'Photo', 'id': 5968570289107348364, 'access_hash': -6302084269537444401, 'file_reference': b'\x00b\xf0\x8a\xa8\n\xad\xa4g2V\xd2,\xdd\xdbWAb\xf1\xba\xc3', 'date': datetime.datetime(2020, 9, 10, 19, 48, 31, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x0f(\xcc\x0e\x0f\x0c\x07\xd6\x9e"V\xeaqPS\x91\x8a0a\xd4V\xa2\xb7b\xfbZ\xc1\xe4\xfc\xb9\r\xd3\x9fZ\xa4`|\x12\x98|pqV\xdfRg\x8bn\xd2\x1b\x18\xcej\x14\xba\xf2\xe3\n\x17\x90y\xe7\xad-FV\xc6:\xd1V\xd6d\x98\xedq\xc9\xe0g\x9a)\x85\xcf'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 122, 'size': 10495}, {'_': 'PhotoSize', 'type': 'x', 'w': 800, 'h': 304, 'size': 42253}, {'_': 'PhotoSize', 'type': 'y', 'w': 820, 'h': 312, 'size': 43459}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 91}, {'_': 'MessageEntityUrl', 'offset': 154, 'length': 41}]
+views : 1319
+forwards : 22
+replies : {'_': 'MessageReplies', 'replies': 3, 'replies_pts': 73309, 'comments': True, 'recent_repliers': [{'_': 'PeerUser', 'user_id': 150242219}, {'_': 'PeerUser', 'user_id': 250377867}, {'_': 'PeerUser', 'user_id': 302910826}], 'channel_id': 1195482130, 'max_id': 43423, 'read_max_id': None}
+edit_date : 2022-07-25 13:18:38+00:00
+post_author : Anton Kolonin
+grouped_id : None
+restriction_reason : []
+ttl_period : None

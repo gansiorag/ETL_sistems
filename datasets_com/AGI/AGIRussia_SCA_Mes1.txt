@@ -31,3 +31,2352 @@ post_author : None
 grouped_id : None
 restriction_reason : []
 ttl_period : None
+<============================>
+_ : Message
+id : 16501
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-02 14:34:48+00:00
+message : "Сам не читал но осуждаю"
+Подпись: Свидетели АГИевы.😜😂
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 1324952415}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 16500, 'reply_to_peer_id': None, 'reply_to_top_id': None}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2022-08-02 14:35:03+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16500
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-02 13:46:55+00:00
+message : сам не читал
+—-
+ТЭММ - цели и задачи
+Теория эволюции материи и моделей
+Ю.С. Мурашковский, М.С. Рубин.
+12 сентября 2006 г.
+http://temm.ru/ru/section.php?docId=3296
+
+Стадии развития научных представлений
+Ю.Мурашковский
+http://temm.ru/ru/section.php?docId=3445
+—-
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 122, 'length': 40}, {'_': 'MessageEntityUrl', 'offset': 217, 'length': 40}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 1, 'replies_pts': 23704, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': 16501, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16499
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-30 17:39:39+00:00
+message : Комментарии к статье К.В.Анохина: «Когнитом: в поисках фундаментальной нейронаучной теории сознания»
+https://scorcher.ru/thems_review/7/Kommentarii_k_statye_K.V.Anohina_pro_soznaniye.htm
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 101, 'length': 85}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23704, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16498
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-30 16:11:51+00:00
+message : Синтаксис, семантика, Хомский, Монтегю.
+https://deep-econom.livejournal.com/1001637.html
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 8535923012110642051, 'url': 'https://deep-econom.livejournal.com/1001637.html', 'display_url': 'deep-econom.livejournal.com/1001637.html', 'hash': 1888484028, 'type': 'article', 'site_name': 'Livejournal', 'title': 'Синтаксис, семантика, Хомский, Монтегю.', 'description': '***Суммируя новаторский вклад этих двух исследователей в развитие формальной лингвистики, лингвист Эммон Бах пишет (1989): « Тезис Хомского состоял в том, что синтаксис английского языка можно описать как формальную систему, а тезис Монтегю, что и синтаксис и семантику английского языка можно…', 'photo': {'_': 'Photo', 'id': 5961886933447716508, 'access_hash': -355331065825356905, 'file_reference': b'\x00b\xe9E\xcf\xcc\xf5\x0et\x97\xcc\x0c\xbeH\xf6\xcb\x98\x9f\xfaQ>', 'date': datetime.datetime(2022, 7, 19, 9, 49, 30, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01((\xa1\x1cfF\xc0\xfc\xeaIaU\xc0\r\xc9\xech\x82M\xaa\xc0.OQQ1,rNI\xad4\xb1\x96\xad\x92\xfd\x99\xfdEF\xf1\xbau\x1cz\xd4\xd0O\xfc,~\x86\xac\x10\x08\xc1\x19\x15\\\xa9\xad\x0c\xdc\xe5\x17\xa9\x9fE>T\xd8\xe4v\xedEC6M1\xf6\xbf\xeb\x0f\xd2\x9d<\x1f\xc4\xa3\xea*\x18\x9fc\x83\xdb\xbd^\x040\xc89\x06\xae6j\xc63n.\xe5[kg\xb9\x93bp;\x9fJ\xbd4I\x03\x08\xd1\xb7`s\x93\xcd\x10\xca\xd0#,aF\xees\x8e\xf5]U\x91\x99\x99\xf3\x9eI4$\xd3\x1c\xa4\xa4\x88\xae\xbe\xf2\xfa\xe2\x8a\x8eW\xdf!=\xbbQQ-Y\xa4\x13He9$d\xe8x\xf4\xa2\x8a.;]\x12\xfd\xa9\xb1\xd0To+\xbfS\xc7\xa5\x14Q\xcc\xd9*)1\x94QE"\x8f'}, {'_': 'PhotoSize', 'type': 'm', 'w': 200, 'h': 200, 'size': 5145}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': 'deep_econom', 'document': None, 'cached_page': {'_': 'Page', 'url': 'https://deep-econom.livejournal.com/1001637.html', 'blocks': [{'_': 'PageBlockTitle', 'text': {'_': 'TextPlain', 'text': 'Синтаксис, семантика, Хомский, Монтегю.'}}, {'_': 'PageBlockAuthorDate', 'author': {'_': 'TextPlain', 'text': 'deep_econom'}, 'published_date': datetime.datetime(2022, 7, 30, 22, 45, tzinfo=datetime.timezone.utc)}, {'_': 'PageBlockParagraph', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': '***Суммируя новаторский вклад этих двух исследователей в развитие формальной лингвистики, лингвист Эммон Бах пишет (1989): \n«'}, {'_': 'TextBold', 'text': {'_': 'TextPlain', 'text': 'Тезис Хомского состоял в том, что синтаксис английского языка можно описать как формальную систему, \nа тезис Монтегю, что и синтаксис и семантику английского языка можно описать как формальную систему.'}}, {'_': 'TextPlain', 'text': '»\n\n(* ССЫЛКА\nФормальная семантика как порождение лингвистики и философии\n'}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'https://polit.ru/article/2012/05/18/Partee/'}, 'url': 'https://polit.ru/article/2012/05/18/Partee/', 'webpage_id': 0}, {'_': 'TextPlain', 'text': '\nМы публикуем текст лекции Ph.D., профессора emerita факультета лингвистики и философии Массачусетского университета (США), приглашенного профессора Факультета лингвистики РГГУ Барбары Парти (Barbara Hall Partee), прочитанной 19 апреля 2012 года *)\n\n'}, {'_': 'TextBold', 'text': {'_': 'TextPlain', 'text': 'Мой тезис состоит в том, что "семантика - это форма синтаксиса". (обоснование в моем блоге)\nТ.е. любой язык, любые тексты, это формальные синтаксические конструкции.'}}, {'_': 'TextPlain', 'text': '\n\n***У Хомского было и до сих пор осталось двойственное отношение к семантике. Он всегда довольно скептически относился к семантике и всегда настаивал на автономии синтаксиса. Семантические понятия не играют никакой роли в синтаксисе – это его идея. Но он соглашается, что синтаксис должен служить основой для объяснения наших способностей понимать бесконечно много предложений, то есть для семантики. Его первая книга - «Синтаксические структуры» 57-го года.\n\n***Подход Фреге был строго антипсихологический: смысл должен быть чем-то объективным, существовать не в голове отдельного человека, а быть общим для всех. \n\n***А потом были философские войны. Обыденный язык против формального языка. Приблизительно в середине ΧΧ века началась большая война между философами обыденного языка и философами, которые больше уважали логические языки.\n\n***Главное для нас - обе стороны этой войны, а также Хомский, согласились с тем, что логические методы, применяемые к анализу формальных языков, не применимы к естественным языкам. В некоторых аспектах эта война продолжается.'}]}}], 'photos': [], 'documents': [], 'part': False, 'rtl': False, 'v2': False, 'views': None}, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 40, 'length': 48}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23704, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16492
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-30 14:59:22+00:00
+message : Шумский С.А.
+
+Презентация семинара «Мозг и язык: индексация смыслов»
+
+Аудиозапись семинара «Мозг и язык: индексация смыслов»
+
+Шумский С.А. Мозг и Язык: Гипотеза о строении «органа языка»
+
+(можно скачать)
+https://social.hse.ru/soc/structanalysis/presentations/index.html
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 6751995071129116964, 'url': 'https://social.hse.ru/soc/structanalysis/presentations/index.html', 'display_url': 'social.hse.ru/soc/structanalysis/presentations/index.html', 'hash': 0, 'type': 'article', 'site_name': 'social.hse.ru', 'title': 'Материалы и презентации научно-учебной группы', 'description': None, 'photo': {'_': 'Photo', 'id': 5800066081996516192, 'access_hash': 6279224450823871936, 'file_reference': b'\x00b\xe9E\xcf x-B6Rd\x1d\xb7q\xf5sb\x0f\x8b.', 'date': datetime.datetime(2020, 10, 20, 7, 38, 50, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b"\x01\x15(\xa9\x9a\x07'\x02\x9b\x9aT?75\xd8s\x92l8\xcf8\xf5\xc7\x14\xc3\xc5NY~\xcf\xb3q\xdd\xb7\x18\xff\x00\x81\x13U\xdc\xfc\xd4\x93\x1bB\xe6\x8anh\xa6!\xb4QE\x03\x17q\xe9\x93IE\x14\x00QE\x14\x01"}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 167, 'size': 7684}, {'_': 'PhotoSize', 'type': 'x', 'w': 470, 'h': 246, 'size': 14421}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 204, 'length': 65}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23704, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-30 14:59:37+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16491
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-30 13:52:28+00:00
+message : Ваш коммент мне прислали )
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23704, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16490
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-30 13:50:11+00:00
+message : Хорошая книжка, кстати да)
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 123307867}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 16489, 'reply_to_peer_id': None, 'reply_to_top_id': None}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16489
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-30 13:49:45+00:00
+message : Николлс Дж.Г., Мартин А.Р., Валлас Б.Дж., Фукс П.А. - От нейрона к мозгу.pdf
+https://vk.com/wall-37160097_225344
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 77, 'length': 35}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 1, 'replies_pts': 23704, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': 16490, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16488
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-28 15:50:58+00:00
+message : https://www.youtube.com/watch?v=Hlld3ZJO6iw
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 908058643}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 0, 'length': 43}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23704, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16487
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-28 06:41:25+00:00
+message : Баарс. Когнитивная теория сознания.pdf (454 стр)
+https://deep-econom.livejournal.com/1000596.html
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 49, 'length': 48}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23704, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16486
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-27 10:46:25+00:00
+message : Пневмоника 
+https://habr.com/ru/post/374309/
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 2793430254892261848, 'url': 'https://habr.com/ru/post/374309/', 'display_url': 'habr.com/ru/post/374309', 'hash': 0, 'type': 'photo', 'site_name': 'Хабр', 'title': 'Пневмоника и влажные мечты стимпанка', 'description': '“Пневмоавтоматика с каждым годом приобретает все большее значение для современной техники. Пневматические приборы широко применяются при автоматизации производственных процессов и при управлении...', 'photo': {'_': 'Photo', 'id': 5795504483130780535, 'access_hash': 2626583463846406914, 'file_reference': b'\x00b\xe9E\xcf<\xeb\x86\xa7\x9c\xeeA\t\xbb\xec\xd7\x98,\x1b<\xdf', 'date': datetime.datetime(2020, 10, 18, 20, 15, 40, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x15(\xab\xbb\xe5\xc6\xd1\xf5\xa6\xd4\xa9**\x00b\x04\xfa\xd3\xbc\xe8\xff\x00\xe7\x88\xfc\xff\x00\xfa\xd5D\x90QSy\xd1\xff\x00\xcf\x11\xf9\xff\x00\xf5\xa8\xf3\xa3\xff\x00\x9e#\xf3\xff\x00\xebP\x04[\xbfvWh\xc99\xcfz)d`\xed\x95]\xa3\xd2\x8a\x00n{c\xf1\xa2\x8a(\x00\xa2\x8a(\x00\xa2\x8a(\x03'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 168, 'size': 4864}, {'_': 'PhotoSize', 'type': 'x', 'w': 800, 'h': 420, 'size': 18284}, {'_': 'PhotoSize', 'type': 'y', 'w': 1200, 'h': 630, 'size': 31747}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 12, 'length': 32}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23704, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16485
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-27 08:44:50+00:00
+message : Я практической пневмоникой занимался в 1984 году примерно. И компрессор купил и делал интегральные пневмонические многослойные схемы. Именно пневмоникой, а не пневматикой. Но в этом же 1984 году, каюсь, смог утащить с завода первый микропроцессор 580ИК80А и много микросхем памяти на 1 килобит 565РУ1 в которых золота совокупно набралось до 4-х граммов и разработал свой первый компьютер
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 1324952415}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 16484, 'reply_to_peer_id': None, 'reply_to_top_id': 16480}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-27 08:49:14+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16484
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-27 08:43:25+00:00
+message : https://habr.com/ru/post/374309/
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 364497840}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 16483, 'reply_to_peer_id': None, 'reply_to_top_id': 16480}
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 0, 'length': 32}]
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-27 10:45:51+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16483
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-27 07:52:06+00:00
+message : Зело борзо
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 1324952415}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 16480, 'reply_to_peer_id': None, 'reply_to_top_id': None}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16481
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-27 07:41:43+00:00
+message : —-
+ВПН, пользуюсь последнее время Lantern
+https://deep-econom.livejournal.com/976557.html
+—-
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 42, 'length': 47}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23704, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16480
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-27 07:39:24+00:00
+message : Харрис Цифровая схемотехника и архитектура компьютера RISC-V (Дэвид М. Харрис, Сара Л. Харрис) (z-lib.org).pdf
+
+скачать тут без смс и регистраций, вероятно нужен впн
+https://hi.book4you.org/book/21403307/4c5e20
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 6557634099587059431, 'url': 'https://hi.book4you.org/book/21403307/4c5e20', 'display_url': 'hi.1lib.domains/?redirectUrl=/book/21403307/4c5e20', 'hash': 0, 'type': 'article', 'site_name': 'hi.1lib.domains', 'title': 'Z-Library एकल साइन-ऑन', 'description': 'Z-Library एकल साइन-ऑन | Z-Library. Download books for free. Find books', 'photo': None, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 96, 'length': 9}, {'_': 'MessageEntityUrl', 'offset': 166, 'length': 44}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 3, 'replies_pts': 23704, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': 16485, 'read_max_id': None}
+edit_date : 2022-07-27 08:12:37+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16479
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-27 07:30:54+00:00
+message : Улыбающаяся улитка — на технологиях от бумеров, Интела и Пентагона
+https://habr.com/ru/post/678736/
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 2793430254354848125, 'url': 'https://habr.com/ru/post/678736/?utm_source=vk_habr&utm_medium=social&utm_campaign=mozhno-li-trenirovat-chipodelov-na-3-nano', 'display_url': 'habr.com/ru/post/678736', 'hash': 0, 'type': 'photo', 'site_name': 'Хабр', 'title': 'Можно ли тренировать чиподелов на 3 нанометра упражнениями с 130 нм? А упражнениями с 20000 нм?', 'description': 'В модном и молодежном учебнике электроники от Харрисов есть пример простого конечного автомата - "улыбащейся улитки". Я решил наглядно показать, как можно в домашних условиях реализовать улитку на...', 'photo': {'_': 'Photo', 'id': 5984409497134804562, 'access_hash': -2661462957792477498, 'file_reference': b"\x00b\xe9E\xcf\xe0\x88\xae\x94\tk'\x0b\x8d&q \xd0_\x0b\x18", 'date': datetime.datetime(2022, 7, 27, 6, 30, 20, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x17(\x828C\xdb\xe7v\x0e@\xa9\xf4\xa4\xd9\x7f*\xe7*\x13\x83\xf9Ux\x9fd@\x9fP\xd5sOe7\xce\xcb\xd0\xc7\x9f\xe5M\xc7\x97c(\xddJ\xcc\xd1\x91\xca\x9c($\xfaU\x1b\xa0\xfe{\x9d\xaa\x14c\x93\xf4\xab\x91|\xd2;\x9e\xb9\xc0\xf6\xaaW\xb3b\xe1\xa3<\x83\x8f\xe5H\xd4\x86)xt8\x0e\xdd\x01\xe34SY\x00\xf9\xc9%\x80\xe0\xd1M+\x83\xb1^\xd9\xf7[\xed\xc7+\xd6\xaci\r\xbe\xfan?\xe5\x9e?QE\x15\x0br\x9f\xc2\x8d\x88\xd4\xab>z\x13\x91YW\xfb~\xd6\xfb\xc0=1\xf9\n(\xabJ\xe47b\xac\xb3\xa9\x0e\x9bp\xd8\xe3\x1d\r\x14QI\xeeQ'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 181, 'size': 21002}, {'_': 'PhotoSizeProgressive', 'type': 'x', 'w': 780, 'h': 440, 'sizes': [6223, 19190, 40484, 58756, 92183]}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 67, 'length': 32}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23704, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16478
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-26 08:44:08+00:00
+message : Архитектура систем, про системы с разных сторон.
+https://deep-econom.livejournal.com/999586.html
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 49, 'length': 47}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23704, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-26 15:32:20+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16477
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-26 08:03:11+00:00
+message : 
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaPhoto', 'photo': {'_': 'Photo', 'id': 5404714552853117460, 'access_hash': -207688993308110728, 'file_reference': b'\x02LEN\xb7\x00\x00@]b\xe9E\xcf\xd2`\xb7\xc8%\\)\xd5^\xd9+QU\xe3\xfaL', 'date': datetime.datetime(2022, 7, 26, 8, 3, 11, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x0c(\xd6p\x08\xe4S6\xaf\xa5,\xc7\t\xf8\xd4C\xad+\x05\x9fBU\x00\x1e\x05<\xf3\xd8TQ\xf2\xc351\xfa\xd0\x80:v\xa2\x97\xbd\x14\xc0'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 97, 'size': 8078}, {'_': 'PhotoSize', 'type': 'x', 'w': 800, 'h': 242, 'size': 34377}, {'_': 'PhotoSizeProgressive', 'type': 'y', 'w': 938, 'h': 284, 'sizes': [2980, 30672, 32920, 33412, 35207]}], 'dc_id': 2, 'has_stickers': False, 'video_sizes': []}, 'ttl_seconds': None}
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23704, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16476
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-25 17:32:47+00:00
+message : Купил бумажную на озоне
+
+https://www.ozon.ru/products/595571599/?asb=JgdBcwW8iHBc%252Bw6sUHCB4GZJ9B80bwTfZ6%252BvBa%252BYE5I%253D&asb2=3rIVwsWrCUrW-czIUa-oSLumtDo-DbeZDdHeaaxrbdStP-r_8ImvXR7aA6bepv84&keywords=%D0%BC%D0%BE%D0%B8%D1%81%D0%B5%D0%B5%D0%B2+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA+%D1%81%D1%80%D0%B5%D0%B4%D0%B0+%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE&sh=vl2b8R3g3Q&from=share_android
+
+Знаю, что Моисеев много книг написал, они, конечно, пересекаются, но у каждой изюминка.
+
+В этой книге про моделирование дошёл до четвёртой главы.
+Во введении рассказал про смысл всех сложных математических операций. В 70-е он издал учебник по исследованию операций.
+
+Первая глава была про модели неживой природы (физические законы сохранения).
+Вторая - про биотические системы, в которых ключевая роль у рефлексов.
+Потом про общественные системы, где все сложно и непредсказуемо.
+
+Достигаю 80-го уровня в понимании моделирования)))
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 322559917}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 16449, 'reply_to_peer_id': None, 'reply_to_top_id': 16432}
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 25, 'length': 382}]
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-26 04:20:32+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16474
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-25 06:02:41+00:00
+message : 28. Генерация RDF из табличных данных в Интернете: https://www.w3.org/TR/2015/REC-csv2rdf-20151217/
+29. SPARQL 1.1 Режимы вовлечения: https://www.w3.org/TR/2013/REC-sparql11-entailment-20130321/
+30. SPARQL 1.1 Федеративный запрос: https://www.w3.org/TR/2013/REC-sparql11-federated-query-20130321/
+31. SPARQL 1.1 HTTP-протокол хранилища графов: https://www.w3.org/TR/2013/REC-sparql11-http-rdf-update-20130321/
+32. Обзор SPARQL 1.1: https://www.w3.org/TR/2013/REC-sparql11-overview-20130321/
+33. SPARQL 1.1 Описание службы: https://www.w3.org/TR/2013/REC-sparql11-service-description-20130321/
+34. SPARQL 1.1 Обновление: https://www.w3.org/TR/2013/REC-sparql11-update-20130321/
+35. Протокол SPARQL 1.1: https://www.w3.org/TR/2013/REC-sparql11-protocol-20130321/
+36. OWL 2 RL в RIF(второе издание): https://www.w3.org/TR/2013/NOTE-rif-owl-rl-20130205/
+37. Краткое справочное руководство по языку веб-онтологий OWL 2 (второе издание): https://www.w3.org/TR/2012/REC-owl2-quick-reference-20121211/
+38. Семантика языка веб-онтологий OWL 2
+на основе RDF (второе издание): https://www.w3.org/TR/2012/REC-owl2-rdf-based-semantics-20121211/
+39. OWL 2 Прямая семантика языка веб-онтологий (второе издание): https://www.w3.org/TR/2012/REC-owl2-direct-semantics-20121211/
+40. Структурная спецификация языка веб-онтологий OWL 2
+и синтаксис функционального стиля (второе издание): https://www.w3.org/TR/2012/REC-owl2-syntax-20121211/
+41. Соответствие языку веб-онтологий OWL 2
+(второе издание): https://www.w3.org/TR/2012/REC-owl2-conformance-20121211/
+42. Новые функции и обоснование языка веб-онтологий OWL 2
+(второе издание): https://www.w3.org/TR/2012/REC-owl2-new-features-20121211/
+43. OWL 2 Расширение диапазона данных языка веб-онтологий: линейные уравнения (второе издание): https://www.w3.org/TR/2012/NOTE-owl2-dr-linear-20121211/
+44. OWL 2 Web Ontology Language Primer (Второе издание): https://www.w3.org/TR/2012/REC-owl2-primer-20121211/
+45. OWL 2 Языковые профили веб-онтологий
+(второе издание): https://www.w3.org/TR/2012/REC-owl2-profiles-20121211/
+46. Отображение языка веб-онтологий OWL 2
+в графы RDF (второе издание): https://www.w3.org/TR/2012/REC-owl2-mapping-to-rdf-20121211/
+47. Прямое отображение реляционных данных в RDF: https://www.w3.org/TR/2012/REC-rdb-direct-mapping-20120927/
+48. R2RML: язык отображения RDB в RDF: https://www.w3.org/TR/2012/REC-r2rml-20120927/
+49. Семантические веб-приложения в нейромедицине (SWAN) Онтология: https://www.w3.org/TR/2009/NOTE-hcls-swan-20091020/
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : {'_': 'MessageFwdHeader', 'date': datetime.datetime(2022, 7, 24, 22, 55, 7, tzinfo=datetime.timezone.utc), 'imported': False, 'from_id': {'_': 'PeerChannel', 'channel_id': 1487318406}, 'from_name': None, 'channel_post': 34, 'post_author': None, 'saved_from_peer': None, 'saved_from_msg_id': None, 'psa_type': None}
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 51, 'length': 48}, {'_': 'MessageEntityUrl', 'offset': 134, 'length': 60}, {'_': 'MessageEntityUrl', 'offset': 231, 'length': 65}, {'_': 'MessageEntityUrl', 'offset': 344, 'length': 65}, {'_': 'MessageEntityUrl', 'offset': 432, 'length': 58}, {'_': 'MessageEntityUrl', 'offset': 523, 'length': 69}, {'_': 'MessageEntityUrl', 'offset': 620, 'length': 56}, {'_': 'MessageEntityUrl', 'offset': 702, 'length': 58}, {'_': 'MessageEntityUrl', 'offset': 797, 'length': 52}, {'_': 'MessageEntityUrl', 'offset': 932, 'length': 61}, {'_': 'MessageEntityUrl', 'offset': 1066, 'length': 65}, {'_': 'MessageEntityUrl', 'offset': 1197, 'length': 62}, {'_': 'MessageEntityUrl', 'offset': 1367, 'length': 52}, {'_': 'MessageEntityUrl', 'offset': 1481, 'length': 57}, {'_': 'MessageEntityUrl', 'offset': 1615, 'length': 58}, {'_': 'MessageEntityUrl', 'offset': 1770, 'length': 56}, {'_': 'MessageEntityUrl', 'offset': 1884, 'length': 52}, {'_': 'MessageEntityUrl', 'offset': 1996, 'length': 54}, {'_': 'MessageEntityUrl', 'offset': 2123, 'length': 60}, {'_': 'MessageEntityUrl', 'offset': 2233, 'length': 59}, {'_': 'MessageEntityUrl', 'offset': 2332, 'length': 46}, {'_': 'MessageEntityUrl', 'offset': 2446, 'length': 51}]
+views : 43
+forwards : 2
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23704, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16472
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-25 06:02:01+00:00
+message : Вот еще кое-что от консорциума W3C, относящееся к AGI:
+1. Что нового в RDF 1.1: https://www.w3.org/TR/2014/NOTE-rdf11-new-20140225/
+2. Линейный синтаксис для RDF-графа: https://www.w3.org/TR/2014/REC-n-triples-20140225/
+1. Семантика RDF 1.1: https://www.w3.org/TR/2014/REC-rdf11-mt-20140225/
+3. RDF 1.1: О семантике наборов данных RDF: https://www.w3.org/TR/2014/NOTE-rdf11-datasets-20140225/
+4. Концепции RDF 1.1 и абстрактный синтаксис: https://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/
+5. RDFa 1.1 Primer — третье издание: https://www.w3.org/TR/2015/NOTE-rdfa-primer-20150317/
+6. API индексированной базы данных: https://www.w3.org/TR/2015/REC-IndexedDB-20150108/
+7. Язык разметки эмоций (EmotionML) 1.0: https://www.w3.org/TR/2014/REC-emotionml-20140522/
+8. Словари для EmotionML: https://www.w3.org/TR/2014/NOTE-emotion-voc-20140401/
+9. RDF 1.1: О семантике наборов данных RDF: https://www.w3.org/TR/2014/NOTE-rdf11-datasets-20140225/
+10. PROV-DM: Модель данных PROV: https://www.w3.org/TR/prov-dm/
+11. PROV-O: онтология PROV: https://www.w3.org/TR/prov-o/
+12. Онтология времени в OWL: https://www.w3.org/TR/2020/CR-owl-time-20200326/
+13. Расширения OWL-Time Ontology — временные агрегаты: https://www.w3.org/TR/2020/NOTE-vocab-owl-time-agg-20200707/
+14. Расширения OWL-Time Ontology — отношения сущностей: https://www.w3.org/TR/vocab-owl-time-rel/
+15. Язык разметки синтеза речи (SSML), версия 1.1: https://www.w3.org/TR/speech-synthesis11/
+с улучшениями: https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220724/
+16. API веб-нейронной сети: https://www.w3.org/TR/2022/WD-webnn-20220630/
+17. Онтология организации: https://www.w3.org/TR/2014/REC-vocab-org-20140116/
+18: Словарь RDF Data Cube: https://www.w3.org/TR/2014/REC-vocab-data-cube-20140116/
+19. VSSo: Онтология спецификации сигналов транспортных средств: https://www.w3.org/TR/2022/WD-vsso-20220303/
+20. API состояния батареи: https://www.w3.org/TR/2022/WD-battery-status-20220203/
+21. Акселерометр: https://www.w3.org/TR/2021/CRD-accelerometer-20211208/
+22. Гироскоп: https://www.w3.org/TR/2021/CRD-gyroscope-20211207/
+23. Магнитометр: https://www.w3.org/TR/2021/WD-magnetometer-20211207/
+24. Расширения онтологии сети семантических датчиков: https://www.w3.org/TR/2020/WD-vocab-ssn-ext-20200116/
+25. Датчик приближения: https://www.w3.org/TR/2021/WD-proximity-20210903/
+26. Датчик ориентации: https://www.w3.org/TR/2021/WD-orientation-sensor-20210902/
+27. Уровень времени высокого разрешения 2: https://www.w3.org/TR/2019/REC-hr-time-2-20191121/
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : {'_': 'MessageFwdHeader', 'date': datetime.datetime(2022, 7, 24, 21, 28, 32, tzinfo=datetime.timezone.utc), 'imported': False, 'from_id': {'_': 'PeerChannel', 'channel_id': 1487318406}, 'from_name': None, 'channel_post': 33, 'post_author': None, 'saved_from_peer': None, 'saved_from_msg_id': None, 'psa_type': None}
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 5778323077328775336, 'url': 'https://www.w3.org/TR/2020/CR-owl-time-20200326/', 'display_url': 'w3.org/TR/owl-time', 'hash': 0, 'type': 'article', 'site_name': 'www.w3.org', 'title': 'Time Ontology in OWL', 'description': 'OWL-Time is an OWL-2 DL ontology of temporal concepts, for describing the temporal properties of\nresources in the world or described in Web pages. The ontology provides a vocabulary for expressing facts about\ntopological (ordering) relations among instants and intervals, together with information about durations, and about\ntemporal position including date-time information. Time positions and durations may be expressed using either the conventional (Gregorian) calendar and clock, or using another temporal reference system such as Unix-time, geologic time, or different calendars.', 'photo': None, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 80, 'length': 51}, {'_': 'MessageEntityUrl', 'offset': 169, 'length': 50}, {'_': 'MessageEntityUrl', 'offset': 242, 'length': 49}, {'_': 'MessageEntityUrl', 'offset': 336, 'length': 56}, {'_': 'MessageEntityUrl', 'offset': 439, 'length': 55}, {'_': 'MessageEntityUrl', 'offset': 532, 'length': 53}, {'_': 'MessageEntityUrl', 'offset': 622, 'length': 50}, {'_': 'MessageEntityUrl', 'offset': 714, 'length': 50}, {'_': 'MessageEntityUrl', 'offset': 791, 'length': 53}, {'_': 'MessageEntityUrl', 'offset': 889, 'length': 56}, {'_': 'MessageEntityUrl', 'offset': 979, 'length': 30}, {'_': 'MessageEntityUrl', 'offset': 1038, 'length': 29}, {'_': 'MessageEntityUrl', 'offset': 1097, 'length': 48}, {'_': 'MessageEntityUrl', 'offset': 1201, 'length': 60}, {'_': 'MessageEntityUrl', 'offset': 1318, 'length': 41}, {'_': 'MessageEntityUrl', 'offset': 1411, 'length': 41}, {'_': 'MessageEntityUrl', 'offset': 1468, 'length': 53}, {'_': 'MessageEntityUrl', 'offset': 1550, 'length': 45}, {'_': 'MessageEntityUrl', 'offset': 1623, 'length': 50}, {'_': 'MessageEntityUrl', 'offset': 1701, 'length': 56}, {'_': 'MessageEntityUrl', 'offset': 1822, 'length': 44}, {'_': 'MessageEntityUrl', 'offset': 1894, 'length': 54}, {'_': 'MessageEntityUrl', 'offset': 1967, 'length': 54}, {'_': 'MessageEntityUrl', 'offset': 2036, 'length': 50}, {'_': 'MessageEntityUrl', 'offset': 2104, 'length': 52}, {'_': 'MessageEntityUrl', 'offset': 2211, 'length': 53}, {'_': 'MessageEntityUrl', 'offset': 2289, 'length': 49}, {'_': 'MessageEntityUrl', 'offset': 2362, 'length': 58}, {'_': 'MessageEntityUrl', 'offset': 2464, 'length': 50}]
+views : 39
+forwards : 4
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23704, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16471
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-24 18:44:45+00:00
+message : Понравилась онтология, весьма проработана.
+(смотрел поверхностно)
+https://www.w3.org/TR/prov-o/
+https://www.w3.org/TR/prov-dm/#bib-PROV-LAYOUT
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 66, 'length': 29}, {'_': 'MessageEntityUrl', 'offset': 96, 'length': 46}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23704, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-24 18:45:39+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16530
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-06 08:19:08+00:00
+message : Ну вот как-то так строятся модели мира и сущностей в мире на основе моделей (суть отношений, комплексов стрелок).
+
+Делают лингвисты, что похвально.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16529
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-06 08:18:18+00:00
+message : 
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaPhoto', 'photo': {'_': 'Photo', 'id': 5438153862549716288, 'access_hash': 3444222861075528373, 'file_reference': b'\x02LEN\xb7\x00\x00@\x91b\xf0\x8a\xa6\xa3Vw\xac\xbfd@\xf9\x13\xf1\x8a\x1bt\x8a\xba\xa3', 'date': datetime.datetime(2022, 8, 6, 8, 18, 18, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b"\x01%(\xd7\xc9\xce(\xf9\xb1\xcf\xad6FT\x19c\x81\xd2\x98\xb2\xa7@x4\xecC\x92Z1\xe3\xaf@\x07\xad.y\xcd \xc2\xf3\x9cP\xc4c!\x814\x8a\xbd\xf6\x1d\xb8\xd1M\xees\x8fj)\xe8-E`\x0fQ\x9aa\xc1\x00\xa8Q\xcf\x7f\xad9\xcf${SC`z\xfe4\x87a\xf9\x06\x822\xa4t\x07\xd2\xa3S\xd7\x83K\xbf\xdb\xf5\xa6&\x9fA\xc0c<\x93\xf5\xa2\x95rN\n\x91E\x01f;h'8\xa0(\x1d\x05\x14R(k1\r\x8e)\xf4Q@\x05\x14Q@\x1f"}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 296, 'size': 23796}, {'_': 'PhotoSizeProgressive', 'type': 'x', 'w': 612, 'h': 567, 'sizes': [4905, 22953, 44253, 45978, 48836]}], 'dc_id': 2, 'has_stickers': False, 'video_sizes': []}, 'ttl_seconds': None}
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16528
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-06 08:16:59+00:00
+message : стр.103 журнала
+
+ТЕОРЕТИЧЕСКИЕ ОСНОВЫ И ЭКСПЕРИМЕНТАЛЬНАЯ ИЛЛЮСТРАЦИЯ ПРОЯВЛЕНИЯ «ЗАКОНА РАЗРЫВА ШАБЛОНА» В НЕПОДГОТОВЛЕННОЙ РЕЧЕВОЙ ДЕЯТЕЛЬНОСТИ
+А. Б. Воропаева, Е. Б. Трофимова
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16527
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-06 08:16:14+00:00
+message : К верхним картинкам и цитатам.
+——
+ВЕСТНИК КЕМЕРОВСКОГО ГОСУДАРСТВЕННОГО УНИВЕРСИТЕТА
+Журнал теоретических и прикладных исследований Издается с 1999 г.
+№ 4 (52) 2012. Т. 3
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaDocument', 'document': {'_': 'Document', 'id': 5438153862093484048, 'access_hash': 3936324923460032008, 'file_reference': b'\x02LEN\xb7\x00\x00@\x8fb\xf0\x8a\xa6B\x81\x99^_\x8b(Dh#\x07\xef\xfd=\xdc\x9e', 'date': datetime.datetime(2022, 8, 6, 8, 16, 14, tzinfo=datetime.timezone.utc), 'mime_type': 'application/pdf', 'size': 4971896, 'dc_id': 2, 'attributes': [{'_': 'DocumentAttributeFilename', 'file_name': '31186974.pdf'}], 'thumbs': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01(\x1c\xa7E\x14t\xae\x83"H\x91\x08o0\x90q\xc6)\x83\x18\xe4\xd1\xb8\xfa\xd2P\x04\x91\x059\xdc3\xc8\xa7\x00\xb9\x1cp}\xaa\xf8\xd2\x90\x7f\xcbV\xfc\x85/\xf6Z\xff\x00\xcfV\xfc\x85G2*\xcc\xcf\xc4d\x1e9\xc5CZ\xdf\xd9k\xff\x00=O\xe4)?\xb2S\xfez\xb7\xe5B\x9a\x0eV]\xf3\xa2\xff\x00\x9e\x89\xff\x00}\n<\xe8\xbf\xe7\xa2\x7f\xdfB\x8a*yJ\xb8\x9el?\xf3\xd1?\xef\xaa_:/\xf9\xe8\x9f\xf7\xd0\xa2\x8a9B\xe7'}, {'_': 'PhotoSize', 'type': 'm', 'w': 226, 'h': 320, 'size': 10139}], 'video_thumbs': []}, 'ttl_seconds': None}
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-08-06 15:54:06+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16526
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-06 08:16:01+00:00
+message : потом удалю.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16525
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-06 07:53:08+00:00
+message : Возможно это поможет достаточно эффективно строить грубые модели и манипулировать объектами в этой модели.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-08-06 08:09:00+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16524
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-06 07:51:50+00:00
+message : Я думал немного над моделированием 3д пространства. Типа мира робота-кладовщика.
+
+Пока такая мысль, что имеет смысл представлять всё в виде больших кубиков, кубов-объектов и кубов пространства. Условно по типу майнкрафта. 
+С динамической детализацией при необходимости.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-08-06 07:52:15+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16523
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-06 07:46:05+00:00
+message : Я продолжаю делать третье око
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 1324952415}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16522
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-06 07:44:48+00:00
+message : Это как иллюстрация и совпадение к этой картинке
+https://t.me/AGIRussia_SCA/1507
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 9170793121430699387, 'url': 'https://t.me/AGIRussia_SCA/1507', 'display_url': 't.me/AGIRussia_SCA/1507', 'hash': 0, 'type': 'photo', 'site_name': 'Telegram', 'title': 'ALEX BUR in AGIRussia_SCA', 'description': None, 'photo': {'_': 'Photo', 'id': 5339195153170149659, 'access_hash': -4177284742136981554, 'file_reference': b'\x00b\xf0\x8a\xa6\xealM\x82>\xb7\x1f\x13\xf9]\xe9\x1ac\x83\xab>', 'date': datetime.datetime(2021, 3, 5, 21, 51, 20, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x11(\xd7\xc6E&\xc1\xef\xf9\xd2\xe2\x8a\x00\x06@\xa4\xdb\xce~a\xf8\xd0\xbc\xad(\x1cP\x003\x8e\x9f\xad\x14\x01\x8a(\x01\xc3\xa5\x14Q@\x08h\xa2\x8a\x00(\xa2\x8a\x00'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 140, 'size': 11666}, {'_': 'PhotoSize', 'type': 'x', 'w': 800, 'h': 350, 'size': 45542}, {'_': 'PhotoSizeProgressive', 'type': 'y', 'w': 920, 'h': 402, 'sizes': [3528, 4458, 42734, 47230, 49643]}], 'dc_id': 2, 'has_stickers': False, 'video_sizes': []}, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 49, 'length': 31}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16521
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-06 07:42:59+00:00
+message : 
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaPhoto', 'photo': {'_': 'Photo', 'id': 5438153862549716244, 'access_hash': 8158587572121798729, 'file_reference': b'\x02LEN\xb7\x00\x00@\x89b\xf0\x8a\xa6\xd3\x96\x82\xb5\x17_fQvP\x81NH\x0b+\x95', 'date': datetime.datetime(2022, 8, 6, 7, 42, 59, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b"\x01 (\xd4f9\xc0 ~4no\xef\nB~f\x1c\x7f\x9f\xc6\x979=G\xf9\xfch\x01w\x1c\xe3p\xcd&\xe3\x9e\x18})7|\xdc\x90~\x9f\xfe\xba\x01'<\xaf\xe0?\xfa\xf4\x00\xe0\xc78,:\xd1I\x9f\x9cr9\xff\x00>\xb4P\x02?S\xc9\xfdh\x19\xc8<\xf4\xa0\xae_<\xfe_\xfdj6\xf7\xdb\x81\xed\xff\x00\xea\xa0\x06\x8c\x93\xfc_\xad.\t?\xc5\xc5.\xd68\xe3\x03\xdb\xff\x00\xd5A^\xbc\x10?\xcf\xb5\x00\x0b\x92\xc3\xefQ@^W\x8cc\xfc\xfaQ@\x1f"}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 255, 'size': 41110}, {'_': 'PhotoSizeProgressive', 'type': 'x', 'w': 480, 'h': 382, 'sizes': [3581, 19886, 42495, 56259, 68819]}], 'dc_id': 2, 'has_stickers': False, 'video_sizes': []}, 'ttl_seconds': None}
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16520
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-06 07:42:08+00:00
+message : Модель дождя. 
+Из научн.журнала. Сама статья нам не нужна.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaPhoto', 'photo': {'_': 'Photo', 'id': 5438153862549716243, 'access_hash': 2556597384221030096, 'file_reference': b'\x02LEN\xb7\x00\x00@\x88b\xf0\x8a\xa6p\xe7y\xadk\xd7\x87\xb7/m-\xe8h\xe9K\xdc', 'date': datetime.datetime(2022, 8, 6, 7, 42, 7, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x19(\xd4<\xb1\xf4\xfaR\x82GC\x8aN7cn\x7f\x1a>P1\x8eh\x01K0\x1dh\xdc}\x7fJU\xff\x00w\x8a7>x\x1cP\x02o9\x1c\xf7\xa2\x95K\xe7\x91\xc5\x14\x00\x9d\xfe\xf7\x7fZn\x01c\xd4\xd3\xfb\x9a\x89\xbe\xf1\xa0\t\x80\xe7\xa9\xfc\xa9GJ\x86?\xbd\xf8T\x94\x00\xe1E4Q@\x1f'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 199, 'size': 23898}, {'_': 'PhotoSize', 'type': 'x', 'w': 800, 'h': 498, 'size': 113795}, {'_': 'PhotoSizeProgressive', 'type': 'y', 'w': 979, 'h': 610, 'sizes': [8219, 44836, 88885, 114667, 137287]}], 'dc_id': 2, 'has_stickers': False, 'video_sizes': []}, 'ttl_seconds': None}
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16519
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-05 16:49:39+00:00
+message : https://senselab.med.yale.edu/ModelDB/mdb_model_sharing
+
+https://senselab.med.yale.edu/MicroCircuitDB/ListByModelName?c=19&lin=-1
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 0, 'length': 55}, {'_': 'MessageEntityUrl', 'offset': 57, 'length': 72}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : MessageService
+id : 16515
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-05 00:29:27+00:00
+action : {'_': 'MessageActionChatAddUser', 'users': [270051549]}
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+legacy : False
+from_id : {'_': 'PeerUser', 'user_id': 270051549}
+reply_to : None
+ttl_period : None
+<============================>
+_ : Message
+id : 16514
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-04 18:58:40+00:00
+message : (можно скачать)
+ИЗБРАННЫЕ ТРУДЫ СИСТЕМНОГО ДВИЖЕНИЯ
+http://www.sci.aha.ru/ots/doc/index_book.htm
+
+например
+Исследования по Общей теории систем. Сборник переводов.
+М.: Издательство «Прогресс», 1969. — 520 с.
+
+Холл, А. Д., Фейджин, P. Е. Определение понятия системы
+Эллис, Д, Людвиг, Ф. Строгое определение понятия системы
+
+Клир, И. Абстрактное понятие системы как методологическое средство
+Тода М., Шуфорд, Э. X. (мл.). Логика систем: введение в формальную теорию структуры
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 52, 'length': 44}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16513
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-04 18:46:17+00:00
+message : Общая Теория Систем Урманцев Ю.А. - ОТСУ
+http://www.sci.aha.ru/ots/index.htm
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 41, 'length': 35}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16512
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-04 16:41:30+00:00
+message : Мною проблема решена мимоходом.
+Язык - это коды моделей.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16511
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-04 16:37:52+00:00
+message : 
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaPhoto', 'photo': {'_': 'Photo', 'id': 5431528836840931582, 'access_hash': -6408059653146198433, 'file_reference': b'\x02LEN\xb7\x00\x00@\x7fb\xf0\x8a\xa6$z\x9fy\xed)\x99\x86\xaeo\x05\xcf\xca\xd9\x95a', 'date': datetime.datetime(2022, 8, 4, 16, 37, 52, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x10(\xd22\xb6\xe3\x8c\xf5\xc7J7\xb1\xc89\xe3\xbd!\\\x13\xc0\xeb\xebK\xb7\x9e\x83\xf3\xa0\x001\xeb\x8cc\xbd\x1ekr)\x0f9\xe8?\xe0T\x01\x96\xce\x07\xe7@\x0eGva\xc7\x07\xde\x8a#O\x986\x06=h\xa0\x0f'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 127, 'size': 21924}, {'_': 'PhotoSizeProgressive', 'type': 'x', 'w': 659, 'h': 262, 'sizes': [3172, 51102, 52766]}], 'dc_id': 2, 'has_stickers': False, 'video_sizes': []}, 'ttl_seconds': None}
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16509
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-04 16:19:41+00:00
+message : Library Genesis: 
+Карпов А.В. - Язык как система.
+https://libgen.is/book/index.php?md5=D4F90DDBC9D5312F90473D80D9E3E13A
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 7158512879892616906, 'url': 'https://libgen.is/book/index.php?md5=D4F90DDBC9D5312F90473D80D9E3E13A', 'display_url': 'libgen.is/book/index.php?md5=D4F90DDBC9D5312F90473D80D9E3E13A', 'hash': 0, 'type': 'article', 'site_name': 'libgen.is', 'title': 'Library Genesis: Карпов А.В. - Язык как система.', 'description': 'Library Genesis is a scientific community targeting collection of books on natural science disciplines and engineering.', 'photo': None, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 50, 'length': 69}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-08-04 16:19:55+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16508
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-04 13:58:33+00:00
+message : https://towardsdatascience.com/beyond-theory-ais-pragmatic-side-7bc1bcc72f98
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 908058643}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 0, 'length': 76}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16507
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-04 13:56:36+00:00
+message : Projects | Cogia intelligence
+https://www.cogia.de/projekte
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 908058643}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 30, 'length': 29}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : MessageService
+id : 16506
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-03 19:37:14+00:00
+action : {'_': 'MessageActionChatAddUser', 'users': [1614027727]}
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+legacy : False
+from_id : {'_': 'PeerUser', 'user_id': 1614027727}
+reply_to : None
+ttl_period : None
+<============================>
+_ : Message
+id : 16505
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-03 05:11:32+00:00
+message : 
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : {'_': 'MessageFwdHeader', 'date': datetime.datetime(2022, 8, 2, 13, 56, 27, tzinfo=datetime.timezone.utc), 'imported': False, 'from_id': {'_': 'PeerChannel', 'channel_id': 1454400178}, 'from_name': None, 'channel_post': None, 'post_author': None, 'saved_from_peer': None, 'saved_from_msg_id': None, 'psa_type': None}
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaPhoto', 'photo': {'_': 'Photo', 'id': 5425022459603696505, 'access_hash': 274361562183283195, 'file_reference': b'\x02LEN\xb7\x00\x00@yb\xf0\x8a\xa6\xfe\x8e\xb3P\xdc\xc0\xb8\x813\xbaa\xd7\x935\xff\x87', 'date': datetime.datetime(2022, 8, 2, 13, 56, 27, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01(\x1d\x0c\xf7\x06&\x1fb\xf9q\xc9\xdc)\x86)\x86\x9aG\x95\x1e\xdf/;\xb7s\xeb\xe9S\xb4\x17b\x12M\xe0\xc0\x07\x8f,S\x1d\xee\xbf\xb3rV\x1f,\xc5\xef\x9cb\x80)\xc5\x10\x86\xe2\xdd\xe2\x06F`N\xd2\xc3\x9e+A\xa6\x9f<\xd9\xff\x00\xe4U\xaa\x93\xda\xcd\x0c\xb0\x98\x1dK\xf2\xa0\x85\x0b\x8e?\xfdt\xe6\x1a\xa8\xc02~\xa2\x80/\xb4o\xf6w>t\x9d:`\x7f\x85Td\x9b\xfb$?\x9eJ\xf9c\xe4\xda?\xc2\xad<i\xf6w;OO_j\xa6m\x19t\xf5\x95\xae%)\xb06\xcd\xdc}1@\n\xf9\x8eXH\x0b\x9d\xe7\xfeY\xec\xec{\xd4\xef3\xf1\xc4_\xf7\xd9\xff\x00\n\xab8\xb5\x9dR(\x83,\x8c\xdc\x16\x07\xfa\xd4gI`x\x99O\xe1@\x10\x1dF\xec\xa9S.A\xe3\xee\x8f\xf0\xa42\xb7\xd9\x87\xfa[\xe7\x18\xf2\xb9\xc5\x14P\x04R\xcf,\xc0\t\x1c\xb6:f\xa2\xa2\x8a\x00'}, {'_': 'PhotoSize', 'type': 'm', 'w': 232, 'h': 320, 'size': 26030}, {'_': 'PhotoSize', 'type': 'x', 'w': 579, 'h': 800, 'size': 122109}, {'_': 'PhotoSizeProgressive', 'type': 'y', 'w': 636, 'h': 878, 'sizes': [7260, 21072, 74309, 101563, 128370]}], 'dc_id': 2, 'has_stickers': False, 'video_sizes': []}, 'ttl_seconds': None}
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16504
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-02 17:37:48+00:00
+message : А что же тогда агиевы конюшни?)
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 418198604}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 16501, 'reply_to_peer_id': None, 'reply_to_top_id': 16500}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16503
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-02 17:36:08+00:00
+message : The Value of Values with Rich Hickey
+https://youtu.be/-6BsiVyC1kM
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 5127856301793611165, 'url': 'https://youtu.be/-6BsiVyC1kM', 'display_url': 'youtube.com/watch?v=-6BsiVyC1kM', 'hash': 0, 'type': 'video', 'site_name': 'YouTube', 'title': 'The Value of Values with Rich Hickey', 'description': "In this keynote speech from JaxConf 2012, Rich Hickey, creator of Clojure and founder of Datomic gives an awesome analysis of the changing way we think about values (not the philosphoical kind) in light of the increasing complexity of information technology and the advent of Big Data. The broad subject of the talk makes it worth watching for almost anyone in the programming world, and was one of the highlights of the JaxConf lineup.\n\nIf you like the talk, check out Hickey's other appearance at JaxConf2012 here: http://marakana.com/s/rich_hickey_on_deconstructing_the_database,1261/index.html", 'photo': {'_': 'Photo', 'id': 532581580157860832, 'access_hash': 7518378190652192498, 'file_reference': b'\x00b\xf0\x8a\xa6\xac?\xdcqi\x1c*r\xa5j|\xa1"\x06\xa9\x8c', 'date': datetime.datetime(2017, 9, 25, 23, 16, 36, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoSize', 'type': 's', 'w': 90, 'h': 51, 'size': 1204}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 180, 'size': 13036}, {'_': 'PhotoSize', 'type': 'x', 'w': 800, 'h': 449, 'size': 52528}, {'_': 'PhotoSize', 'type': 'y', 'w': 1280, 'h': 719, 'size': 84712}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': 'https://www.youtube.com/embed/-6BsiVyC1kM', 'embed_type': 'iframe', 'embed_width': 1280, 'embed_height': 720, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 37, 'length': 28}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16502
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-02 17:16:45+00:00
+message : отпочковались от ТРИЗа
+
+Метод Guided Brainstorming
+http://gbtriz.com/ru/metod-guided-brainstorming
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 51, 'length': 47}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16501
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-02 14:34:48+00:00
+message : "Сам не читал но осуждаю"
+Подпись: Свидетели АГИевы.😜😂
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 1324952415}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 16500, 'reply_to_peer_id': None, 'reply_to_top_id': None}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2022-08-02 14:35:03+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16500
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-08-02 13:46:55+00:00
+message : сам не читал
+—-
+ТЭММ - цели и задачи
+Теория эволюции материи и моделей
+Ю.С. Мурашковский, М.С. Рубин.
+12 сентября 2006 г.
+http://temm.ru/ru/section.php?docId=3296
+
+Стадии развития научных представлений
+Ю.Мурашковский
+http://temm.ru/ru/section.php?docId=3445
+—-
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 122, 'length': 40}, {'_': 'MessageEntityUrl', 'offset': 217, 'length': 40}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 2, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': 16504, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16499
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-30 17:39:39+00:00
+message : Комментарии к статье К.В.Анохина: «Когнитом: в поисках фундаментальной нейронаучной теории сознания»
+https://scorcher.ru/thems_review/7/Kommentarii_k_statye_K.V.Anohina_pro_soznaniye.htm
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 101, 'length': 85}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16498
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-30 16:11:51+00:00
+message : Синтаксис, семантика, Хомский, Монтегю.
+https://deep-econom.livejournal.com/1001637.html
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 8535923012110642051, 'url': 'https://deep-econom.livejournal.com/1001637.html', 'display_url': 'deep-econom.livejournal.com/1001637.html', 'hash': 1888484028, 'type': 'article', 'site_name': 'Livejournal', 'title': 'Синтаксис, семантика, Хомский, Монтегю.', 'description': '***Суммируя новаторский вклад этих двух исследователей в развитие формальной лингвистики, лингвист Эммон Бах пишет (1989): « Тезис Хомского состоял в том, что синтаксис английского языка можно описать как формальную систему, а тезис Монтегю, что и синтаксис и семантику английского языка можно…', 'photo': {'_': 'Photo', 'id': 5961886933447716508, 'access_hash': -355331065825356905, 'file_reference': b"\x00b\xf0\x8a\xa6`\x1cA'\x02\xeaC{\x05\x11\x90r\xda\x1aJ\xb8", 'date': datetime.datetime(2022, 7, 19, 9, 49, 30, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01((\xa1\x1cfF\xc0\xfc\xeaIaU\xc0\r\xc9\xech\x82M\xaa\xc0.OQQ1,rNI\xad4\xb1\x96\xad\x92\xfd\x99\xfdEF\xf1\xbau\x1cz\xd4\xd0O\xfc,~\x86\xac\x10\x08\xc1\x19\x15\\\xa9\xad\x0c\xdc\xe5\x17\xa9\x9fE>T\xd8\xe4v\xedEC6M1\xf6\xbf\xeb\x0f\xd2\x9d<\x1f\xc4\xa3\xea*\x18\x9fc\x83\xdb\xbd^\x040\xc89\x06\xae6j\xc63n.\xe5[kg\xb9\x93bp;\x9fJ\xbd4I\x03\x08\xd1\xb7`s\x93\xcd\x10\xca\xd0#,aF\xees\x8e\xf5]U\x91\x99\x99\xf3\x9eI4$\xd3\x1c\xa4\xa4\x88\xae\xbe\xf2\xfa\xe2\x8a\x8eW\xdf!=\xbbQQ-Y\xa4\x13He9$d\xe8x\xf4\xa2\x8a.;]\x12\xfd\xa9\xb1\xd0To+\xbfS\xc7\xa5\x14Q\xcc\xd9*)1\x94QE"\x8f'}, {'_': 'PhotoSize', 'type': 'm', 'w': 200, 'h': 200, 'size': 5145}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': 'deep_econom', 'document': None, 'cached_page': {'_': 'Page', 'url': 'https://deep-econom.livejournal.com/1001637.html', 'blocks': [{'_': 'PageBlockTitle', 'text': {'_': 'TextPlain', 'text': 'Синтаксис, семантика, Хомский, Монтегю.'}}, {'_': 'PageBlockAuthorDate', 'author': {'_': 'TextPlain', 'text': 'deep_econom'}, 'published_date': datetime.datetime(2022, 7, 30, 22, 45, tzinfo=datetime.timezone.utc)}, {'_': 'PageBlockParagraph', 'text': {'_': 'TextConcat', 'texts': [{'_': 'TextPlain', 'text': '***Суммируя новаторский вклад этих двух исследователей в развитие формальной лингвистики, лингвист Эммон Бах пишет (1989): \n«'}, {'_': 'TextBold', 'text': {'_': 'TextPlain', 'text': 'Тезис Хомского состоял в том, что синтаксис английского языка можно описать как формальную систему, \nа тезис Монтегю, что и синтаксис и семантику английского языка можно описать как формальную систему.'}}, {'_': 'TextPlain', 'text': '»\n\n(* ССЫЛКА\nФормальная семантика как порождение лингвистики и философии\n'}, {'_': 'TextUrl', 'text': {'_': 'TextPlain', 'text': 'https://polit.ru/article/2012/05/18/Partee/'}, 'url': 'https://polit.ru/article/2012/05/18/Partee/', 'webpage_id': 0}, {'_': 'TextPlain', 'text': '\nМы публикуем текст лекции Ph.D., профессора emerita факультета лингвистики и философии Массачусетского университета (США), приглашенного профессора Факультета лингвистики РГГУ Барбары Парти (Barbara Hall Partee), прочитанной 19 апреля 2012 года *)\n\n'}, {'_': 'TextBold', 'text': {'_': 'TextPlain', 'text': 'Мой тезис состоит в том, что "семантика - это форма синтаксиса". (обоснование в моем блоге)\nТ.е. любой язык, любые тексты, это формальные синтаксические конструкции.'}}, {'_': 'TextPlain', 'text': '\n\n***У Хомского было и до сих пор осталось двойственное отношение к семантике. Он всегда довольно скептически относился к семантике и всегда настаивал на автономии синтаксиса. Семантические понятия не играют никакой роли в синтаксисе – это его идея. Но он соглашается, что синтаксис должен служить основой для объяснения наших способностей понимать бесконечно много предложений, то есть для семантики. Его первая книга - «Синтаксические структуры» 57-го года.\n\n***Подход Фреге был строго антипсихологический: смысл должен быть чем-то объективным, существовать не в голове отдельного человека, а быть общим для всех. \n\n***А потом были философские войны. Обыденный язык против формального языка. Приблизительно в середине ΧΧ века началась большая война между философами обыденного языка и философами, которые больше уважали логические языки.\n\n***Главное для нас - обе стороны этой войны, а также Хомский, согласились с тем, что логические методы, применяемые к анализу формальных языков, не применимы к естественным языкам. В некоторых аспектах эта война продолжается.'}]}}], 'photos': [], 'documents': [], 'part': False, 'rtl': False, 'v2': False, 'views': None}, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 40, 'length': 48}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16492
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-30 14:59:22+00:00
+message : Шумский С.А.
+
+Презентация семинара «Мозг и язык: индексация смыслов»
+
+Аудиозапись семинара «Мозг и язык: индексация смыслов»
+
+Шумский С.А. Мозг и Язык: Гипотеза о строении «органа языка»
+
+(можно скачать)
+https://social.hse.ru/soc/structanalysis/presentations/index.html
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 6751995071129116964, 'url': 'https://social.hse.ru/soc/structanalysis/presentations/index.html', 'display_url': 'social.hse.ru/soc/structanalysis/presentations/index.html', 'hash': 0, 'type': 'article', 'site_name': 'social.hse.ru', 'title': 'Материалы и презентации научно-учебной группы', 'description': None, 'photo': {'_': 'Photo', 'id': 5800066081996516192, 'access_hash': 6279224450823871936, 'file_reference': b'\x00b\xf0\x8a\xa6\xc4ae\x0c`w\xe6\x87x0\x19\xddE8]K', 'date': datetime.datetime(2020, 10, 20, 7, 38, 50, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b"\x01\x15(\xa9\x9a\x07'\x02\x9b\x9aT?75\xd8s\x92l8\xcf8\xf5\xc7\x14\xc3\xc5NY~\xcf\xb3q\xdd\xb7\x18\xff\x00\x81\x13U\xdc\xfc\xd4\x93\x1bB\xe6\x8anh\xa6!\xb4QE\x03\x17q\xe9\x93IE\x14\x00QE\x14\x01"}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 167, 'size': 7684}, {'_': 'PhotoSize', 'type': 'x', 'w': 470, 'h': 246, 'size': 14421}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 204, 'length': 65}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-30 14:59:37+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16491
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-30 13:52:28+00:00
+message : Ваш коммент мне прислали )
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16490
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-30 13:50:11+00:00
+message : Хорошая книжка, кстати да)
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 123307867}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 16489, 'reply_to_peer_id': None, 'reply_to_top_id': None}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16489
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-30 13:49:45+00:00
+message : Николлс Дж.Г., Мартин А.Р., Валлас Б.Дж., Фукс П.А. - От нейрона к мозгу.pdf
+https://vk.com/wall-37160097_225344
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 77, 'length': 35}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 1, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': 16490, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16488
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-28 15:50:58+00:00
+message : https://www.youtube.com/watch?v=Hlld3ZJO6iw
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 908058643}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 0, 'length': 43}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16487
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-28 06:41:25+00:00
+message : Баарс. Когнитивная теория сознания.pdf (454 стр)
+https://deep-econom.livejournal.com/1000596.html
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 49, 'length': 48}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16486
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-27 10:46:25+00:00
+message : Пневмоника 
+https://habr.com/ru/post/374309/
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 2793430254892261848, 'url': 'https://habr.com/ru/post/374309/', 'display_url': 'habr.com/ru/post/374309', 'hash': 0, 'type': 'photo', 'site_name': 'Хабр', 'title': 'Пневмоника и влажные мечты стимпанка', 'description': '“Пневмоавтоматика с каждым годом приобретает все большее значение для современной техники. Пневматические приборы широко применяются при автоматизации производственных процессов и при управлении...', 'photo': {'_': 'Photo', 'id': 5795504483130780535, 'access_hash': 2626583463846406914, 'file_reference': b'\x00b\xf0\x8a\xa6\xf5\x0f\x86r\x80\x84z\xb1\xdak\x9c\x7f\xd7P)\x07', 'date': datetime.datetime(2020, 10, 18, 20, 15, 40, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x15(\xab\xbb\xe5\xc6\xd1\xf5\xa6\xd4\xa9**\x00b\x04\xfa\xd3\xbc\xe8\xff\x00\xe7\x88\xfc\xff\x00\xfa\xd5D\x90QSy\xd1\xff\x00\xcf\x11\xf9\xff\x00\xf5\xa8\xf3\xa3\xff\x00\x9e#\xf3\xff\x00\xebP\x04[\xbfvWh\xc99\xcfz)d`\xed\x95]\xa3\xd2\x8a\x00n{c\xf1\xa2\x8a(\x00\xa2\x8a(\x00\xa2\x8a(\x03'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 168, 'size': 4864}, {'_': 'PhotoSize', 'type': 'x', 'w': 800, 'h': 420, 'size': 18284}, {'_': 'PhotoSize', 'type': 'y', 'w': 1200, 'h': 630, 'size': 31747}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 12, 'length': 32}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16485
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-27 08:44:50+00:00
+message : Я практической пневмоникой занимался в 1984 году примерно. И компрессор купил и делал интегральные пневмонические многослойные схемы. Именно пневмоникой, а не пневматикой. Но в этом же 1984 году, каюсь, смог утащить с завода первый микропроцессор 580ИК80А и много микросхем памяти на 1 килобит 565РУ1 в которых золота совокупно набралось до 4-х граммов и разработал свой первый компьютер
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 1324952415}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 16484, 'reply_to_peer_id': None, 'reply_to_top_id': 16480}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-27 08:49:14+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16484
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-27 08:43:25+00:00
+message : https://habr.com/ru/post/374309/
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 364497840}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 16483, 'reply_to_peer_id': None, 'reply_to_top_id': 16480}
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 0, 'length': 32}]
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-27 10:45:51+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16483
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-27 07:52:06+00:00
+message : Зело борзо
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 1324952415}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 16480, 'reply_to_peer_id': None, 'reply_to_top_id': None}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16481
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-27 07:41:43+00:00
+message : —-
+ВПН, пользуюсь последнее время Lantern
+https://deep-econom.livejournal.com/976557.html
+—-
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 42, 'length': 47}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16480
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-27 07:39:24+00:00
+message : Харрис Цифровая схемотехника и архитектура компьютера RISC-V (Дэвид М. Харрис, Сара Л. Харрис) (z-lib.org).pdf
+
+скачать тут без смс и регистраций, вероятно нужен впн
+https://hi.book4you.org/book/21403307/4c5e20
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 6557634099587059431, 'url': 'https://hi.book4you.org/book/21403307/4c5e20', 'display_url': 'hi.1lib.domains/?redirectUrl=/book/21403307/4c5e20', 'hash': 0, 'type': 'article', 'site_name': 'hi.1lib.domains', 'title': 'Z-Library एकल साइन-ऑन', 'description': 'Z-Library एकल साइन-ऑन | Z-Library. Download books for free. Find books', 'photo': None, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 96, 'length': 9}, {'_': 'MessageEntityUrl', 'offset': 166, 'length': 44}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 3, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': 16485, 'read_max_id': None}
+edit_date : 2022-07-27 08:12:37+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16479
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-27 07:30:54+00:00
+message : Улыбающаяся улитка — на технологиях от бумеров, Интела и Пентагона
+https://habr.com/ru/post/678736/
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 2793430254354848125, 'url': 'https://habr.com/ru/post/678736/?utm_source=vk_habr&utm_medium=social&utm_campaign=mozhno-li-trenirovat-chipodelov-na-3-nano', 'display_url': 'habr.com/ru/post/678736', 'hash': 0, 'type': 'photo', 'site_name': 'Хабр', 'title': 'Можно ли тренировать чиподелов на 3 нанометра упражнениями с 130 нм? А упражнениями с 20000 нм?', 'description': 'В модном и молодежном учебнике электроники от Харрисов есть пример простого конечного автомата - "улыбащейся улитки". Я решил наглядно показать, как можно в домашних условиях реализовать улитку на...', 'photo': {'_': 'Photo', 'id': 5984409497134804562, 'access_hash': -2661462957792477498, 'file_reference': b'\x00b\xf0\x8a\xa6j$\xda=\xed\xc3?\xc2\xa0\xe3j_\x0c\x1b\xd92', 'date': datetime.datetime(2022, 7, 27, 6, 30, 20, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x17(\x828C\xdb\xe7v\x0e@\xa9\xf4\xa4\xd9\x7f*\xe7*\x13\x83\xf9Ux\x9fd@\x9fP\xd5sOe7\xce\xcb\xd0\xc7\x9f\xe5M\xc7\x97c(\xddJ\xcc\xd1\x91\xca\x9c($\xfaU\x1b\xa0\xfe{\x9d\xaa\x14c\x93\xf4\xab\x91|\xd2;\x9e\xb9\xc0\xf6\xaaW\xb3b\xe1\xa3<\x83\x8f\xe5H\xd4\x86)xt8\x0e\xdd\x01\xe34SY\x00\xf9\xc9%\x80\xe0\xd1M+\x83\xb1^\xd9\xf7[\xed\xc7+\xd6\xaci\r\xbe\xfan?\xe5\x9e?QE\x15\x0br\x9f\xc2\x8d\x88\xd4\xab>z\x13\x91YW\xfb~\xd6\xfb\xc0=1\xf9\n(\xabJ\xe47b\xac\xb3\xa9\x0e\x9bp\xd8\xe3\x1d\r\x14QI\xeeQ'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 181, 'size': 21002}, {'_': 'PhotoSizeProgressive', 'type': 'x', 'w': 780, 'h': 440, 'sizes': [6223, 19190, 40484, 58756, 92183]}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 67, 'length': 32}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16478
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-26 08:44:08+00:00
+message : Архитектура систем, про системы с разных сторон.
+https://deep-econom.livejournal.com/999586.html
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 49, 'length': 47}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-26 15:32:20+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16477
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-26 08:03:11+00:00
+message : 
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaPhoto', 'photo': {'_': 'Photo', 'id': 5404714552853117460, 'access_hash': -207688993308110728, 'file_reference': b'\x02LEN\xb7\x00\x00@]b\xf0\x8a\xa6\xd5\xbe<\xf3P|\xfe\xe3\xc1\x9c\xd9\x1e\xa2\xe4\xe3n', 'date': datetime.datetime(2022, 7, 26, 8, 3, 11, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x0c(\xd6p\x08\xe4S6\xaf\xa5,\xc7\t\xf8\xd4C\xad+\x05\x9fBU\x00\x1e\x05<\xf3\xd8TQ\xf2\xc351\xfa\xd0\x80:v\xa2\x97\xbd\x14\xc0'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 97, 'size': 8078}, {'_': 'PhotoSize', 'type': 'x', 'w': 800, 'h': 242, 'size': 34377}, {'_': 'PhotoSizeProgressive', 'type': 'y', 'w': 938, 'h': 284, 'sizes': [2980, 30672, 32920, 33412, 35207]}], 'dc_id': 2, 'has_stickers': False, 'video_sizes': []}, 'ttl_seconds': None}
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16476
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-25 17:32:47+00:00
+message : Купил бумажную на озоне
+
+https://www.ozon.ru/products/595571599/?asb=JgdBcwW8iHBc%252Bw6sUHCB4GZJ9B80bwTfZ6%252BvBa%252BYE5I%253D&asb2=3rIVwsWrCUrW-czIUa-oSLumtDo-DbeZDdHeaaxrbdStP-r_8ImvXR7aA6bepv84&keywords=%D0%BC%D0%BE%D0%B8%D1%81%D0%B5%D0%B5%D0%B2+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA+%D1%81%D1%80%D0%B5%D0%B4%D0%B0+%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE&sh=vl2b8R3g3Q&from=share_android
+
+Знаю, что Моисеев много книг написал, они, конечно, пересекаются, но у каждой изюминка.
+
+В этой книге про моделирование дошёл до четвёртой главы.
+Во введении рассказал про смысл всех сложных математических операций. В 70-е он издал учебник по исследованию операций.
+
+Первая глава была про модели неживой природы (физические законы сохранения).
+Вторая - про биотические системы, в которых ключевая роль у рефлексов.
+Потом про общественные системы, где все сложно и непредсказуемо.
+
+Достигаю 80-го уровня в понимании моделирования)))
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 322559917}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 16449, 'reply_to_peer_id': None, 'reply_to_top_id': 16432}
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 25, 'length': 382}]
+views : None
+forwards : None
+replies : None
+edit_date : 2022-07-26 04:20:32+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16474
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-25 06:02:41+00:00
+message : 28. Генерация RDF из табличных данных в Интернете: https://www.w3.org/TR/2015/REC-csv2rdf-20151217/
+29. SPARQL 1.1 Режимы вовлечения: https://www.w3.org/TR/2013/REC-sparql11-entailment-20130321/
+30. SPARQL 1.1 Федеративный запрос: https://www.w3.org/TR/2013/REC-sparql11-federated-query-20130321/
+31. SPARQL 1.1 HTTP-протокол хранилища графов: https://www.w3.org/TR/2013/REC-sparql11-http-rdf-update-20130321/
+32. Обзор SPARQL 1.1: https://www.w3.org/TR/2013/REC-sparql11-overview-20130321/
+33. SPARQL 1.1 Описание службы: https://www.w3.org/TR/2013/REC-sparql11-service-description-20130321/
+34. SPARQL 1.1 Обновление: https://www.w3.org/TR/2013/REC-sparql11-update-20130321/
+35. Протокол SPARQL 1.1: https://www.w3.org/TR/2013/REC-sparql11-protocol-20130321/
+36. OWL 2 RL в RIF(второе издание): https://www.w3.org/TR/2013/NOTE-rif-owl-rl-20130205/
+37. Краткое справочное руководство по языку веб-онтологий OWL 2 (второе издание): https://www.w3.org/TR/2012/REC-owl2-quick-reference-20121211/
+38. Семантика языка веб-онтологий OWL 2
+на основе RDF (второе издание): https://www.w3.org/TR/2012/REC-owl2-rdf-based-semantics-20121211/
+39. OWL 2 Прямая семантика языка веб-онтологий (второе издание): https://www.w3.org/TR/2012/REC-owl2-direct-semantics-20121211/
+40. Структурная спецификация языка веб-онтологий OWL 2
+и синтаксис функционального стиля (второе издание): https://www.w3.org/TR/2012/REC-owl2-syntax-20121211/
+41. Соответствие языку веб-онтологий OWL 2
+(второе издание): https://www.w3.org/TR/2012/REC-owl2-conformance-20121211/
+42. Новые функции и обоснование языка веб-онтологий OWL 2
+(второе издание): https://www.w3.org/TR/2012/REC-owl2-new-features-20121211/
+43. OWL 2 Расширение диапазона данных языка веб-онтологий: линейные уравнения (второе издание): https://www.w3.org/TR/2012/NOTE-owl2-dr-linear-20121211/
+44. OWL 2 Web Ontology Language Primer (Второе издание): https://www.w3.org/TR/2012/REC-owl2-primer-20121211/
+45. OWL 2 Языковые профили веб-онтологий
+(второе издание): https://www.w3.org/TR/2012/REC-owl2-profiles-20121211/
+46. Отображение языка веб-онтологий OWL 2
+в графы RDF (второе издание): https://www.w3.org/TR/2012/REC-owl2-mapping-to-rdf-20121211/
+47. Прямое отображение реляционных данных в RDF: https://www.w3.org/TR/2012/REC-rdb-direct-mapping-20120927/
+48. R2RML: язык отображения RDB в RDF: https://www.w3.org/TR/2012/REC-r2rml-20120927/
+49. Семантические веб-приложения в нейромедицине (SWAN) Онтология: https://www.w3.org/TR/2009/NOTE-hcls-swan-20091020/
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : {'_': 'MessageFwdHeader', 'date': datetime.datetime(2022, 7, 24, 22, 55, 7, tzinfo=datetime.timezone.utc), 'imported': False, 'from_id': {'_': 'PeerChannel', 'channel_id': 1487318406}, 'from_name': None, 'channel_post': 34, 'post_author': None, 'saved_from_peer': None, 'saved_from_msg_id': None, 'psa_type': None}
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 51, 'length': 48}, {'_': 'MessageEntityUrl', 'offset': 134, 'length': 60}, {'_': 'MessageEntityUrl', 'offset': 231, 'length': 65}, {'_': 'MessageEntityUrl', 'offset': 344, 'length': 65}, {'_': 'MessageEntityUrl', 'offset': 432, 'length': 58}, {'_': 'MessageEntityUrl', 'offset': 523, 'length': 69}, {'_': 'MessageEntityUrl', 'offset': 620, 'length': 56}, {'_': 'MessageEntityUrl', 'offset': 702, 'length': 58}, {'_': 'MessageEntityUrl', 'offset': 797, 'length': 52}, {'_': 'MessageEntityUrl', 'offset': 932, 'length': 61}, {'_': 'MessageEntityUrl', 'offset': 1066, 'length': 65}, {'_': 'MessageEntityUrl', 'offset': 1197, 'length': 62}, {'_': 'MessageEntityUrl', 'offset': 1367, 'length': 52}, {'_': 'MessageEntityUrl', 'offset': 1481, 'length': 57}, {'_': 'MessageEntityUrl', 'offset': 1615, 'length': 58}, {'_': 'MessageEntityUrl', 'offset': 1770, 'length': 56}, {'_': 'MessageEntityUrl', 'offset': 1884, 'length': 52}, {'_': 'MessageEntityUrl', 'offset': 1996, 'length': 54}, {'_': 'MessageEntityUrl', 'offset': 2123, 'length': 60}, {'_': 'MessageEntityUrl', 'offset': 2233, 'length': 59}, {'_': 'MessageEntityUrl', 'offset': 2332, 'length': 46}, {'_': 'MessageEntityUrl', 'offset': 2446, 'length': 51}]
+views : 44
+forwards : 3
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16472
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-25 06:02:01+00:00
+message : Вот еще кое-что от консорциума W3C, относящееся к AGI:
+1. Что нового в RDF 1.1: https://www.w3.org/TR/2014/NOTE-rdf11-new-20140225/
+2. Линейный синтаксис для RDF-графа: https://www.w3.org/TR/2014/REC-n-triples-20140225/
+1. Семантика RDF 1.1: https://www.w3.org/TR/2014/REC-rdf11-mt-20140225/
+3. RDF 1.1: О семантике наборов данных RDF: https://www.w3.org/TR/2014/NOTE-rdf11-datasets-20140225/
+4. Концепции RDF 1.1 и абстрактный синтаксис: https://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/
+5. RDFa 1.1 Primer — третье издание: https://www.w3.org/TR/2015/NOTE-rdfa-primer-20150317/
+6. API индексированной базы данных: https://www.w3.org/TR/2015/REC-IndexedDB-20150108/
+7. Язык разметки эмоций (EmotionML) 1.0: https://www.w3.org/TR/2014/REC-emotionml-20140522/
+8. Словари для EmotionML: https://www.w3.org/TR/2014/NOTE-emotion-voc-20140401/
+9. RDF 1.1: О семантике наборов данных RDF: https://www.w3.org/TR/2014/NOTE-rdf11-datasets-20140225/
+10. PROV-DM: Модель данных PROV: https://www.w3.org/TR/prov-dm/
+11. PROV-O: онтология PROV: https://www.w3.org/TR/prov-o/
+12. Онтология времени в OWL: https://www.w3.org/TR/2020/CR-owl-time-20200326/
+13. Расширения OWL-Time Ontology — временные агрегаты: https://www.w3.org/TR/2020/NOTE-vocab-owl-time-agg-20200707/
+14. Расширения OWL-Time Ontology — отношения сущностей: https://www.w3.org/TR/vocab-owl-time-rel/
+15. Язык разметки синтеза речи (SSML), версия 1.1: https://www.w3.org/TR/speech-synthesis11/
+с улучшениями: https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220724/
+16. API веб-нейронной сети: https://www.w3.org/TR/2022/WD-webnn-20220630/
+17. Онтология организации: https://www.w3.org/TR/2014/REC-vocab-org-20140116/
+18: Словарь RDF Data Cube: https://www.w3.org/TR/2014/REC-vocab-data-cube-20140116/
+19. VSSo: Онтология спецификации сигналов транспортных средств: https://www.w3.org/TR/2022/WD-vsso-20220303/
+20. API состояния батареи: https://www.w3.org/TR/2022/WD-battery-status-20220203/
+21. Акселерометр: https://www.w3.org/TR/2021/CRD-accelerometer-20211208/
+22. Гироскоп: https://www.w3.org/TR/2021/CRD-gyroscope-20211207/
+23. Магнитометр: https://www.w3.org/TR/2021/WD-magnetometer-20211207/
+24. Расширения онтологии сети семантических датчиков: https://www.w3.org/TR/2020/WD-vocab-ssn-ext-20200116/
+25. Датчик приближения: https://www.w3.org/TR/2021/WD-proximity-20210903/
+26. Датчик ориентации: https://www.w3.org/TR/2021/WD-orientation-sensor-20210902/
+27. Уровень времени высокого разрешения 2: https://www.w3.org/TR/2019/REC-hr-time-2-20191121/
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : {'_': 'MessageFwdHeader', 'date': datetime.datetime(2022, 7, 24, 21, 28, 32, tzinfo=datetime.timezone.utc), 'imported': False, 'from_id': {'_': 'PeerChannel', 'channel_id': 1487318406}, 'from_name': None, 'channel_post': 33, 'post_author': None, 'saved_from_peer': None, 'saved_from_msg_id': None, 'psa_type': None}
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 5778323077328775336, 'url': 'https://www.w3.org/TR/2020/CR-owl-time-20200326/', 'display_url': 'w3.org/TR/owl-time', 'hash': 0, 'type': 'article', 'site_name': 'www.w3.org', 'title': 'Time Ontology in OWL', 'description': 'OWL-Time is an OWL-2 DL ontology of temporal concepts, for describing the temporal properties of\nresources in the world or described in Web pages. The ontology provides a vocabulary for expressing facts about\ntopological (ordering) relations among instants and intervals, together with information about durations, and about\ntemporal position including date-time information. Time positions and durations may be expressed using either the conventional (Gregorian) calendar and clock, or using another temporal reference system such as Unix-time, geologic time, or different calendars.', 'photo': None, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 80, 'length': 51}, {'_': 'MessageEntityUrl', 'offset': 169, 'length': 50}, {'_': 'MessageEntityUrl', 'offset': 242, 'length': 49}, {'_': 'MessageEntityUrl', 'offset': 336, 'length': 56}, {'_': 'MessageEntityUrl', 'offset': 439, 'length': 55}, {'_': 'MessageEntityUrl', 'offset': 532, 'length': 53}, {'_': 'MessageEntityUrl', 'offset': 622, 'length': 50}, {'_': 'MessageEntityUrl', 'offset': 714, 'length': 50}, {'_': 'MessageEntityUrl', 'offset': 791, 'length': 53}, {'_': 'MessageEntityUrl', 'offset': 889, 'length': 56}, {'_': 'MessageEntityUrl', 'offset': 979, 'length': 30}, {'_': 'MessageEntityUrl', 'offset': 1038, 'length': 29}, {'_': 'MessageEntityUrl', 'offset': 1097, 'length': 48}, {'_': 'MessageEntityUrl', 'offset': 1201, 'length': 60}, {'_': 'MessageEntityUrl', 'offset': 1318, 'length': 41}, {'_': 'MessageEntityUrl', 'offset': 1411, 'length': 41}, {'_': 'MessageEntityUrl', 'offset': 1468, 'length': 53}, {'_': 'MessageEntityUrl', 'offset': 1550, 'length': 45}, {'_': 'MessageEntityUrl', 'offset': 1623, 'length': 50}, {'_': 'MessageEntityUrl', 'offset': 1701, 'length': 56}, {'_': 'MessageEntityUrl', 'offset': 1822, 'length': 44}, {'_': 'MessageEntityUrl', 'offset': 1894, 'length': 54}, {'_': 'MessageEntityUrl', 'offset': 1967, 'length': 54}, {'_': 'MessageEntityUrl', 'offset': 2036, 'length': 50}, {'_': 'MessageEntityUrl', 'offset': 2104, 'length': 52}, {'_': 'MessageEntityUrl', 'offset': 2211, 'length': 53}, {'_': 'MessageEntityUrl', 'offset': 2289, 'length': 49}, {'_': 'MessageEntityUrl', 'offset': 2362, 'length': 58}, {'_': 'MessageEntityUrl', 'offset': 2464, 'length': 50}]
+views : 40
+forwards : 5
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 16471
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2022-07-24 18:44:45+00:00
+message : Понравилась онтология, весьма проработана.
+(смотрел поверхностно)
+https://www.w3.org/TR/prov-o/
+https://www.w3.org/TR/prov-dm/#bib-PROV-LAYOUT
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 66, 'length': 29}, {'_': 'MessageEntityUrl', 'offset': 96, 'length': 46}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 23744, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-24 18:45:39+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None

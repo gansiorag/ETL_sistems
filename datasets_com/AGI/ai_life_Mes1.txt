@@ -34,3 +34,901 @@ post_author : None
 grouped_id : None
 restriction_reason : []
 ttl_period : None
+<============================>
+_ : Message
+id : 43730
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-08-02 11:12:45+00:00
+message : не ясно как сделать 2, 4 и 5 задание
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 627537551}
+fwd_from : {'_': 'MessageFwdHeader', 'date': datetime.datetime(2022, 8, 2, 11, 11, 40, tzinfo=datetime.timezone.utc), 'imported': False, 'from_id': {'_': 'PeerUser', 'user_id': 627537551}, 'from_name': None, 'channel_post': None, 'post_author': None, 'saved_from_peer': None, 'saved_from_msg_id': None, 'psa_type': None}
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63070, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43729
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-08-02 11:12:45+00:00
+message : 
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 627537551}
+fwd_from : {'_': 'MessageFwdHeader', 'date': datetime.datetime(2022, 8, 2, 11, 11, 33, tzinfo=datetime.timezone.utc), 'imported': False, 'from_id': {'_': 'PeerUser', 'user_id': 627537551}, 'from_name': None, 'channel_post': None, 'post_author': None, 'saved_from_peer': None, 'saved_from_msg_id': None, 'psa_type': None}
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaDocument', 'document': {'_': 'Document', 'id': 5424651756225174516, 'access_hash': -5411186813144197940, 'file_reference': b'\x02L\xdb\xed\x06\x00\x00\xaa\xd1b\xe9E\xca\nn\xccU\xf5b\xa6\xf8\x1c\xa8\xaa\x9f\xbcv0\xd2', 'date': datetime.datetime(2022, 8, 2, 11, 11, 33, tzinfo=datetime.timezone.utc), 'mime_type': 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'size': 4257627, 'dc_id': 2, 'attributes': [{'_': 'DocumentAttributeFilename', 'file_name': 'final2.docx'}], 'thumbs': [], 'video_thumbs': []}, 'ttl_seconds': None}
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63070, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43728
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-08-02 11:12:45+00:00
+message : Всем привет, кто-то может помочь мне с заданием по курсу?Вообщем у кого есть времяи возможность можем списаться в лс,спасибо
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 627537551}
+fwd_from : {'_': 'MessageFwdHeader', 'date': datetime.datetime(2022, 8, 2, 11, 11, 19, tzinfo=datetime.timezone.utc), 'imported': False, 'from_id': {'_': 'PeerUser', 'user_id': 627537551}, 'from_name': None, 'channel_post': None, 'post_author': None, 'saved_from_peer': None, 'saved_from_msg_id': None, 'psa_type': None}
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63070, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43726
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-08-01 12:15:32+00:00
+message : Добро пожаловать!
+
+Правила чата:
+1. После вступления, расскажите о себе с тегом #aboutme. Ваш бэкграунд, над чем работали или размышляли последнее время, ваши идеи, планы.
+2. Видите спам или сомнительное сообщение - ответьте на него в чате с текстом "@banofbot" и бот начнет голосование за кик участника и удаление этого сообщения.
+
+Спасибо! :)
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 176365905}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityHashtag', 'offset': 80, 'length': 8}, {'_': 'MessageEntityMention', 'offset': 251, 'length': 9}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63070, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43710
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-07-29 16:48:49+00:00
+message : отличная лекция, вчера с удовольствием послушал
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 150242219}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 43709, 'reply_to_peer_id': None, 'reply_to_top_id': None}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43709
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-07-29 14:50:46+00:00
+message : https://www.youtube.com/watch?v=Hlld3ZJO6iw
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 302910826}
+fwd_from : {'_': 'MessageFwdHeader', 'date': datetime.datetime(2022, 7, 29, 14, 49, 16, tzinfo=datetime.timezone.utc), 'imported': False, 'from_id': {'_': 'PeerChannel', 'channel_id': 1204700902}, 'from_name': None, 'channel_post': 659, 'post_author': 'Anton Kolonin', 'saved_from_peer': None, 'saved_from_msg_id': None, 'psa_type': None}
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 1503448449410846694, 'url': 'https://www.youtube.com/watch?v=Hlld3ZJO6iw', 'display_url': 'youtube.com/watch?v=Hlld3ZJO6iw', 'hash': 0, 'type': 'video', 'site_name': 'YouTube', 'title': 'Когнитивная архитектура на основе принципов обработки информации ... — Антон Колонин —Семинар AGI', 'description': 'Когнитивная архитектура на основе принципов обработки информации мозгом и задачного подхода — Антон Колонин\nСеминар русскоязычного сообщества AGI\n28 июля 2022\n\nhttps://arxiv.org/abs/2206.03487\nhttps://arxiv.org/abs/2204.07919\n\nhttps://agirussia.org/\nМы ведем группы и организуем семинары русскоязычного сообщества разработчиков систем AGI (Artificial General Intelligence или Общий Искусственный Интеллект) или Strong AI (Сильный Искусственный Интеллект), а также - являющийся их частным случаем HLAI (Human-Level Artificial Intelligence или Искусственный Интеллект Человеческого Уровня).\n\nГруппы:\nhttps://t.me/agirussianews (новостной канал)\nhttps://t.me/agirussia (основная)\nhttps://t.me/agiterms (вопросы терминологии)\nhttps://t.me/agibots (разговорный интеллект)\nhttps://t.me/agifintech (финансовые технологии)\nhttps://t.me/collectivei (коллективный интеллект)\nhttps://vk.com/agirussia\nhttps://www.facebook.com/groups/agirussia (основная)\nhttps://www.facebook.com/groups/socialintelligence (коллективный интеллект)\nhttps://groups.google.com/g/agirussia\n\nОнлайн-семинары идут по четвергам, в 18:00 по Московскому времени. Продолжительность два часа, обычно это либо доклад на один-полтора часа и последующее обсуждение на полчаса-час либо круглый стол с регламентом на усмотрение модератора дискуссии. Технические средства проведения, регламент и модерацию обычно обеспечивает инициатор конкретного семинара либо спикер и его коллеги.\n\nРегистрация на семинары (внизу страницы):\nhttps://aigents.timepad.ru/event/1412596\n\nПрограмма следующих семинаров:\nhttps://agirussia.org/workshops.html', 'photo': {'_': 'Photo', 'id': 5991115929653718643, 'access_hash': 66333972481680327, 'file_reference': b'\x00b\xe9E\xca\xbf\x8f\xdd\xe3`\x9d|\x10\xecvw\x14\xb4\xc6\xd0R', 'date': datetime.datetime(2022, 7, 29, 15, 26, 54, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x1e(i\xd1\x95O\xcd3\x0f\xf8\x08\xff\x00\x1aO\xecd\xff\x00\x9f\x83\xff\x00|\x8f\xf1\xad\xa7\xdd\xfc ~4\xdc\xb0\x1c\xa8\xa0\x0c\x7f\xecu\xed9\xfc\x87\xf8\xd2\x7fc\xa7k\x82\x7f\x01\xfe5\xb3\xb8\x8e\xa0P\x15\xc3rF>\x94\x01\x90\xba2\xb7\xdd\x9d\xbf\xef\x91\xfe4V\xd6Tw\x14P\x03\x1a"[;\x8d5\xb6\x8e2I\xae|j\xb7\x83\xa4\x83\xfe\xf9\x14\xbf\xda\xd7\x99\xff\x00X?\xef\x91@\x1d\x03\x0c(-Aq \xda\xbd\xeb\x9f\xfe\xd7\xbc\xff\x00\x9e\xa3\xfe\xf9\x14\x7fk^\x7f\xcfQ\xff\x00|\x8a\x00\xdfXy%\xb1\xf4\x14W>uk\xc3\xff\x00-G\xfd\xf2(\xa5a\xdc'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 240, 'size': 19553}, {'_': 'PhotoSize', 'type': 'x', 'w': 480, 'h': 360, 'size': 31825}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': 'https://www.youtube.com/embed/Hlld3ZJO6iw', 'embed_type': 'iframe', 'embed_width': 480, 'embed_height': 360, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 0, 'length': 43}]
+views : 676
+forwards : 7
+replies : {'_': 'MessageReplies', 'replies': 1, 'replies_pts': 63070, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': 43710, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43693
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-07-29 01:24:42+00:00
+message : 🔫 @ironit324 кикнут — вернуть этого пользователя можно только разбаном в настройках чата.
+
+Проголосовавшие за кик:
+@T_i_m_u_r_T, @bloxeyy, @DexterQ, @mymentalist, @mikadi
+Информация по переезду из 🇺🇦 в 🇨🇦
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 313092884}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityMentionName', 'offset': 3, 'length': 10, 'user_id': 1801697010}, {'_': 'MessageEntityMentionName', 'offset': 116, 'length': 12, 'user_id': 1105541456}, {'_': 'MessageEntityMentionName', 'offset': 130, 'length': 8, 'user_id': 1017694311}, {'_': 'MessageEntityMentionName', 'offset': 140, 'length': 8, 'user_id': 323417257}, {'_': 'MessageEntityMentionName', 'offset': 150, 'length': 12, 'user_id': 687445652}, {'_': 'MessageEntityMentionName', 'offset': 164, 'length': 7, 'user_id': 352774159}, {'_': 'MessageEntityTextUrl', 'offset': 172, 'length': 37, 'url': 'https://www.ua2canada.info/'}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63070, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-29 10:04:53+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43692
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-07-29 01:24:39+00:00
+message : @banofbot
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 1105541456}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 43686, 'reply_to_peer_id': None, 'reply_to_top_id': None}
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityMention', 'offset': 0, 'length': 9}]
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43685
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-07-27 10:55:03+00:00
+message : Этот бот знает всё
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 1801697010}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63070, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43684
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-07-27 10:54:55+00:00
+message : 
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 1801697010}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaPhoto', 'photo': {'_': 'Photo', 'id': 5406836240927538096, 'access_hash': -2242888900183359718, 'file_reference': b'\x02L\xdb\xed\x06\x00\x00\xaa\xa4b\xe9E\xca\x92\xe4\xb1\xedSNm\xf3\x0c\xabe\xd6\xb1\x1c\x19%', 'date': datetime.datetime(2022, 7, 27, 10, 9, 24, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01(\x0c\xb5\xe4\xc0\x07\xcd\x9ad\x96\xe3w\xc8\x1b\x1fZ\xb4Y\xf6\xe7\n=\xcdC \x0c\xf9.\t\xf6\xa5vK%\xf2\xc6\x06\x15\x7f\x1ak\xb1\r\x82@\xfa\n3\xbeES\x0b\x90G\xde9\x14\xd7\xfb\xdc(\x03\xd0\x8aCd\xbb\xa68\xc2\x01\x8fSCFX\xe5\xba\xd1E6\x07'}, {'_': 'PhotoSize', 'type': 'm', 'w': 96, 'h': 320, 'size': 11739}, {'_': 'PhotoSize', 'type': 'x', 'w': 241, 'h': 800, 'size': 49676}, {'_': 'PhotoSizeProgressive', 'type': 'y', 'w': 386, 'h': 1280, 'sizes': [7787, 20712, 42517, 66293, 91143]}], 'dc_id': 2, 'has_stickers': False, 'video_sizes': []}, 'ttl_seconds': None}
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63070, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43683
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-07-27 10:54:50+00:00
+message : В телеграмме
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 1801697010}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63070, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43682
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-07-27 10:54:47+00:00
+message : Я нашел искусственный интеллект
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 1801697010}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63070, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43681
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-07-27 10:53:36+00:00
+message : Всем привет
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 1801697010}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63070, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43664
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-07-25 13:19:37+00:00
+message : Когнитивная архитектура на основе принципов обработки информации мозгом и задачного подхода — Антон Колонин, 28 июля 2022 18:00-20:30 (время Московское) 
+https://aigents.timepad.ru/event/1412596/
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 302910826}
+fwd_from : {'_': 'MessageFwdHeader', 'date': datetime.datetime(2022, 7, 25, 13, 18, 35, tzinfo=datetime.timezone.utc), 'imported': False, 'from_id': {'_': 'PeerChannel', 'channel_id': 1204700902}, 'from_name': None, 'channel_post': 655, 'post_author': 'Anton Kolonin', 'saved_from_peer': None, 'saved_from_msg_id': None, 'psa_type': None}
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 5221846781886631003, 'url': 'https://aigents.timepad.ru/event/1412596/', 'display_url': 'aigents.timepad.ru/event/1412596', 'hash': 0, 'type': 'article', 'site_name': 'aigents.timepad.ru', 'title': 'Семинар русскоязычного сообщества AGI / События на TimePad.ru', 'description': 'AI Dog — это проект по созданию сильного ИИ с эмоциями &#151; Захар Понимаш\n21 июля 2022 18:00-20:30 (время Московское)', 'photo': {'_': 'Photo', 'id': 5968570289107348364, 'access_hash': -6302084269537444401, 'file_reference': b'\x00b\xe9E\xcaA\xa5G!\x89\x9d\xa1\xf1\x80\x19}\xd5P\xb7\xc0\x11', 'date': datetime.datetime(2020, 9, 10, 19, 48, 31, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x0f(\xcc\x0e\x0f\x0c\x07\xd6\x9e"V\xeaqPS\x91\x8a0a\xd4V\xa2\xb7b\xfbZ\xc1\xe4\xfc\xb9\r\xd3\x9fZ\xa4`|\x12\x98|pqV\xdfRg\x8bn\xd2\x1b\x18\xcej\x14\xba\xf2\xe3\n\x17\x90y\xe7\xad-FV\xc6:\xd1V\xd6d\x98\xedq\xc9\xe0g\x9a)\x85\xcf'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 122, 'size': 10495}, {'_': 'PhotoSize', 'type': 'x', 'w': 800, 'h': 304, 'size': 42253}, {'_': 'PhotoSize', 'type': 'y', 'w': 820, 'h': 312, 'size': 43459}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 91}, {'_': 'MessageEntityUrl', 'offset': 154, 'length': 41}]
+views : 1166
+forwards : 22
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63070, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43796
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-08-08 00:05:38+00:00
+message : Добро пожаловать!
+
+Правила чата:
+1. После вступления, расскажите о себе с тегом #aboutme. Ваш бэкграунд, над чем работали или размышляли последнее время, ваши идеи, планы.
+2. Видите спам или сомнительное сообщение - ответьте на него в чате с текстом "@banofbot" и бот начнет голосование за кик участника и удаление этого сообщения.
+
+Спасибо! :)
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 176365905}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityHashtag', 'offset': 80, 'length': 8}, {'_': 'MessageEntityMention', 'offset': 251, 'length': 9}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63201, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43781
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-08-05 12:13:04+00:00
+message : Добро пожаловать!
+
+Правила чата:
+1. После вступления, расскажите о себе с тегом #aboutme. Ваш бэкграунд, над чем работали или размышляли последнее время, ваши идеи, планы.
+2. Видите спам или сомнительное сообщение - ответьте на него в чате с текстом "@banofbot" и бот начнет голосование за кик участника и удаление этого сообщения.
+
+Спасибо! :)
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 176365905}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityHashtag', 'offset': 80, 'length': 8}, {'_': 'MessageEntityMention', 'offset': 251, 'length': 9}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63201, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43730
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-08-02 11:12:45+00:00
+message : не ясно как сделать 2, 4 и 5 задание
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 627537551}
+fwd_from : {'_': 'MessageFwdHeader', 'date': datetime.datetime(2022, 8, 2, 11, 11, 40, tzinfo=datetime.timezone.utc), 'imported': False, 'from_id': {'_': 'PeerUser', 'user_id': 627537551}, 'from_name': None, 'channel_post': None, 'post_author': None, 'saved_from_peer': None, 'saved_from_msg_id': None, 'psa_type': None}
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63201, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43729
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-08-02 11:12:45+00:00
+message : 
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 627537551}
+fwd_from : {'_': 'MessageFwdHeader', 'date': datetime.datetime(2022, 8, 2, 11, 11, 33, tzinfo=datetime.timezone.utc), 'imported': False, 'from_id': {'_': 'PeerUser', 'user_id': 627537551}, 'from_name': None, 'channel_post': None, 'post_author': None, 'saved_from_peer': None, 'saved_from_msg_id': None, 'psa_type': None}
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaDocument', 'document': {'_': 'Document', 'id': 5424651756225174516, 'access_hash': -5411186813144197940, 'file_reference': b'\x02L\xdb\xed\x06\x00\x00\xaa\xd1b\xf0\x8a\xa1\xcem\xce\xe3\x06F\x114\xe7\xd1\x19\xf6\x8a\xb2"\x08', 'date': datetime.datetime(2022, 8, 2, 11, 11, 33, tzinfo=datetime.timezone.utc), 'mime_type': 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'size': 4257627, 'dc_id': 2, 'attributes': [{'_': 'DocumentAttributeFilename', 'file_name': 'final2.docx'}], 'thumbs': [], 'video_thumbs': []}, 'ttl_seconds': None}
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63201, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43728
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-08-02 11:12:45+00:00
+message : Всем привет, кто-то может помочь мне с заданием по курсу?Вообщем у кого есть времяи возможность можем списаться в лс,спасибо
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 627537551}
+fwd_from : {'_': 'MessageFwdHeader', 'date': datetime.datetime(2022, 8, 2, 11, 11, 19, tzinfo=datetime.timezone.utc), 'imported': False, 'from_id': {'_': 'PeerUser', 'user_id': 627537551}, 'from_name': None, 'channel_post': None, 'post_author': None, 'saved_from_peer': None, 'saved_from_msg_id': None, 'psa_type': None}
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63201, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43710
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-07-29 16:48:49+00:00
+message : отличная лекция, вчера с удовольствием послушал
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 150242219}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 43709, 'reply_to_peer_id': None, 'reply_to_top_id': None}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43709
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-07-29 14:50:46+00:00
+message : https://www.youtube.com/watch?v=Hlld3ZJO6iw
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 302910826}
+fwd_from : {'_': 'MessageFwdHeader', 'date': datetime.datetime(2022, 7, 29, 14, 49, 16, tzinfo=datetime.timezone.utc), 'imported': False, 'from_id': {'_': 'PeerChannel', 'channel_id': 1204700902}, 'from_name': None, 'channel_post': 659, 'post_author': 'Anton Kolonin', 'saved_from_peer': None, 'saved_from_msg_id': None, 'psa_type': None}
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 1503448449410846694, 'url': 'https://www.youtube.com/watch?v=Hlld3ZJO6iw', 'display_url': 'youtube.com/watch?v=Hlld3ZJO6iw', 'hash': 0, 'type': 'video', 'site_name': 'YouTube', 'title': 'Когнитивная архитектура на основе принципов обработки информации ... — Антон Колонин —Семинар AGI', 'description': 'Когнитивная архитектура на основе принципов обработки информации мозгом и задачного подхода — Антон Колонин\nСеминар русскоязычного сообщества AGI\n28 июля 2022\n\nhttps://arxiv.org/abs/2206.03487\nhttps://arxiv.org/abs/2204.07919\n\nhttps://agirussia.org/\nМы ведем группы и организуем семинары русскоязычного сообщества разработчиков систем AGI (Artificial General Intelligence или Общий Искусственный Интеллект) или Strong AI (Сильный Искусственный Интеллект), а также - являющийся их частным случаем HLAI (Human-Level Artificial Intelligence или Искусственный Интеллект Человеческого Уровня).\n\nГруппы:\nhttps://t.me/agirussianews (новостной канал)\nhttps://t.me/agirussia (основная)\nhttps://t.me/agiterms (вопросы терминологии)\nhttps://t.me/agibots (разговорный интеллект)\nhttps://t.me/agifintech (финансовые технологии)\nhttps://t.me/collectivei (коллективный интеллект)\nhttps://vk.com/agirussia\nhttps://www.facebook.com/groups/agirussia (основная)\nhttps://www.facebook.com/groups/socialintelligence (коллективный интеллект)\nhttps://groups.google.com/g/agirussia\n\nОнлайн-семинары идут по четвергам, в 18:00 по Московскому времени. Продолжительность два часа, обычно это либо доклад на один-полтора часа и последующее обсуждение на полчаса-час либо круглый стол с регламентом на усмотрение модератора дискуссии. Технические средства проведения, регламент и модерацию обычно обеспечивает инициатор конкретного семинара либо спикер и его коллеги.\n\nРегистрация на семинары (внизу страницы):\nhttps://aigents.timepad.ru/event/1412596\n\nПрограмма следующих семинаров:\nhttps://agirussia.org/workshops.html', 'photo': {'_': 'Photo', 'id': 5991115929653718643, 'access_hash': 66333972481680327, 'file_reference': b'\x00b\xf0\x8a\xa1\teN\xcd\x81\xa8\x98`\x1bHu\xc7o\xdb\xd7 ', 'date': datetime.datetime(2022, 7, 29, 15, 26, 54, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x1e(i\xd1\x95O\xcd3\x0f\xf8\x08\xff\x00\x1aO\xecd\xff\x00\x9f\x83\xff\x00|\x8f\xf1\xad\xa7\xdd\xfc ~4\xdc\xb0\x1c\xa8\xa0\x0c\x7f\xecu\xed9\xfc\x87\xf8\xd2\x7fc\xa7k\x82\x7f\x01\xfe5\xb3\xb8\x8e\xa0P\x15\xc3rF>\x94\x01\x90\xba2\xb7\xdd\x9d\xbf\xef\x91\xfe4V\xd6Tw\x14P\x03\x1a"[;\x8d5\xb6\x8e2I\xae|j\xb7\x83\xa4\x83\xfe\xf9\x14\xbf\xda\xd7\x99\xff\x00X?\xef\x91@\x1d\x03\x0c(-Aq \xda\xbd\xeb\x9f\xfe\xd7\xbc\xff\x00\x9e\xa3\xfe\xf9\x14\x7fk^\x7f\xcfQ\xff\x00|\x8a\x00\xdfXy%\xb1\xf4\x14W>uk\xc3\xff\x00-G\xfd\xf2(\xa5a\xdc'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 240, 'size': 19553}, {'_': 'PhotoSize', 'type': 'x', 'w': 480, 'h': 360, 'size': 31825}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': 'https://www.youtube.com/embed/Hlld3ZJO6iw', 'embed_type': 'iframe', 'embed_width': 480, 'embed_height': 360, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 0, 'length': 43}]
+views : 1008
+forwards : 13
+replies : {'_': 'MessageReplies', 'replies': 1, 'replies_pts': 63201, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': 43710, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43693
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-07-29 01:24:42+00:00
+message : 🔫 @ironit324 кикнут — вернуть этого пользователя можно только разбаном в настройках чата.
+
+Проголосовавшие за кик:
+@T_i_m_u_r_T, @bloxeyy, @DexterQ, @mymentalist, @mikadi
+Информация по переезду из 🇺🇦 в 🇨🇦
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 313092884}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityMentionName', 'offset': 3, 'length': 10, 'user_id': 1801697010}, {'_': 'MessageEntityMentionName', 'offset': 116, 'length': 12, 'user_id': 1105541456}, {'_': 'MessageEntityMentionName', 'offset': 130, 'length': 8, 'user_id': 1017694311}, {'_': 'MessageEntityMentionName', 'offset': 140, 'length': 8, 'user_id': 323417257}, {'_': 'MessageEntityMentionName', 'offset': 150, 'length': 12, 'user_id': 687445652}, {'_': 'MessageEntityMentionName', 'offset': 164, 'length': 7, 'user_id': 352774159}, {'_': 'MessageEntityTextUrl', 'offset': 172, 'length': 37, 'url': 'https://www.ua2canada.info/'}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63201, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-29 10:04:53+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43692
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-07-29 01:24:39+00:00
+message : @banofbot
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 1105541456}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_msg_id': 43686, 'reply_to_peer_id': None, 'reply_to_top_id': None}
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityMention', 'offset': 0, 'length': 9}]
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43685
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-07-27 10:55:03+00:00
+message : Этот бот знает всё
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 1801697010}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63201, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43684
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-07-27 10:54:55+00:00
+message : 
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 1801697010}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaPhoto', 'photo': {'_': 'Photo', 'id': 5406836240927538096, 'access_hash': -2242888900183359718, 'file_reference': b'\x02L\xdb\xed\x06\x00\x00\xaa\xa4b\xf0\x8a\xa1\xbc\xe1)\xf1<\xbe\x98\xf3\x97\xd1\xb8\xeb\x03\xf8\x17/', 'date': datetime.datetime(2022, 7, 27, 10, 9, 24, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01(\x0c\xb5\xe4\xc0\x07\xcd\x9ad\x96\xe3w\xc8\x1b\x1fZ\xb4Y\xf6\xe7\n=\xcdC \x0c\xf9.\t\xf6\xa5vK%\xf2\xc6\x06\x15\x7f\x1ak\xb1\r\x82@\xfa\n3\xbeES\x0b\x90G\xde9\x14\xd7\xfb\xdc(\x03\xd0\x8aCd\xbb\xa68\xc2\x01\x8fSCFX\xe5\xba\xd1E6\x07'}, {'_': 'PhotoSize', 'type': 'm', 'w': 96, 'h': 320, 'size': 11739}, {'_': 'PhotoSize', 'type': 'x', 'w': 241, 'h': 800, 'size': 49676}, {'_': 'PhotoSizeProgressive', 'type': 'y', 'w': 386, 'h': 1280, 'sizes': [7787, 20712, 42517, 66293, 91143]}], 'dc_id': 2, 'has_stickers': False, 'video_sizes': []}, 'ttl_seconds': None}
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63201, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43683
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-07-27 10:54:50+00:00
+message : В телеграмме
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 1801697010}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63201, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43682
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-07-27 10:54:47+00:00
+message : Я нашел искусственный интеллект
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 1801697010}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63201, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43681
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-07-27 10:53:36+00:00
+message : Всем привет
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 1801697010}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63201, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 43664
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2022-07-25 13:19:37+00:00
+message : Когнитивная архитектура на основе принципов обработки информации мозгом и задачного подхода — Антон Колонин, 28 июля 2022 18:00-20:30 (время Московское) 
+https://aigents.timepad.ru/event/1412596/
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+from_id : {'_': 'PeerUser', 'user_id': 302910826}
+fwd_from : {'_': 'MessageFwdHeader', 'date': datetime.datetime(2022, 7, 25, 13, 18, 35, tzinfo=datetime.timezone.utc), 'imported': False, 'from_id': {'_': 'PeerChannel', 'channel_id': 1204700902}, 'from_name': None, 'channel_post': 655, 'post_author': 'Anton Kolonin', 'saved_from_peer': None, 'saved_from_msg_id': None, 'psa_type': None}
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 5221846781886631003, 'url': 'https://aigents.timepad.ru/event/1412596/', 'display_url': 'aigents.timepad.ru/event/1412596', 'hash': 0, 'type': 'article', 'site_name': 'aigents.timepad.ru', 'title': 'Семинар русскоязычного сообщества AGI / События на TimePad.ru', 'description': 'Когнитивная архитектура на основе принципов обработки информации мозгом и задачного подхода &#151; Антон Колонин\n28 июля 2022 18:00-20:30 (время Московское)', 'photo': {'_': 'Photo', 'id': 5968570289107348364, 'access_hash': -6302084269537444401, 'file_reference': b'\x00b\xf0\x8a\xa1\x98\xcf\x04\tV\xbe\xd4QU\xc7\x8b\xb1VN*.', 'date': datetime.datetime(2020, 9, 10, 19, 48, 31, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x0f(\xcc\x0e\x0f\x0c\x07\xd6\x9e"V\xeaqPS\x91\x8a0a\xd4V\xa2\xb7b\xfbZ\xc1\xe4\xfc\xb9\r\xd3\x9fZ\xa4`|\x12\x98|pqV\xdfRg\x8bn\xd2\x1b\x18\xcej\x14\xba\xf2\xe3\n\x17\x90y\xe7\xad-FV\xc6:\xd1V\xd6d\x98\xedq\xc9\xe0g\x9a)\x85\xcf'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 122, 'size': 10495}, {'_': 'PhotoSize', 'type': 'x', 'w': 800, 'h': 304, 'size': 42253}, {'_': 'PhotoSize', 'type': 'y', 'w': 820, 'h': 312, 'size': 43459}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}}
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 91}, {'_': 'MessageEntityUrl', 'offset': 154, 'length': 41}]
+views : 1319
+forwards : 22
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 63201, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None

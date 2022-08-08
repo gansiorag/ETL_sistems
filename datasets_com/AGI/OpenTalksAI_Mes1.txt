@@ -1,0 +1,950 @@
+<============================>
+_ : Message
+id : 731
+peer_id : {'_': 'PeerChannel', 'channel_id': 1386305130}
+date : 2022-08-02 06:30:37+00:00
+message : Дайджест. Выпуск от 02.08.2022 № 129 (299)
+
+События
+
+● МГУ и фонд "Интеллект" поддержат аспирантов, исследующих технологии ИИ. Отбор кандидатов завершится 19 августа. »»»
+
+Наука
+
+● У искусственного интеллекта обнаружили подобие человеческой интуиции. Учёные обнаружили, что искусственный интеллект может имитировать мыслительные процессы человека и понимать сложные значения слов. »»»
+
+Медицина
+
+● В Великобритании начнут использовать ИИ для выявления гепатита С. Национальная система здравоохранения Великобритании начнет использовать ИИ для выявления гепатита С на ранних стадиях. »»»
+
+Искусство
+
+● Красная, футуристическая и старинная. Как нейросеть Midjourney представляет Москву. Она выдала неожиданные изображения — и немного шок-контента. »»»
+
+Инструменты
+
+● 3 инструмента ИИ, которые упростят наем новых сотрудников. ИИ может облегчить процесс рекрутинга, и на рынке уже есть несколько готовых решений. Американский Inc. подготовил подборку из трех инструментов. »»»
+
+Зарубежные источники
+
+● Perceiver AR от DeepMind: шаг к повышению эффективности ИИ. Авторегрессивное внимание, лежащее в основе Transformer и подобных ему программ, становится кошмаром масштабирования. »»»
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 53}, {'_': 'MessageEntityTextUrl', 'offset': 55, 'length': 72, 'url': 'https://tass.ru/obrazovanie/15363185'}, {'_': 'MessageEntityTextUrl', 'offset': 167, 'length': 5, 'url': 'https://tass.ru/obrazovanie/15363185'}, {'_': 'MessageEntityBold', 'offset': 172, 'length': 7}, {'_': 'MessageEntityTextUrl', 'offset': 180, 'length': 71, 'url': 'https://berza.ru/semantic-projection-recovers-rich-human-knowledge/'}, {'_': 'MessageEntityTextUrl', 'offset': 381, 'length': 5, 'url': 'https://berza.ru/semantic-projection-recovers-rich-human-knowledge/'}, {'_': 'MessageEntityBold', 'offset': 386, 'length': 10}, {'_': 'MessageEntityTextUrl', 'offset': 398, 'length': 66, 'url': 'https://www.vedomosti.ru/society/news/2022/08/01/934023-v-velikobritanii-nachnut-ispolzovat'}, {'_': 'MessageEntityTextUrl', 'offset': 583, 'length': 5, 'url': 'https://www.vedomosti.ru/society/news/2022/08/01/934023-v-velikobritanii-nachnut-ispolzovat'}, {'_': 'MessageEntityBold', 'offset': 588, 'length': 11}, {'_': 'MessageEntityTextUrl', 'offset': 601, 'length': 38, 'url': 'https://msk1.ru/text/entertainment/2022/08/01/71529431/'}, {'_': 'MessageEntityTextUrl', 'offset': 746, 'length': 5, 'url': 'https://msk1.ru/text/entertainment/2022/08/01/71529431/'}, {'_': 'MessageEntityBold', 'offset': 751, 'length': 13}, {'_': 'MessageEntityTextUrl', 'offset': 766, 'length': 58, 'url': 'https://incrussia.ru/news/3-instrumenta/'}, {'_': 'MessageEntityTextUrl', 'offset': 971, 'length': 5, 'url': 'https://incrussia.ru/news/3-instrumenta/'}, {'_': 'MessageEntityBold', 'offset': 976, 'length': 22}, {'_': 'MessageEntityTextUrl', 'offset': 1000, 'length': 59, 'url': 'https://www.zdnet.com/article/deepminds-perceiver-ar-a-step-toward-more-ai-efficiency/'}, {'_': 'MessageEntityTextUrl', 'offset': 1178, 'length': 3, 'url': 'https://www.zdnet.com/article/deepminds-perceiver-ar-a-step-toward-more-ai-efficiency/'}]
+views : 119
+forwards : 0
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 1053, 'comments': True, 'recent_repliers': [], 'channel_id': 1329227641, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-08-02 06:31:57+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 730
+peer_id : {'_': 'PeerChannel', 'channel_id': 1386305130}
+date : 2022-08-01 06:20:52+00:00
+message : Дайджест. Выпуск от 01.08.2022 № 128 (298)
+
+События
+
+● Минэкономразвития и Минцифры проработают план внедрения ИИ в ключевых отраслях. Планируется к октябрю актуализировать план действий по каждой из ключевых отраслей экономики в части внедрения в них искусственного интеллекта (ИИ). »»»
+
+Технологии
+
+● На рынок выйдет новое поколение агророботов Nexus Robotics. Компания Nexus Robotics Inc. получила грант в размере 2,6 млн долларов США от компании Sustainable Development Technology Canada (SDTC). »»»
+
+Практика
+
+● Tencent разработала систему ИИ для восстановления старых снимков. Инженеры Tencent создали систему ИИ под названием GFP-GAN — она предназначена для улучшения качества и устранения повреждений на старых фотоснимках. »»»
+
+● НЛМК планирует ремонты оборудования с помощью ИИ. В цехе горячего проката в Липецке появился цифровой сервис: десять камер машинного зрения следят за исправностью пяти конвейеров уборочной группы — по две на каждый. »»»
+
+Мероприятия
+
+● Сессия «Искусственный интеллект в нефтегазовой отрасли: вызовы и перспективы» состоится в рамках ПМГФ-2022. Мероприятие пройдет 14 сентября 2022 года. »»»
+
+Зарубежные источники
+
+● Может ли искусственный интеллект действительно помочь нам разговаривать с животными? Калифорнийская организация хочет использовать возможности машинного обучения для расшифровки сообщений во всем животном мире. »»»
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 53}, {'_': 'MessageEntityTextUrl', 'offset': 55, 'length': 79, 'url': 'https://www.d-kvadrat.ru/novosti/21522'}, {'_': 'MessageEntityTextUrl', 'offset': 284, 'length': 5, 'url': 'https://www.d-kvadrat.ru/novosti/21522'}, {'_': 'MessageEntityBold', 'offset': 289, 'length': 12}, {'_': 'MessageEntityTextUrl', 'offset': 303, 'length': 60, 'url': 'https://glavpahar.ru/news/na-rynok-vyydet-novoe-pokolenie-agrorobotov-nexus-robotics'}, {'_': 'MessageEntityTextUrl', 'offset': 500, 'length': 5, 'url': 'https://glavpahar.ru/news/na-rynok-vyydet-novoe-pokolenie-agrorobotov-nexus-robotics'}, {'_': 'MessageEntityBold', 'offset': 505, 'length': 10}, {'_': 'MessageEntityTextUrl', 'offset': 517, 'length': 66, 'url': 'https://3dnews.ru/1071241/v-tencent-razrabotali-sistemu-iskusstvennogo-intellekta-dlya-vosstanovleniya-starih-snimkov'}, {'_': 'MessageEntityTextUrl', 'offset': 732, 'length': 5, 'url': 'https://3dnews.ru/1071241/v-tencent-razrabotali-sistemu-iskusstvennogo-intellekta-dlya-vosstanovleniya-starih-snimkov'}, {'_': 'MessageEntityTextUrl', 'offset': 739, 'length': 50, 'url': 'https://www.metalinfo.ru/ru/news/139282'}, {'_': 'MessageEntityTextUrl', 'offset': 955, 'length': 5, 'url': 'https://www.metalinfo.ru/ru/news/139282'}, {'_': 'MessageEntityBold', 'offset': 960, 'length': 13}, {'_': 'MessageEntityTextUrl', 'offset': 975, 'length': 108, 'url': 'https://portnews.ru/news/333079/'}, {'_': 'MessageEntityTextUrl', 'offset': 1126, 'length': 5, 'url': 'https://portnews.ru/news/333079/'}, {'_': 'MessageEntityBold', 'offset': 1131, 'length': 22}, {'_': 'MessageEntityTextUrl', 'offset': 1155, 'length': 84, 'url': 'https://www.theguardian.com/science/2022/jul/31/can-artificial-intelligence-really-help-us-talk-to-the-animals'}, {'_': 'MessageEntityTextUrl', 'offset': 1366, 'length': 3, 'url': 'https://www.theguardian.com/science/2022/jul/31/can-artificial-intelligence-really-help-us-talk-to-the-animals'}]
+views : 261
+forwards : 1
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 1053, 'comments': True, 'recent_repliers': [], 'channel_id': 1329227641, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-08-01 06:25:18+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 729
+peer_id : {'_': 'PeerChannel', 'channel_id': 1386305130}
+date : 2022-07-29 12:10:50+00:00
+message : #партнерский материал
+
+Brand Analytics стартует первый контест на собственной платформе DevChamp!
+
+Контест «Определение сбоев» направлен на создание новых алгоритмов по выявлению сбоев в работе массовых публичных сервисов на основе анализа сообщений пользователей в социальных медиа.
+
+Ключевые моменты контеста:
+• Призовой фонд – 500 тыс. рублей
+• Срок подачи решений – до 17 августа 2022 г. включительно
+• Подведение результатов – до 1 сентября 2022 г.
+• Победившие решения могут быть использованы в работе сервиса Детектор сбоев.
+
+Важной особенностью контеста является предоставление участникам для разработки решения реального датасета публичного потока данных соцмедиа за период, гарантированно включающий информацию о сбоях в работе сервисов. 
+
+Оперативную информацию о контесте вы найдете в телеграм-канале контест-платформы DevChamp (https://t.me/dev_champ). Ознакомиться с задачами контеста, скачать датасеты и изучить критерии оценки можно на www.devchamp.ru
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaPhoto', 'photo': {'_': 'Photo', 'id': 5413756094666358080, 'access_hash': 6309277056459758033, 'file_reference': b'\x02R\xa1Vj\x00\x00\x02\xd9b\xe9E\xd0\xdd{$\x8b6\xc3\x84\x13\xbc\xd5\nl\xa6^-\xea', 'date': datetime.datetime(2022, 7, 29, 12, 10, 50, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x17(\xab\x1c[\x979\xc78\xe9N\xf2\xc8=8\xf5\xa6\xa0\\s\x9c\xe6\x9d\xb4\x1c\x90\xdf\x86)\xb6!\xdb\x08\xea8\xa9B\x822\x01\xc7sU\xbb\xe2\xad\xc72\xf9%\x07QY\xcd\xb4\xb4**\xecc\x10\x00\x03\xafsEF\xf2\x0201ETn\xd0\x9d\xaeB\x08\xf4\xcd\x1b\x80\xe81E\x15\xa0\x86\x96\xf6\xa7\x89\xb1\x1e\xd0\xb8\xf7\x06\x8a)5pC\x0b\xe4\xf1\xd2\x8a(\xa7`?'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 180, 'size': 12797}, {'_': 'PhotoSize', 'type': 'x', 'w': 800, 'h': 450, 'size': 43903}, {'_': 'PhotoSizeProgressive', 'type': 'y', 'w': 1280, 'h': 720, 'sizes': [12615, 55648, 68823]}], 'dc_id': 2, 'has_stickers': False, 'video_sizes': []}, 'ttl_seconds': None}
+reply_markup : None
+entities : [{'_': 'MessageEntityHashtag', 'offset': 0, 'length': 12}, {'_': 'MessageEntityUrl', 'offset': 841, 'length': 22}, {'_': 'MessageEntityUrl', 'offset': 952, 'length': 15}]
+views : 322
+forwards : 6
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 1053, 'comments': True, 'recent_repliers': [], 'channel_id': 1329227641, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-29 12:10:58+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 728
+peer_id : {'_': 'PeerChannel', 'channel_id': 1386305130}
+date : 2022-07-29 07:31:56+00:00
+message : Дайджест. Выпуск от 29.07.2022 № 127 (297)
+
+События
+
+● Минэкономразвития и Минцифры проработают план внедрения ИИ в ключевых отраслях экономики. Минэкономразвития и Минцифры планируют к октябрю актуализировать план действий по каждой из ключевых отраслей экономики. »»»
+
+Наука
+
+● В работе нейронов мозга увидели аналог алгоритма машинного обучения. Nature Neuroscience: дофаминовые нейроны в мозге реализуют алгоритм машинного обучения. »»»
+
+Технологии
+
+● Нейроморфные чипы использовали для создания нейросети с памятью. Учёные Технологического университета Граца и Intel использовали нейроморфные чипы для создания искусственной нейронной сети, которая потребляет в разы меньше энергии. »»»
+
+Практика
+
+● В России создали сервис по прогнозированию ликвидности и стоимости жилья. На основе искусственного интеллекта ДОМ.РФ разработал сервис, позволяющий оценить ликвидность будущих объектов жилищного строительства. »»»
+
+Зарубежные источники
+
+● Нейронный вокодер и его применение в распознавании речи. Вокодеры на основе глубоких нейронных сетей могут воспроизводить человеческие голоса. »»»
+
+● ИИ DeepMind от Google решает трехмерные структуры «всей белковой вселенной». Этот прорыв может, наконец, положить конец многолетней проблеме свертывания белка. »»»
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 53}, {'_': 'MessageEntityTextUrl', 'offset': 55, 'length': 90, 'url': 'https://www.finam.ru/publications/item/minekonomrazvitiya-i-mincifry-prorabotayut-plan-vnedreniya-iskusstvennogo-intellekta-v-klyuchevyx-otraslyax-ekonomiki-20220728-184836'}, {'_': 'MessageEntityTextUrl', 'offset': 266, 'length': 5, 'url': 'https://www.finam.ru/publications/item/minekonomrazvitiya-i-mincifry-prorabotayut-plan-vnedreniya-iskusstvennogo-intellekta-v-klyuchevyx-otraslyax-ekonomiki-20220728-184836'}, {'_': 'MessageEntityBold', 'offset': 271, 'length': 7}, {'_': 'MessageEntityTextUrl', 'offset': 279, 'length': 69, 'url': 'https://lenta.ru/news/2022/07/28/learning/'}, {'_': 'MessageEntityTextUrl', 'offset': 437, 'length': 5, 'url': 'https://lenta.ru/news/2022/07/28/learning/'}, {'_': 'MessageEntityBold', 'offset': 442, 'length': 12}, {'_': 'MessageEntityTextUrl', 'offset': 456, 'length': 65, 'url': 'https://berza.ru/long-short-term-memory-for-ai-applications/'}, {'_': 'MessageEntityTextUrl', 'offset': 688, 'length': 5, 'url': 'https://berza.ru/long-short-term-memory-for-ai-applications/'}, {'_': 'MessageEntityBold', 'offset': 693, 'length': 10}, {'_': 'MessageEntityTextUrl', 'offset': 705, 'length': 74, 'url': 'https://iz.ru/1371534/2022-07-28/v-rossii-sozdali-servis-po-prognozirovaniiu-likvidnosti-i-stoimosti-zhilia'}, {'_': 'MessageEntityUrl', 'offset': 815, 'length': 6}, {'_': 'MessageEntityTextUrl', 'offset': 915, 'length': 5, 'url': 'https://iz.ru/1371534/2022-07-28/v-rossii-sozdali-servis-po-prognozirovaniiu-likvidnosti-i-stoimosti-zhilia'}, {'_': 'MessageEntityBold', 'offset': 920, 'length': 22}, {'_': 'MessageEntityTextUrl', 'offset': 944, 'length': 56, 'url': 'https://analyticsindiamag.com/neural-vocoder-and-its-application-in-speech-recognition/'}, {'_': 'MessageEntityTextUrl', 'offset': 1087, 'length': 5, 'url': 'https://analyticsindiamag.com/neural-vocoder-and-its-application-in-speech-recognition/'}, {'_': 'MessageEntityTextUrl', 'offset': 1094, 'length': 76, 'url': 'https://www.cnet.com/science/biology/googles-deepmind-ai-solves-3d-structures-of-the-entire-protein-universe/'}, {'_': 'MessageEntityTextUrl', 'offset': 1254, 'length': 3, 'url': 'https://www.cnet.com/science/biology/googles-deepmind-ai-solves-3d-structures-of-the-entire-protein-universe/'}]
+views : 301
+forwards : 1
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 1053, 'comments': True, 'recent_repliers': [], 'channel_id': 1329227641, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-29 07:31:59+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 727
+peer_id : {'_': 'PeerChannel', 'channel_id': 1386305130}
+date : 2022-07-28 06:32:02+00:00
+message : Дайджест. Выпуск от 28.07.2022 № 126 (296)
+
+Наука
+
+● Появился ИИ, который наблюдает за процессами и предлагает новые законы физики. Исследователи из Columbia Engineering создали ИИ, который наблюдает за физическими явлениями, а затем ищет набор фундаментальных переменных. »»»
+
+● Повышающую рентабельность добычи нефти нейросеть разработали в России. Алгоритм позволит не только повысить рентабельность добычи нефти, но и сделать ее более экологичной для окружающей среды. »»»
+
+Технологии
+
+● Искусственный интеллект будет контролировать качество сборки ракетных двигателей в России. По словам главного технолога НПО "Энергомаш" Евгения Воронежского, разработка должна положительно сказаться на качестве сборки. »»»
+
+● Истребитель Tempest сможет «читать мысли» пилота. И брать управление на себя. »»»
+
+Образование
+
+● В КБГУ проводят первый набор в новый институт искусственного интеллекта и цифровых технологий. В Кабардино-Балкарском госуниверситете проводят первый набор в новый институт, который открыли в ноябре прошлого года. »»»
+
+Армия
+
+● Армия США планирует использовать роботов с ИИ для вычисления снайперов. Пентагон проведет тестирование системы обнаружения снайперов, основанной на искусственном интеллекте (ИИ). Об этом сообщает телеканал Fox News. »»»
+
+Зарубежные источники
+
+● Управление бурением с использованием передового искусственного интеллекта, геолого-геофизических и петрофизических технологий. Направленное бурение представляет собой сложный процесс. »»»
+
+● AGI готов появиться (вместе с рисками, которые он принесет). Ожидается, что в течение следующего десятилетия появится AGI — способность компьютерных систем понимать, учиться и реагировать так же, как это делают люди. »»»
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 51}, {'_': 'MessageEntityTextUrl', 'offset': 52, 'length': 79, 'url': 'https://hightech.fm/2022/07/27/alternative-physics'}, {'_': 'MessageEntityTextUrl', 'offset': 273, 'length': 5, 'url': 'https://hightech.fm/2022/07/27/alternative-physics'}, {'_': 'MessageEntityTextUrl', 'offset': 280, 'length': 71, 'url': 'https://nauka.tass.ru/nauka/15324863'}, {'_': 'MessageEntityTextUrl', 'offset': 473, 'length': 5, 'url': 'https://nauka.tass.ru/nauka/15324863'}, {'_': 'MessageEntityBold', 'offset': 478, 'length': 12}, {'_': 'MessageEntityTextUrl', 'offset': 492, 'length': 91, 'url': 'https://nauka.tass.ru/nauka/15323419'}, {'_': 'MessageEntityTextUrl', 'offset': 711, 'length': 5, 'url': 'https://nauka.tass.ru/nauka/15323419'}, {'_': 'MessageEntityTextUrl', 'offset': 717, 'length': 50, 'url': 'https://www.ixbt.com/news/2022/07/27/samoljot-spitfire-smozhet-chitat-mysli-pilota.html'}, {'_': 'MessageEntityTextUrl', 'offset': 796, 'length': 5, 'url': 'https://www.ixbt.com/news/2022/07/27/samoljot-spitfire-smozhet-chitat-mysli-pilota.html'}, {'_': 'MessageEntityBold', 'offset': 801, 'length': 13}, {'_': 'MessageEntityTextUrl', 'offset': 816, 'length': 94, 'url': 'https://smotrim.ru/article/2864267'}, {'_': 'MessageEntityTextUrl', 'offset': 1030, 'length': 5, 'url': 'https://smotrim.ru/article/2864267'}, {'_': 'MessageEntityBold', 'offset': 1035, 'length': 7}, {'_': 'MessageEntityTextUrl', 'offset': 1044, 'length': 72, 'url': 'https://www.gazeta.ru/army/news/2022/07/27/18214514.shtml'}, {'_': 'MessageEntityTextUrl', 'offset': 1260, 'length': 5, 'url': 'https://www.gazeta.ru/army/news/2022/07/27/18214514.shtml'}, {'_': 'MessageEntityBold', 'offset': 1265, 'length': 22}, {'_': 'MessageEntityTextUrl', 'offset': 1288, 'length': 127, 'url': 'https://businessday.ng/news/article/drilling-management-utilizing-cutting-edge-artificial-intelligence-geoscience-and-petrophysics/'}, {'_': 'MessageEntityTextUrl', 'offset': 1473, 'length': 5, 'url': 'https://businessday.ng/news/article/drilling-management-utilizing-cutting-edge-artificial-intelligence-geoscience-and-petrophysics/'}, {'_': 'MessageEntityTextUrl', 'offset': 1480, 'length': 61, 'url': 'https://www.forbes.com/sites/forbestechcouncil/2022/07/27/agi-is-ready-to-emerge-along-with-the-risks-it-will-bring/'}, {'_': 'MessageEntityTextUrl', 'offset': 1697, 'length': 3, 'url': 'https://www.forbes.com/sites/forbestechcouncil/2022/07/27/agi-is-ready-to-emerge-along-with-the-risks-it-will-bring/'}]
+views : 196
+forwards : 1
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 1053, 'comments': True, 'recent_repliers': [], 'channel_id': 1329227641, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-28 06:39:14+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 726
+peer_id : {'_': 'PeerChannel', 'channel_id': 1386305130}
+date : 2022-07-27 05:57:51+00:00
+message : Дайджест. Выпуск от 27.07.2022 № 125 (295)
+
+События
+
+● Правительство РФ просубсидирует подготовку специалистов в сфере ИИ. Правительство РФ выделит субсидии на программу повышения квалификации специалистов, занимающихся развитием ИИ, постановление подписал премьер Михаил Мишустин. »»»
+
+● Чернышенко: число внедренных отечественных решений в ИИ к 2024 году вырастет вдвое. По словам вице-премьера, прирост специалистов в этой области составит около 10 тыс. человек. »»»
+
+Наука
+
+● В России создали ИИ для отслеживания состояния операторов цифровых систем вокзалов и аэропортов. Российские ученые создали ИИ, определяющий утомление по глазам. »»»
+
+Зарубежные источники
+
+● Лучшие блоги/веб-сайты, посвященные искусственному интеллекту и машинному обучению в 2022 году. Мы обнаружили, что сайты в этом списке являются точными, полезными и заслуживающими доверия источниками исследований ИИ. »»»
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 53}, {'_': 'MessageEntityTextUrl', 'offset': 55, 'length': 68, 'url': 'https://academia.interfax.ru/ru/news/articles/8825'}, {'_': 'MessageEntityTextUrl', 'offset': 282, 'length': 5, 'url': 'https://academia.interfax.ru/ru/news/articles/8825'}, {'_': 'MessageEntityTextUrl', 'offset': 289, 'length': 84, 'url': 'https://tass.ru/ekonomika/15304861'}, {'_': 'MessageEntityTextUrl', 'offset': 466, 'length': 5, 'url': 'https://tass.ru/ekonomika/15304861'}, {'_': 'MessageEntityBold', 'offset': 471, 'length': 7}, {'_': 'MessageEntityTextUrl', 'offset': 480, 'length': 97, 'url': 'https://www.gazeta.ru/science/news/2022/07/26/18203528.shtml'}, {'_': 'MessageEntityTextUrl', 'offset': 641, 'length': 5, 'url': 'https://www.gazeta.ru/science/news/2022/07/26/18203528.shtml'}, {'_': 'MessageEntityBold', 'offset': 646, 'length': 22}, {'_': 'MessageEntityTextUrl', 'offset': 670, 'length': 95, 'url': 'https://www.marktechpost.com/2022/07/26/top-artificial-intelligence-ai-and-machine-learning-ml-blogs-websites-to-follow-in-2022/'}, {'_': 'MessageEntityTextUrl', 'offset': 887, 'length': 3, 'url': 'https://www.marktechpost.com/2022/07/26/top-artificial-intelligence-ai-and-machine-learning-ml-blogs-websites-to-follow-in-2022/'}]
+views : 188
+forwards : 2
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 1053, 'comments': True, 'recent_repliers': [], 'channel_id': 1329227641, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-27 05:57:54+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 725
+peer_id : {'_': 'PeerChannel', 'channel_id': 1386305130}
+date : 2022-07-26 06:03:39+00:00
+message : Дайджест. Выпуск от 26.07.2022 № 124 (294)
+
+События
+
+● В правительстве РФ назначили ответственного за ИИ. Куратором разработок в сфере ИИ и квантовых вычислений, а также компьютерного моделирования нано-устройств и нано-материалов, назначен вице-премьер-министр РФ Дмитрий Чернышенко. »»»
+
+Наука
+
+● Искусственный интеллект может учиться на баснях. Команда Джея Пуджары из Института информационных наук учит искусственный интеллект проводить творческие аналогии, используя древнюю форму искусства... басни. »»»
+
+● Учёные из США обнаружили, что компьютеры могут понимать сложные слова и понятия. Модели обработки естественного языка используют статистику для сбора большого количества информации о значениях слов. »»»
+
+Медицина
+
+● Практику применения систем ИИ в медицине описали ученые Сеченовского университета. Эксперты исследовали практику применения систем ИИ в обращения лекарственных средств в России. »»»
+
+Зарубежные источники
+
+● Какое отношение квантовые вычисления имеют к ИИ? Искусственный интеллект (ИИ) становится одной из ключевых отраслевых тенденций после десятилетий просто мечты исследователя. »»»
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 53}, {'_': 'MessageEntityTextUrl', 'offset': 55, 'length': 51, 'url': 'https://rossaprimavera.ru/news/e14c11ba'}, {'_': 'MessageEntityTextUrl', 'offset': 285, 'length': 5, 'url': 'https://rossaprimavera.ru/news/e14c11ba'}, {'_': 'MessageEntityBold', 'offset': 290, 'length': 7}, {'_': 'MessageEntityTextUrl', 'offset': 299, 'length': 48, 'url': 'https://weekly-news.ru/news/7589-iskusstvenniy_intellekt_uchitsya_analogovim_rassuzhdeniyam_s_pomoshyu_basen.html'}, {'_': 'MessageEntityTextUrl', 'offset': 506, 'length': 5, 'url': 'https://weekly-news.ru/news/7589-iskusstvenniy_intellekt_uchitsya_analogovim_rassuzhdeniyam_s_pomoshyu_basen.html'}, {'_': 'MessageEntityTextUrl', 'offset': 512, 'length': 82, 'url': 'https://aobe.ru/77814-uchjonye-iz-ssha-obnaruzhili-chto-kompjutery-mogut-ponimat-slozhnye-slova-i-ponjatija.html'}, {'_': 'MessageEntityTextUrl', 'offset': 712, 'length': 5, 'url': 'https://aobe.ru/77814-uchjonye-iz-ssha-obnaruzhili-chto-kompjutery-mogut-ponimat-slozhnye-slova-i-ponjatija.html'}, {'_': 'MessageEntityBold', 'offset': 717, 'length': 10}, {'_': 'MessageEntityTextUrl', 'offset': 729, 'length': 83, 'url': 'https://gazetahamovniki.moscow/2022/07/25/praktiku-primeneniya-sistem-iskusstvennogo-intellekta-v-mediczine-opisali-uchenye-sechenovskogo-universiteta/'}, {'_': 'MessageEntityTextUrl', 'offset': 907, 'length': 5, 'url': 'https://gazetahamovniki.moscow/2022/07/25/praktiku-primeneniya-sistem-iskusstvennogo-intellekta-v-mediczine-opisali-uchenye-sechenovskogo-universiteta/'}, {'_': 'MessageEntityBold', 'offset': 912, 'length': 22}, {'_': 'MessageEntityTextUrl', 'offset': 936, 'length': 49, 'url': 'https://www.verdict.co.uk/what-has-quantum-computing-got-to-do-with-ai/'}, {'_': 'MessageEntityTextUrl', 'offset': 1110, 'length': 3, 'url': 'https://www.verdict.co.uk/what-has-quantum-computing-got-to-do-with-ai/'}]
+views : 207
+forwards : 1
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 1053, 'comments': True, 'recent_repliers': [], 'channel_id': 1329227641, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-26 06:06:35+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 724
+peer_id : {'_': 'PeerChannel', 'channel_id': 1386305130}
+date : 2022-07-25 06:54:57+00:00
+message : Дайджест. Выпуск от 25.07.2022 № 123 (293)
+
+Наука
+
+● Роботы смогли научиться домашним делам, наблюдая за людьми. Новая система позволяет роботам учиться домашним делам, наблюдая за людьми. »»»
+
+Технологии
+
+● Новая версия Roewe RX5 с функцией интеллектуального вождения NGP будет запущена в начале августа. Автомобиль создан на базе недавно обновленной модели и имеет более современное оснащение. »»»
+
+Практика
+
+● Эта головоломка поставила в тупик нейросеть. Разгадайте сами. Попробуйте самостоятельно найти животных на этом рисунке. »»»
+
+Железо
+
+● Hanwha Techwin представляет три биспектральных камеры с искусственным интеллектом. В каждой из новинок камера видимого диапазона содержит встроенный искусственный интеллект, который находит и классифицирует объекты в кадре. »»»
+
+Зарубежные источники
+
+● ИИ, оставляет без работы второго пилота ВВС США на C-130J Hercules. Помимо механического управления самолетом, Merlin Pilot сможет получать и выполнять голосовые команды от служб управления воздушным движением. »»»
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 51}, {'_': 'MessageEntityTextUrl', 'offset': 53, 'length': 60, 'url': 'https://www.gazeta.ru/science/news/2022/07/22/18178292.shtml'}, {'_': 'MessageEntityTextUrl', 'offset': 189, 'length': 5, 'url': 'https://www.gazeta.ru/science/news/2022/07/22/18178292.shtml'}, {'_': 'MessageEntityBold', 'offset': 194, 'length': 12}, {'_': 'MessageEntityTextUrl', 'offset': 208, 'length': 97, 'url': 'https://naavtotrasse.ru/roewe/novaya-versiya-roewe-rx5-budet-zapushhena-v-nachale-avgusta.html'}, {'_': 'MessageEntityTextUrl', 'offset': 396, 'length': 5, 'url': 'https://naavtotrasse.ru/roewe/novaya-versiya-roewe-rx5-budet-zapushhena-v-nachale-avgusta.html'}, {'_': 'MessageEntityBold', 'offset': 401, 'length': 10}, {'_': 'MessageEntityTextUrl', 'offset': 413, 'length': 45, 'url': 'https://hi-tech.mail.ru/news/58704-eta-yaponskaya-golovolomka-postavila-v-tupik-neyroset-razgadayte-sami/'}, {'_': 'MessageEntityTextUrl', 'offset': 533, 'length': 5, 'url': 'https://hi-tech.mail.ru/news/58704-eta-yaponskaya-golovolomka-postavila-v-tupik-neyroset-razgadayte-sami/'}, {'_': 'MessageEntityBold', 'offset': 538, 'length': 8}, {'_': 'MessageEntityTextUrl', 'offset': 547, 'length': 84, 'url': 'https://secnews.ru/pr/24581.htm'}, {'_': 'MessageEntityTextUrl', 'offset': 772, 'length': 5, 'url': 'https://secnews.ru/pr/24581.htm'}, {'_': 'MessageEntityBold', 'offset': 777, 'length': 22}, {'_': 'MessageEntityTextUrl', 'offset': 801, 'length': 67, 'url': 'https://frontierindia.com/alexa-or-siri-like-ai-endangers-usaf-co-pilot-job-on-c-130j-hercules/'}, {'_': 'MessageEntityTextUrl', 'offset': 1012, 'length': 3, 'url': 'https://frontierindia.com/alexa-or-siri-like-ai-endangers-usaf-co-pilot-job-on-c-130j-hercules/'}]
+views : 211
+forwards : 0
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 1053, 'comments': True, 'recent_repliers': [], 'channel_id': 1329227641, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-25 07:18:27+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 734
+peer_id : {'_': 'PeerChannel', 'channel_id': 1386305130}
+date : 2022-08-05 06:34:35+00:00
+message : Дайджест. Выпуск от 05.08.2022 № 132 (302)
+
+Наука
+
+● В СПбГУ создали нейросеть для диагностики эпилепсии. Российские учёные разработали программу на основе искусственного интеллекта, способную диагностировать бессудорожную эпилепсию по данным электроэнцефалографии. »»»
+
+Практика
+
+● В России разработали нейросеть для оценки комментариев в интернете. Она называется «Ольга Станиславовна». »»»
+
+● Синтетическая партия, управляемая искусственным интеллектом, примет участие в выборах. Синтетическая партия, созданная в конце мая коллективом художников Computer Lars, намерена принять участие в выборах в 2023 году. »»»
+
+Безопасность
+
+● ИИ хотят использовать для усиленного надзора за сотрудниками. Противники возражают: слежка - это никуда не годится. »»»
+
+Зарубежные источники
+
+● AI Book Rec: добавьте эти книги в свой список чтения. Наше сообщество HAI предложило лучшие книги по ИИ. »»»
+
+● Что может и чего не может ИИ по увеличению масштаба видео. Эта статья представляет собой обзор того, как ИИ работает с масштабированием, где оно не соответствует требованиям, и как улучшить окончательное качество масштабирования. »»»
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 51}, {'_': 'MessageEntityTextUrl', 'offset': 53, 'length': 52, 'url': 'https://topspb.tv/news/2022/08/4/v-spbgu-sozdali-nejroset-dlya-diagnostiki-epilepsii/'}, {'_': 'MessageEntityTextUrl', 'offset': 266, 'length': 5, 'url': 'https://topspb.tv/news/2022/08/4/v-spbgu-sozdali-nejroset-dlya-diagnostiki-epilepsii/'}, {'_': 'MessageEntityBold', 'offset': 271, 'length': 10}, {'_': 'MessageEntityTextUrl', 'offset': 283, 'length': 67, 'url': 'https://www.ixbt.com/news/2022/08/04/v-rossii-razrabotali-nejroset-dlja-ocenki-kommentariev-v-internete.html'}, {'_': 'MessageEntityTextUrl', 'offset': 389, 'length': 5, 'url': 'https://www.ixbt.com/news/2022/08/04/v-rossii-razrabotali-nejroset-dlja-ocenki-kommentariev-v-internete.html'}, {'_': 'MessageEntityTextUrl', 'offset': 395, 'length': 88, 'url': 'https://involta.media/post/sinteticheskaya-partiya-upravlyaemaya-iskusstvennym-intellektom-primet-uchastie-v-vyborah'}, {'_': 'MessageEntityTextUrl', 'offset': 613, 'length': 5, 'url': 'https://involta.media/post/sinteticheskaya-partiya-upravlyaemaya-iskusstvennym-intellektom-primet-uchastie-v-vyborah'}, {'_': 'MessageEntityBold', 'offset': 618, 'length': 14}, {'_': 'MessageEntityTextUrl', 'offset': 634, 'length': 61, 'url': 'https://www.cnews.ru/news/top/2022-07-27_ii_hotyat_ispolzovat_dlya'}, {'_': 'MessageEntityTextUrl', 'offset': 750, 'length': 5, 'url': 'https://www.cnews.ru/news/top/2022-07-27_ii_hotyat_ispolzovat_dlya'}, {'_': 'MessageEntityBold', 'offset': 755, 'length': 22}, {'_': 'MessageEntityTextUrl', 'offset': 778, 'length': 54, 'url': 'https://hai.stanford.edu/news/ai-book-recs-add-these-your-reading-list'}, {'_': 'MessageEntityTextUrl', 'offset': 884, 'length': 5, 'url': 'https://hai.stanford.edu/news/ai-book-recs-add-these-your-reading-list'}, {'_': 'MessageEntityTextUrl', 'offset': 891, 'length': 58, 'url': 'https://www.extremetech.com/extreme/338403-what-video-ai-upscalers-can-and-cant-do'}, {'_': 'MessageEntityTextUrl', 'offset': 1121, 'length': 3, 'url': 'https://www.extremetech.com/extreme/338403-what-video-ai-upscalers-can-and-cant-do'}]
+views : 134
+forwards : 2
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 1061, 'comments': True, 'recent_repliers': [], 'channel_id': 1329227641, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-08-05 07:30:27+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 733
+peer_id : {'_': 'PeerChannel', 'channel_id': 1386305130}
+date : 2022-08-04 06:23:25+00:00
+message : Дайджест. Выпуск от 04.08.2022 № 131 (301)
+
+Наука
+
+● Предсказуемая Арктика: как беспилотники и нейросети изучают самое холодное место на Земле. Изучение и освоение Арктики, развитие Северного морского пути — один из приоритетов России. »»»
+
+Железо
+
+● Insta360 Link: 4K-вебкамера с искусственным интеллектом. Insta360 анонсировала 4К-вебкамеру Link с искусственным интеллектом. Посмотрим, что она умеет? »»»
+
+Зарубежные источники
+
+● Исследователи Массачусетского технологического института используют ИИ для исправления ошибок аддитивного производства в режиме реального времени. Они обучили модель машинного обучения отслеживать и корректировать процесс 3D-печати. »»»
+
+● Изучение нюансов использования ИИ в производстве новостей. На протяжении всей истории технологии постоянно трансформировали индустрию средств массовой информации — телеграф, радио, телевидение, а затем и Интернет. »»»
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 51}, {'_': 'MessageEntityTextUrl', 'offset': 53, 'length': 91, 'url': 'https://hightech.fm/2022/08/03/arctic-drones'}, {'_': 'MessageEntityTextUrl', 'offset': 236, 'length': 5, 'url': 'https://hightech.fm/2022/08/03/arctic-drones'}, {'_': 'MessageEntityBold', 'offset': 241, 'length': 8}, {'_': 'MessageEntityTextUrl', 'offset': 251, 'length': 56, 'url': 'https://prophotos.ru/news/23249-insta360-link-4k-vebkamera-s-iskusstvennym-intellektom'}, {'_': 'MessageEntityTextUrl', 'offset': 403, 'length': 5, 'url': 'https://prophotos.ru/news/23249-insta360-link-4k-vebkamera-s-iskusstvennym-intellektom'}, {'_': 'MessageEntityBold', 'offset': 408, 'length': 22}, {'_': 'MessageEntityTextUrl', 'offset': 432, 'length': 147, 'url': 'https://www.tctmagazine.com/additive-manufacturing-3d-printing-news/latest-additive-manufacturing-3d-printing-news/mit-researchers-use-ai-to-control-additive-manufacturing/'}, {'_': 'MessageEntityTextUrl', 'offset': 665, 'length': 5, 'url': 'https://www.tctmagazine.com/additive-manufacturing-3d-printing-news/latest-additive-manufacturing-3d-printing-news/mit-researchers-use-ai-to-control-additive-manufacturing/'}, {'_': 'MessageEntityTextUrl', 'offset': 671, 'length': 60, 'url': 'https://techxplore.com/news/2022-08-exploring-nuances-ai-news-production.html'}, {'_': 'MessageEntityTextUrl', 'offset': 886, 'length': 3, 'url': 'https://techxplore.com/news/2022-08-exploring-nuances-ai-news-production.html'}]
+views : 152
+forwards : 0
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 1061, 'comments': True, 'recent_repliers': [], 'channel_id': 1329227641, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-08-04 06:23:28+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 732
+peer_id : {'_': 'PeerChannel', 'channel_id': 1386305130}
+date : 2022-08-03 05:59:52+00:00
+message : Дайджест. Выпуск от 03.08.2022 № 130 (300)
+
+События
+
+● Анастасия Ракова: московские рентгенологи разработали единый для России стандарт тестирования ИИ в медицине. Заместитель мэра Москвы в Правительстве Москвы по вопросам социального развития Анастасия Ракова рассказала об этом. »»»
+
+Наука
+
+● Создан ИИ, способный изучать клетки по изображениям. Исследователи из Стэнфордского университета представили искусственный интеллект, который может анализировать микроскопические изображения белков. »»»
+
+● Инженеры создали транзисторы, работающие в 10 000 раз быстрее синапсов мозга. Исследователи нашли способ перемещать протоны через твердые тела с беспрецедентной скоростью. Технология помогла «разогнать» глубокое аналоговое обучение. »»»
+
+Практика
+
+● Твой личный композитор: в «Яндекс Музыке» появилась бесконечная «Нейромузыка» без слов и пауз. Миллионы вариаций в реальном времени. »»»
+
+● Карту Байкальской природной территории составляют с помощью нейросети. Это должно помочь выявлять в том числе места незаконных рубок леса и выгоревших территорий. »»»
+
+Образование
+
+● ПетрГУ начинает готовить специалистов–разработчиков прикладных систем ИИ. Обучение студентов начнется в сентябре 2022 года. »»»
+
+Зарубежные источники
+
+● Встраиваемый вычислительный комплект на базе NVIDIA Jetson GPGPU для ИИ, представленный Elma. Встраиваемый комплект JetKit-3010 использует встроенные возможности глубокого обучения и графического процессора NVIDIA Jetson AGX Xavier. »»»
+
+● Сравнение моделей прогнозирования смертности от дорожно-транспортных происшествий: метод ансамбля несбалансированных данных. Травмы, вызванные ДТП, классифицируются по Международной классификации болезней-10 как «S00-T99». »»»
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 53}, {'_': 'MessageEntityTextUrl', 'offset': 55, 'length': 108, 'url': 'https://caoinform.moscow/anastasiya-rakova-moskovskie-rentgenologi-razrabotali-edinyj-dlya-rossii-standart-testirovaniya-iskusstvennogo-intellekta-v-mediczine/'}, {'_': 'MessageEntityTextUrl', 'offset': 281, 'length': 5, 'url': 'https://caoinform.moscow/anastasiya-rakova-moskovskie-rentgenologi-razrabotali-edinyj-dlya-rossii-standart-testirovaniya-iskusstvennogo-intellekta-v-mediczine/'}, {'_': 'MessageEntityBold', 'offset': 286, 'length': 7}, {'_': 'MessageEntityTextUrl', 'offset': 295, 'length': 53, 'url': 'https://anonsens.ru/55356_sozdan_ii_sposobnyj_izuchat_kletki_po_izobrazheniyam_vpyshnaya'}, {'_': 'MessageEntityTextUrl', 'offset': 494, 'length': 5, 'url': 'https://anonsens.ru/55356_sozdan_ii_sposobnyj_izuchat_kletki_po_izobrazheniyam_vpyshnaya'}, {'_': 'MessageEntityTextUrl', 'offset': 500, 'length': 79, 'url': 'https://hightech.fm/2022/07/29/faster-computation-analog-ai'}, {'_': 'MessageEntityTextUrl', 'offset': 734, 'length': 5, 'url': 'https://hightech.fm/2022/07/29/faster-computation-analog-ai'}, {'_': 'MessageEntityBold', 'offset': 739, 'length': 10}, {'_': 'MessageEntityTextUrl', 'offset': 751, 'length': 94, 'url': 'https://www.ixbt.com/news/2022/08/02/tvoj-lichnyj-kompozitor-v-jandeks-muzyke-pojavilas-beskonechnaja-nejromuzyka-bez-slov-i-pauz.html'}, {'_': 'MessageEntityTextUrl', 'offset': 884, 'length': 5, 'url': 'https://www.ixbt.com/news/2022/08/02/tvoj-lichnyj-kompozitor-v-jandeks-muzyke-pojavilas-beskonechnaja-nejromuzyka-bez-slov-i-pauz.html'}, {'_': 'MessageEntityTextUrl', 'offset': 891, 'length': 70, 'url': 'https://ircity.ru/text/science/2022/07/30/71529962/'}, {'_': 'MessageEntityTextUrl', 'offset': 1054, 'length': 5, 'url': 'https://ircity.ru/text/science/2022/07/30/71529962/'}, {'_': 'MessageEntityBold', 'offset': 1059, 'length': 13}, {'_': 'MessageEntityTextUrl', 'offset': 1074, 'length': 73, 'url': 'https://petrsu.ru/news/2022/108170/petrgu--natchinaet--'}, {'_': 'MessageEntityTextUrl', 'offset': 1198, 'length': 5, 'url': 'https://petrsu.ru/news/2022/108170/petrgu--natchinaet--'}, {'_': 'MessageEntityBold', 'offset': 1203, 'length': 22}, {'_': 'MessageEntityTextUrl', 'offset': 1227, 'length': 94, 'url': 'https://www.militaryaerospace.com/computers/article/14280597/embedded-computing-artificial-intelligence-ai-gpgpu'}, {'_': 'MessageEntityTextUrl', 'offset': 1460, 'length': 5, 'url': 'https://www.militaryaerospace.com/computers/article/14280597/embedded-computing-artificial-intelligence-ai-gpgpu'}, {'_': 'MessageEntityTextUrl', 'offset': 1467, 'length': 125, 'url': 'https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-13719-3'}, {'_': 'MessageEntityTextUrl', 'offset': 1690, 'length': 3, 'url': 'https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-13719-3'}]
+views : 292
+forwards : 2
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 1061, 'comments': True, 'recent_repliers': [], 'channel_id': 1329227641, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-08-03 05:59:55+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 731
+peer_id : {'_': 'PeerChannel', 'channel_id': 1386305130}
+date : 2022-08-02 06:30:37+00:00
+message : Дайджест. Выпуск от 02.08.2022 № 129 (299)
+
+События
+
+● МГУ и фонд "Интеллект" поддержат аспирантов, исследующих технологии ИИ. Отбор кандидатов завершится 19 августа. »»»
+
+Наука
+
+● У искусственного интеллекта обнаружили подобие человеческой интуиции. Учёные обнаружили, что искусственный интеллект может имитировать мыслительные процессы человека и понимать сложные значения слов. »»»
+
+Медицина
+
+● В Великобритании начнут использовать ИИ для выявления гепатита С. Национальная система здравоохранения Великобритании начнет использовать ИИ для выявления гепатита С на ранних стадиях. »»»
+
+Искусство
+
+● Красная, футуристическая и старинная. Как нейросеть Midjourney представляет Москву. Она выдала неожиданные изображения — и немного шок-контента. »»»
+
+Инструменты
+
+● 3 инструмента ИИ, которые упростят наем новых сотрудников. ИИ может облегчить процесс рекрутинга, и на рынке уже есть несколько готовых решений. Американский Inc. подготовил подборку из трех инструментов. »»»
+
+Зарубежные источники
+
+● Perceiver AR от DeepMind: шаг к повышению эффективности ИИ. Авторегрессивное внимание, лежащее в основе Transformer и подобных ему программ, становится кошмаром масштабирования. »»»
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 53}, {'_': 'MessageEntityTextUrl', 'offset': 55, 'length': 72, 'url': 'https://tass.ru/obrazovanie/15363185'}, {'_': 'MessageEntityTextUrl', 'offset': 167, 'length': 5, 'url': 'https://tass.ru/obrazovanie/15363185'}, {'_': 'MessageEntityBold', 'offset': 172, 'length': 7}, {'_': 'MessageEntityTextUrl', 'offset': 180, 'length': 71, 'url': 'https://berza.ru/semantic-projection-recovers-rich-human-knowledge/'}, {'_': 'MessageEntityTextUrl', 'offset': 381, 'length': 5, 'url': 'https://berza.ru/semantic-projection-recovers-rich-human-knowledge/'}, {'_': 'MessageEntityBold', 'offset': 386, 'length': 10}, {'_': 'MessageEntityTextUrl', 'offset': 398, 'length': 66, 'url': 'https://www.vedomosti.ru/society/news/2022/08/01/934023-v-velikobritanii-nachnut-ispolzovat'}, {'_': 'MessageEntityTextUrl', 'offset': 583, 'length': 5, 'url': 'https://www.vedomosti.ru/society/news/2022/08/01/934023-v-velikobritanii-nachnut-ispolzovat'}, {'_': 'MessageEntityBold', 'offset': 588, 'length': 11}, {'_': 'MessageEntityTextUrl', 'offset': 601, 'length': 38, 'url': 'https://msk1.ru/text/entertainment/2022/08/01/71529431/'}, {'_': 'MessageEntityTextUrl', 'offset': 746, 'length': 5, 'url': 'https://msk1.ru/text/entertainment/2022/08/01/71529431/'}, {'_': 'MessageEntityBold', 'offset': 751, 'length': 13}, {'_': 'MessageEntityTextUrl', 'offset': 766, 'length': 58, 'url': 'https://incrussia.ru/news/3-instrumenta/'}, {'_': 'MessageEntityTextUrl', 'offset': 971, 'length': 5, 'url': 'https://incrussia.ru/news/3-instrumenta/'}, {'_': 'MessageEntityBold', 'offset': 976, 'length': 22}, {'_': 'MessageEntityTextUrl', 'offset': 1000, 'length': 59, 'url': 'https://www.zdnet.com/article/deepminds-perceiver-ar-a-step-toward-more-ai-efficiency/'}, {'_': 'MessageEntityTextUrl', 'offset': 1178, 'length': 3, 'url': 'https://www.zdnet.com/article/deepminds-perceiver-ar-a-step-toward-more-ai-efficiency/'}]
+views : 175
+forwards : 0
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 1061, 'comments': True, 'recent_repliers': [], 'channel_id': 1329227641, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-08-02 06:31:57+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 730
+peer_id : {'_': 'PeerChannel', 'channel_id': 1386305130}
+date : 2022-08-01 06:20:52+00:00
+message : Дайджест. Выпуск от 01.08.2022 № 128 (298)
+
+События
+
+● Минэкономразвития и Минцифры проработают план внедрения ИИ в ключевых отраслях. Планируется к октябрю актуализировать план действий по каждой из ключевых отраслей экономики в части внедрения в них искусственного интеллекта (ИИ). »»»
+
+Технологии
+
+● На рынок выйдет новое поколение агророботов Nexus Robotics. Компания Nexus Robotics Inc. получила грант в размере 2,6 млн долларов США от компании Sustainable Development Technology Canada (SDTC). »»»
+
+Практика
+
+● Tencent разработала систему ИИ для восстановления старых снимков. Инженеры Tencent создали систему ИИ под названием GFP-GAN — она предназначена для улучшения качества и устранения повреждений на старых фотоснимках. »»»
+
+● НЛМК планирует ремонты оборудования с помощью ИИ. В цехе горячего проката в Липецке появился цифровой сервис: десять камер машинного зрения следят за исправностью пяти конвейеров уборочной группы — по две на каждый. »»»
+
+Мероприятия
+
+● Сессия «Искусственный интеллект в нефтегазовой отрасли: вызовы и перспективы» состоится в рамках ПМГФ-2022. Мероприятие пройдет 14 сентября 2022 года. »»»
+
+Зарубежные источники
+
+● Может ли искусственный интеллект действительно помочь нам разговаривать с животными? Калифорнийская организация хочет использовать возможности машинного обучения для расшифровки сообщений во всем животном мире. »»»
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 53}, {'_': 'MessageEntityTextUrl', 'offset': 55, 'length': 79, 'url': 'https://www.d-kvadrat.ru/novosti/21522'}, {'_': 'MessageEntityTextUrl', 'offset': 284, 'length': 5, 'url': 'https://www.d-kvadrat.ru/novosti/21522'}, {'_': 'MessageEntityBold', 'offset': 289, 'length': 12}, {'_': 'MessageEntityTextUrl', 'offset': 303, 'length': 60, 'url': 'https://glavpahar.ru/news/na-rynok-vyydet-novoe-pokolenie-agrorobotov-nexus-robotics'}, {'_': 'MessageEntityTextUrl', 'offset': 500, 'length': 5, 'url': 'https://glavpahar.ru/news/na-rynok-vyydet-novoe-pokolenie-agrorobotov-nexus-robotics'}, {'_': 'MessageEntityBold', 'offset': 505, 'length': 10}, {'_': 'MessageEntityTextUrl', 'offset': 517, 'length': 66, 'url': 'https://3dnews.ru/1071241/v-tencent-razrabotali-sistemu-iskusstvennogo-intellekta-dlya-vosstanovleniya-starih-snimkov'}, {'_': 'MessageEntityTextUrl', 'offset': 732, 'length': 5, 'url': 'https://3dnews.ru/1071241/v-tencent-razrabotali-sistemu-iskusstvennogo-intellekta-dlya-vosstanovleniya-starih-snimkov'}, {'_': 'MessageEntityTextUrl', 'offset': 739, 'length': 50, 'url': 'https://www.metalinfo.ru/ru/news/139282'}, {'_': 'MessageEntityTextUrl', 'offset': 955, 'length': 5, 'url': 'https://www.metalinfo.ru/ru/news/139282'}, {'_': 'MessageEntityBold', 'offset': 960, 'length': 13}, {'_': 'MessageEntityTextUrl', 'offset': 975, 'length': 108, 'url': 'https://portnews.ru/news/333079/'}, {'_': 'MessageEntityTextUrl', 'offset': 1126, 'length': 5, 'url': 'https://portnews.ru/news/333079/'}, {'_': 'MessageEntityBold', 'offset': 1131, 'length': 22}, {'_': 'MessageEntityTextUrl', 'offset': 1155, 'length': 84, 'url': 'https://www.theguardian.com/science/2022/jul/31/can-artificial-intelligence-really-help-us-talk-to-the-animals'}, {'_': 'MessageEntityTextUrl', 'offset': 1366, 'length': 3, 'url': 'https://www.theguardian.com/science/2022/jul/31/can-artificial-intelligence-really-help-us-talk-to-the-animals'}]
+views : 313
+forwards : 1
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 1061, 'comments': True, 'recent_repliers': [], 'channel_id': 1329227641, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-08-01 06:25:18+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 729
+peer_id : {'_': 'PeerChannel', 'channel_id': 1386305130}
+date : 2022-07-29 12:10:50+00:00
+message : #партнерский материал
+
+Brand Analytics стартует первый контест на собственной платформе DevChamp!
+
+Контест «Определение сбоев» направлен на создание новых алгоритмов по выявлению сбоев в работе массовых публичных сервисов на основе анализа сообщений пользователей в социальных медиа.
+
+Ключевые моменты контеста:
+• Призовой фонд – 500 тыс. рублей
+• Срок подачи решений – до 17 августа 2022 г. включительно
+• Подведение результатов – до 1 сентября 2022 г.
+• Победившие решения могут быть использованы в работе сервиса Детектор сбоев.
+
+Важной особенностью контеста является предоставление участникам для разработки решения реального датасета публичного потока данных соцмедиа за период, гарантированно включающий информацию о сбоях в работе сервисов. 
+
+Оперативную информацию о контесте вы найдете в телеграм-канале контест-платформы DevChamp (https://t.me/dev_champ). Ознакомиться с задачами контеста, скачать датасеты и изучить критерии оценки можно на www.devchamp.ru
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaPhoto', 'photo': {'_': 'Photo', 'id': 5413756094666358080, 'access_hash': 6309277056459758033, 'file_reference': b'\x02R\xa1Vj\x00\x00\x02\xd9b\xf0\x8a\xa7\x98\xe0\xa6q\x87\xd9MA\x97\x10u\x12n\x86\xd4N', 'date': datetime.datetime(2022, 7, 29, 12, 10, 50, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01\x17(\xab\x1c[\x979\xc78\xe9N\xf2\xc8=8\xf5\xa6\xa0\\s\x9c\xe6\x9d\xb4\x1c\x90\xdf\x86)\xb6!\xdb\x08\xea8\xa9B\x822\x01\xc7sU\xbb\xe2\xad\xc72\xf9%\x07QY\xcd\xb4\xb4**\xecc\x10\x00\x03\xafsEF\xf2\x0201ETn\xd0\x9d\xaeB\x08\xf4\xcd\x1b\x80\xe81E\x15\xa0\x86\x96\xf6\xa7\x89\xb1\x1e\xd0\xb8\xf7\x06\x8a)5pC\x0b\xe4\xf1\xd2\x8a(\xa7`?'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 180, 'size': 12797}, {'_': 'PhotoSize', 'type': 'x', 'w': 800, 'h': 450, 'size': 43903}, {'_': 'PhotoSizeProgressive', 'type': 'y', 'w': 1280, 'h': 720, 'sizes': [12615, 55648, 68823]}], 'dc_id': 2, 'has_stickers': False, 'video_sizes': []}, 'ttl_seconds': None}
+reply_markup : None
+entities : [{'_': 'MessageEntityHashtag', 'offset': 0, 'length': 12}, {'_': 'MessageEntityUrl', 'offset': 841, 'length': 22}, {'_': 'MessageEntityUrl', 'offset': 952, 'length': 15}]
+views : 367
+forwards : 6
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 1061, 'comments': True, 'recent_repliers': [], 'channel_id': 1329227641, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-29 12:10:58+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 728
+peer_id : {'_': 'PeerChannel', 'channel_id': 1386305130}
+date : 2022-07-29 07:31:56+00:00
+message : Дайджест. Выпуск от 29.07.2022 № 127 (297)
+
+События
+
+● Минэкономразвития и Минцифры проработают план внедрения ИИ в ключевых отраслях экономики. Минэкономразвития и Минцифры планируют к октябрю актуализировать план действий по каждой из ключевых отраслей экономики. »»»
+
+Наука
+
+● В работе нейронов мозга увидели аналог алгоритма машинного обучения. Nature Neuroscience: дофаминовые нейроны в мозге реализуют алгоритм машинного обучения. »»»
+
+Технологии
+
+● Нейроморфные чипы использовали для создания нейросети с памятью. Учёные Технологического университета Граца и Intel использовали нейроморфные чипы для создания искусственной нейронной сети, которая потребляет в разы меньше энергии. »»»
+
+Практика
+
+● В России создали сервис по прогнозированию ликвидности и стоимости жилья. На основе искусственного интеллекта ДОМ.РФ разработал сервис, позволяющий оценить ликвидность будущих объектов жилищного строительства. »»»
+
+Зарубежные источники
+
+● Нейронный вокодер и его применение в распознавании речи. Вокодеры на основе глубоких нейронных сетей могут воспроизводить человеческие голоса. »»»
+
+● ИИ DeepMind от Google решает трехмерные структуры «всей белковой вселенной». Этот прорыв может, наконец, положить конец многолетней проблеме свертывания белка. »»»
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 53}, {'_': 'MessageEntityTextUrl', 'offset': 55, 'length': 90, 'url': 'https://www.finam.ru/publications/item/minekonomrazvitiya-i-mincifry-prorabotayut-plan-vnedreniya-iskusstvennogo-intellekta-v-klyuchevyx-otraslyax-ekonomiki-20220728-184836'}, {'_': 'MessageEntityTextUrl', 'offset': 266, 'length': 5, 'url': 'https://www.finam.ru/publications/item/minekonomrazvitiya-i-mincifry-prorabotayut-plan-vnedreniya-iskusstvennogo-intellekta-v-klyuchevyx-otraslyax-ekonomiki-20220728-184836'}, {'_': 'MessageEntityBold', 'offset': 271, 'length': 7}, {'_': 'MessageEntityTextUrl', 'offset': 279, 'length': 69, 'url': 'https://lenta.ru/news/2022/07/28/learning/'}, {'_': 'MessageEntityTextUrl', 'offset': 437, 'length': 5, 'url': 'https://lenta.ru/news/2022/07/28/learning/'}, {'_': 'MessageEntityBold', 'offset': 442, 'length': 12}, {'_': 'MessageEntityTextUrl', 'offset': 456, 'length': 65, 'url': 'https://berza.ru/long-short-term-memory-for-ai-applications/'}, {'_': 'MessageEntityTextUrl', 'offset': 688, 'length': 5, 'url': 'https://berza.ru/long-short-term-memory-for-ai-applications/'}, {'_': 'MessageEntityBold', 'offset': 693, 'length': 10}, {'_': 'MessageEntityTextUrl', 'offset': 705, 'length': 74, 'url': 'https://iz.ru/1371534/2022-07-28/v-rossii-sozdali-servis-po-prognozirovaniiu-likvidnosti-i-stoimosti-zhilia'}, {'_': 'MessageEntityUrl', 'offset': 815, 'length': 6}, {'_': 'MessageEntityTextUrl', 'offset': 915, 'length': 5, 'url': 'https://iz.ru/1371534/2022-07-28/v-rossii-sozdali-servis-po-prognozirovaniiu-likvidnosti-i-stoimosti-zhilia'}, {'_': 'MessageEntityBold', 'offset': 920, 'length': 22}, {'_': 'MessageEntityTextUrl', 'offset': 944, 'length': 56, 'url': 'https://analyticsindiamag.com/neural-vocoder-and-its-application-in-speech-recognition/'}, {'_': 'MessageEntityTextUrl', 'offset': 1087, 'length': 5, 'url': 'https://analyticsindiamag.com/neural-vocoder-and-its-application-in-speech-recognition/'}, {'_': 'MessageEntityTextUrl', 'offset': 1094, 'length': 76, 'url': 'https://www.cnet.com/science/biology/googles-deepmind-ai-solves-3d-structures-of-the-entire-protein-universe/'}, {'_': 'MessageEntityTextUrl', 'offset': 1254, 'length': 3, 'url': 'https://www.cnet.com/science/biology/googles-deepmind-ai-solves-3d-structures-of-the-entire-protein-universe/'}]
+views : 333
+forwards : 1
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 1061, 'comments': True, 'recent_repliers': [], 'channel_id': 1329227641, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-29 07:31:59+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 727
+peer_id : {'_': 'PeerChannel', 'channel_id': 1386305130}
+date : 2022-07-28 06:32:02+00:00
+message : Дайджест. Выпуск от 28.07.2022 № 126 (296)
+
+Наука
+
+● Появился ИИ, который наблюдает за процессами и предлагает новые законы физики. Исследователи из Columbia Engineering создали ИИ, который наблюдает за физическими явлениями, а затем ищет набор фундаментальных переменных. »»»
+
+● Повышающую рентабельность добычи нефти нейросеть разработали в России. Алгоритм позволит не только повысить рентабельность добычи нефти, но и сделать ее более экологичной для окружающей среды. »»»
+
+Технологии
+
+● Искусственный интеллект будет контролировать качество сборки ракетных двигателей в России. По словам главного технолога НПО "Энергомаш" Евгения Воронежского, разработка должна положительно сказаться на качестве сборки. »»»
+
+● Истребитель Tempest сможет «читать мысли» пилота. И брать управление на себя. »»»
+
+Образование
+
+● В КБГУ проводят первый набор в новый институт искусственного интеллекта и цифровых технологий. В Кабардино-Балкарском госуниверситете проводят первый набор в новый институт, который открыли в ноябре прошлого года. »»»
+
+Армия
+
+● Армия США планирует использовать роботов с ИИ для вычисления снайперов. Пентагон проведет тестирование системы обнаружения снайперов, основанной на искусственном интеллекте (ИИ). Об этом сообщает телеканал Fox News. »»»
+
+Зарубежные источники
+
+● Управление бурением с использованием передового искусственного интеллекта, геолого-геофизических и петрофизических технологий. Направленное бурение представляет собой сложный процесс. »»»
+
+● AGI готов появиться (вместе с рисками, которые он принесет). Ожидается, что в течение следующего десятилетия появится AGI — способность компьютерных систем понимать, учиться и реагировать так же, как это делают люди. »»»
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 51}, {'_': 'MessageEntityTextUrl', 'offset': 52, 'length': 79, 'url': 'https://hightech.fm/2022/07/27/alternative-physics'}, {'_': 'MessageEntityTextUrl', 'offset': 273, 'length': 5, 'url': 'https://hightech.fm/2022/07/27/alternative-physics'}, {'_': 'MessageEntityTextUrl', 'offset': 280, 'length': 71, 'url': 'https://nauka.tass.ru/nauka/15324863'}, {'_': 'MessageEntityTextUrl', 'offset': 473, 'length': 5, 'url': 'https://nauka.tass.ru/nauka/15324863'}, {'_': 'MessageEntityBold', 'offset': 478, 'length': 12}, {'_': 'MessageEntityTextUrl', 'offset': 492, 'length': 91, 'url': 'https://nauka.tass.ru/nauka/15323419'}, {'_': 'MessageEntityTextUrl', 'offset': 711, 'length': 5, 'url': 'https://nauka.tass.ru/nauka/15323419'}, {'_': 'MessageEntityTextUrl', 'offset': 717, 'length': 50, 'url': 'https://www.ixbt.com/news/2022/07/27/samoljot-spitfire-smozhet-chitat-mysli-pilota.html'}, {'_': 'MessageEntityTextUrl', 'offset': 796, 'length': 5, 'url': 'https://www.ixbt.com/news/2022/07/27/samoljot-spitfire-smozhet-chitat-mysli-pilota.html'}, {'_': 'MessageEntityBold', 'offset': 801, 'length': 13}, {'_': 'MessageEntityTextUrl', 'offset': 816, 'length': 94, 'url': 'https://smotrim.ru/article/2864267'}, {'_': 'MessageEntityTextUrl', 'offset': 1030, 'length': 5, 'url': 'https://smotrim.ru/article/2864267'}, {'_': 'MessageEntityBold', 'offset': 1035, 'length': 7}, {'_': 'MessageEntityTextUrl', 'offset': 1044, 'length': 72, 'url': 'https://www.gazeta.ru/army/news/2022/07/27/18214514.shtml'}, {'_': 'MessageEntityTextUrl', 'offset': 1260, 'length': 5, 'url': 'https://www.gazeta.ru/army/news/2022/07/27/18214514.shtml'}, {'_': 'MessageEntityBold', 'offset': 1265, 'length': 22}, {'_': 'MessageEntityTextUrl', 'offset': 1288, 'length': 127, 'url': 'https://businessday.ng/news/article/drilling-management-utilizing-cutting-edge-artificial-intelligence-geoscience-and-petrophysics/'}, {'_': 'MessageEntityTextUrl', 'offset': 1473, 'length': 5, 'url': 'https://businessday.ng/news/article/drilling-management-utilizing-cutting-edge-artificial-intelligence-geoscience-and-petrophysics/'}, {'_': 'MessageEntityTextUrl', 'offset': 1480, 'length': 61, 'url': 'https://www.forbes.com/sites/forbestechcouncil/2022/07/27/agi-is-ready-to-emerge-along-with-the-risks-it-will-bring/'}, {'_': 'MessageEntityTextUrl', 'offset': 1697, 'length': 3, 'url': 'https://www.forbes.com/sites/forbestechcouncil/2022/07/27/agi-is-ready-to-emerge-along-with-the-risks-it-will-bring/'}]
+views : 212
+forwards : 1
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 1061, 'comments': True, 'recent_repliers': [], 'channel_id': 1329227641, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-28 06:39:14+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 726
+peer_id : {'_': 'PeerChannel', 'channel_id': 1386305130}
+date : 2022-07-27 05:57:51+00:00
+message : Дайджест. Выпуск от 27.07.2022 № 125 (295)
+
+События
+
+● Правительство РФ просубсидирует подготовку специалистов в сфере ИИ. Правительство РФ выделит субсидии на программу повышения квалификации специалистов, занимающихся развитием ИИ, постановление подписал премьер Михаил Мишустин. »»»
+
+● Чернышенко: число внедренных отечественных решений в ИИ к 2024 году вырастет вдвое. По словам вице-премьера, прирост специалистов в этой области составит около 10 тыс. человек. »»»
+
+Наука
+
+● В России создали ИИ для отслеживания состояния операторов цифровых систем вокзалов и аэропортов. Российские ученые создали ИИ, определяющий утомление по глазам. »»»
+
+Зарубежные источники
+
+● Лучшие блоги/веб-сайты, посвященные искусственному интеллекту и машинному обучению в 2022 году. Мы обнаружили, что сайты в этом списке являются точными, полезными и заслуживающими доверия источниками исследований ИИ. »»»
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 53}, {'_': 'MessageEntityTextUrl', 'offset': 55, 'length': 68, 'url': 'https://academia.interfax.ru/ru/news/articles/8825'}, {'_': 'MessageEntityTextUrl', 'offset': 282, 'length': 5, 'url': 'https://academia.interfax.ru/ru/news/articles/8825'}, {'_': 'MessageEntityTextUrl', 'offset': 289, 'length': 84, 'url': 'https://tass.ru/ekonomika/15304861'}, {'_': 'MessageEntityTextUrl', 'offset': 466, 'length': 5, 'url': 'https://tass.ru/ekonomika/15304861'}, {'_': 'MessageEntityBold', 'offset': 471, 'length': 7}, {'_': 'MessageEntityTextUrl', 'offset': 480, 'length': 97, 'url': 'https://www.gazeta.ru/science/news/2022/07/26/18203528.shtml'}, {'_': 'MessageEntityTextUrl', 'offset': 641, 'length': 5, 'url': 'https://www.gazeta.ru/science/news/2022/07/26/18203528.shtml'}, {'_': 'MessageEntityBold', 'offset': 646, 'length': 22}, {'_': 'MessageEntityTextUrl', 'offset': 670, 'length': 95, 'url': 'https://www.marktechpost.com/2022/07/26/top-artificial-intelligence-ai-and-machine-learning-ml-blogs-websites-to-follow-in-2022/'}, {'_': 'MessageEntityTextUrl', 'offset': 887, 'length': 3, 'url': 'https://www.marktechpost.com/2022/07/26/top-artificial-intelligence-ai-and-machine-learning-ml-blogs-websites-to-follow-in-2022/'}]
+views : 197
+forwards : 2
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 1061, 'comments': True, 'recent_repliers': [], 'channel_id': 1329227641, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-27 05:57:54+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 725
+peer_id : {'_': 'PeerChannel', 'channel_id': 1386305130}
+date : 2022-07-26 06:03:39+00:00
+message : Дайджест. Выпуск от 26.07.2022 № 124 (294)
+
+События
+
+● В правительстве РФ назначили ответственного за ИИ. Куратором разработок в сфере ИИ и квантовых вычислений, а также компьютерного моделирования нано-устройств и нано-материалов, назначен вице-премьер-министр РФ Дмитрий Чернышенко. »»»
+
+Наука
+
+● Искусственный интеллект может учиться на баснях. Команда Джея Пуджары из Института информационных наук учит искусственный интеллект проводить творческие аналогии, используя древнюю форму искусства... басни. »»»
+
+● Учёные из США обнаружили, что компьютеры могут понимать сложные слова и понятия. Модели обработки естественного языка используют статистику для сбора большого количества информации о значениях слов. »»»
+
+Медицина
+
+● Практику применения систем ИИ в медицине описали ученые Сеченовского университета. Эксперты исследовали практику применения систем ИИ в обращения лекарственных средств в России. »»»
+
+Зарубежные источники
+
+● Какое отношение квантовые вычисления имеют к ИИ? Искусственный интеллект (ИИ) становится одной из ключевых отраслевых тенденций после десятилетий просто мечты исследователя. »»»
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 53}, {'_': 'MessageEntityTextUrl', 'offset': 55, 'length': 51, 'url': 'https://rossaprimavera.ru/news/e14c11ba'}, {'_': 'MessageEntityTextUrl', 'offset': 285, 'length': 5, 'url': 'https://rossaprimavera.ru/news/e14c11ba'}, {'_': 'MessageEntityBold', 'offset': 290, 'length': 7}, {'_': 'MessageEntityTextUrl', 'offset': 299, 'length': 48, 'url': 'https://weekly-news.ru/news/7589-iskusstvenniy_intellekt_uchitsya_analogovim_rassuzhdeniyam_s_pomoshyu_basen.html'}, {'_': 'MessageEntityTextUrl', 'offset': 506, 'length': 5, 'url': 'https://weekly-news.ru/news/7589-iskusstvenniy_intellekt_uchitsya_analogovim_rassuzhdeniyam_s_pomoshyu_basen.html'}, {'_': 'MessageEntityTextUrl', 'offset': 512, 'length': 82, 'url': 'https://aobe.ru/77814-uchjonye-iz-ssha-obnaruzhili-chto-kompjutery-mogut-ponimat-slozhnye-slova-i-ponjatija.html'}, {'_': 'MessageEntityTextUrl', 'offset': 712, 'length': 5, 'url': 'https://aobe.ru/77814-uchjonye-iz-ssha-obnaruzhili-chto-kompjutery-mogut-ponimat-slozhnye-slova-i-ponjatija.html'}, {'_': 'MessageEntityBold', 'offset': 717, 'length': 10}, {'_': 'MessageEntityTextUrl', 'offset': 729, 'length': 83, 'url': 'https://gazetahamovniki.moscow/2022/07/25/praktiku-primeneniya-sistem-iskusstvennogo-intellekta-v-mediczine-opisali-uchenye-sechenovskogo-universiteta/'}, {'_': 'MessageEntityTextUrl', 'offset': 907, 'length': 5, 'url': 'https://gazetahamovniki.moscow/2022/07/25/praktiku-primeneniya-sistem-iskusstvennogo-intellekta-v-mediczine-opisali-uchenye-sechenovskogo-universiteta/'}, {'_': 'MessageEntityBold', 'offset': 912, 'length': 22}, {'_': 'MessageEntityTextUrl', 'offset': 936, 'length': 49, 'url': 'https://www.verdict.co.uk/what-has-quantum-computing-got-to-do-with-ai/'}, {'_': 'MessageEntityTextUrl', 'offset': 1110, 'length': 3, 'url': 'https://www.verdict.co.uk/what-has-quantum-computing-got-to-do-with-ai/'}]
+views : 215
+forwards : 1
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 1061, 'comments': True, 'recent_repliers': [], 'channel_id': 1329227641, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-26 06:06:35+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 724
+peer_id : {'_': 'PeerChannel', 'channel_id': 1386305130}
+date : 2022-07-25 06:54:57+00:00
+message : Дайджест. Выпуск от 25.07.2022 № 123 (293)
+
+Наука
+
+● Роботы смогли научиться домашним делам, наблюдая за людьми. Новая система позволяет роботам учиться домашним делам, наблюдая за людьми. »»»
+
+Технологии
+
+● Новая версия Roewe RX5 с функцией интеллектуального вождения NGP будет запущена в начале августа. Автомобиль создан на базе недавно обновленной модели и имеет более современное оснащение. »»»
+
+Практика
+
+● Эта головоломка поставила в тупик нейросеть. Разгадайте сами. Попробуйте самостоятельно найти животных на этом рисунке. »»»
+
+Железо
+
+● Hanwha Techwin представляет три биспектральных камеры с искусственным интеллектом. В каждой из новинок камера видимого диапазона содержит встроенный искусственный интеллект, который находит и классифицирует объекты в кадре. »»»
+
+Зарубежные источники
+
+● ИИ, оставляет без работы второго пилота ВВС США на C-130J Hercules. Помимо механического управления самолетом, Merlin Pilot сможет получать и выполнять голосовые команды от служб управления воздушным движением. »»»
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : True
+edit_hide : True
+pinned : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 51}, {'_': 'MessageEntityTextUrl', 'offset': 53, 'length': 60, 'url': 'https://www.gazeta.ru/science/news/2022/07/22/18178292.shtml'}, {'_': 'MessageEntityTextUrl', 'offset': 189, 'length': 5, 'url': 'https://www.gazeta.ru/science/news/2022/07/22/18178292.shtml'}, {'_': 'MessageEntityBold', 'offset': 194, 'length': 12}, {'_': 'MessageEntityTextUrl', 'offset': 208, 'length': 97, 'url': 'https://naavtotrasse.ru/roewe/novaya-versiya-roewe-rx5-budet-zapushhena-v-nachale-avgusta.html'}, {'_': 'MessageEntityTextUrl', 'offset': 396, 'length': 5, 'url': 'https://naavtotrasse.ru/roewe/novaya-versiya-roewe-rx5-budet-zapushhena-v-nachale-avgusta.html'}, {'_': 'MessageEntityBold', 'offset': 401, 'length': 10}, {'_': 'MessageEntityTextUrl', 'offset': 413, 'length': 45, 'url': 'https://hi-tech.mail.ru/news/58704-eta-yaponskaya-golovolomka-postavila-v-tupik-neyroset-razgadayte-sami/'}, {'_': 'MessageEntityTextUrl', 'offset': 533, 'length': 5, 'url': 'https://hi-tech.mail.ru/news/58704-eta-yaponskaya-golovolomka-postavila-v-tupik-neyroset-razgadayte-sami/'}, {'_': 'MessageEntityBold', 'offset': 538, 'length': 8}, {'_': 'MessageEntityTextUrl', 'offset': 547, 'length': 84, 'url': 'https://secnews.ru/pr/24581.htm'}, {'_': 'MessageEntityTextUrl', 'offset': 772, 'length': 5, 'url': 'https://secnews.ru/pr/24581.htm'}, {'_': 'MessageEntityBold', 'offset': 777, 'length': 22}, {'_': 'MessageEntityTextUrl', 'offset': 801, 'length': 67, 'url': 'https://frontierindia.com/alexa-or-siri-like-ai-endangers-usaf-co-pilot-job-on-c-130j-hercules/'}, {'_': 'MessageEntityTextUrl', 'offset': 1012, 'length': 3, 'url': 'https://frontierindia.com/alexa-or-siri-like-ai-endangers-usaf-co-pilot-job-on-c-130j-hercules/'}]
+views : 217
+forwards : 0
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 1061, 'comments': True, 'recent_repliers': [], 'channel_id': 1329227641, 'max_id': None, 'read_max_id': None}
+edit_date : 2022-07-25 07:18:27+00:00
+post_author : None
+grouped_id : None
+restriction_reason : []
+ttl_period : None

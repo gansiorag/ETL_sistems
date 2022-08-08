@@ -1,0 +1,30 @@
+<============================>
+_ : MessageService
+id : 5545
+peer_id : {'_': 'PeerChannel', 'channel_id': 1442602745}
+date : 2022-07-31 12:16:10+00:00
+action : {'_': 'MessageActionChatAddUser', 'users': [1090601274]}
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+legacy : False
+from_id : {'_': 'PeerUser', 'user_id': 1090601274}
+reply_to : None
+ttl_period : None
+<============================>
+_ : MessageService
+id : 5545
+peer_id : {'_': 'PeerChannel', 'channel_id': 1442602745}
+date : 2022-07-31 12:16:10+00:00
+action : {'_': 'MessageActionChatAddUser', 'users': [1090601274]}
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+legacy : False
+from_id : {'_': 'PeerUser', 'user_id': 1090601274}
+reply_to : None
+ttl_period : None
