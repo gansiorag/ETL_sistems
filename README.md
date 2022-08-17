@@ -7,5 +7,6 @@
 * HBase,
 * MongoDB,
 * Cassandra, 
-*  Kafka
+* Kafka
+* RabbitMQ 
 * + more! Over 25 technologies.
