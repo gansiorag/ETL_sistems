@@ -6,6 +6,7 @@ Starting 2022/02/04
 Ending 2022//
     
 '''
+from cgitb import text
 import json
 import os
 from collections import Counter  
@@ -31,6 +32,61 @@ def get_config(name_file:str):
         d = json.load(f)
         return d['api_id'], d['api_hash'], d['username'], d['api_id']
         
+
+def getAllUsersChanel(NameChanel:str):
+    # get config connection with Telegram
+    cwd = os.getcwd()
+    WorkDir = cwd.split('ETL_sistems')
+    name=f'{WorkDir[0]}/ETL_sistems/config/telegram.json'
+    api_id, api_hash, username, phone  = get_config(name)
+    print(api_id, api_hash, username, phone)
+    
+    client = TelegramClient(username, api_id, api_hash)
+    client.start()
+    
+    if not client.is_user_authorized():
+        client.send_code_request(phone)
+        try:
+            client.sign_in(phone, input('Enter the code: '))
+        except SessionPasswordNeededError:
+            client.sign_in(password=input('Password: '))
+    
+    # Work with channel NameChanel       
+    user_input_channel = NameChanel
+   
+    # get all users of chanel
+    if user_input_channel.isdigit():
+        entity = PeerChannel(int(user_input_channel))
+    else:
+        entity = user_input_channel
+
+    my_channel = client.get_entity(entity)
+    offset = 0
+    limitUsers = 100
+    all_participants = []
+    dataText = str(datetime.now()).replace('-','_').replace(' ','_').replace(':','_').replace('.','_')
+    nameFileUser = f'{WorkDir[0]}/ETL_sistems/datasets_com/AGI/' + NameChanel.split('/')[-1] +'_' + dataText +'_User.txt'   
+    while True:
+        participants = client(GetParticipantsRequest(
+            my_channel, ChannelParticipantsSearch(''), offset, limitUsers,
+            hash=0
+        ))
+        if not participants.users:
+            break
+        all_participants.extend(participants.users)
+        offset += len(participants.users)
+    print(f'KOl users = {offset}')
+    with open(nameFileUser , 'w', encoding='utf8') as outfile:
+        outfile.write("id^first_name^last_name^user^phone^is_bot\n")
+        for participant in all_participants:
+            name = ''
+            lastName = ''
+            if type(participant.first_name) == str : name = u'{}'.format(participant.first_name)
+            if type(participant.last_name) == str : lastName = u'{}'.format(participant.last_name)
+            #print(name, lastName, sep= ' ------- ')
+            outfile.write(f"{participant.id}^{name}^{lastName}^{participant.username}^{participant.phone}^{participant.bot}\n")    
+    client.disconnect()
+    
 
 def getInfoChanel(NameChanel:str):
     
@@ -128,10 +184,11 @@ if __name__ == '__main__':
         #'https://t.me/agirussia',
         #'https://t.me/AGIRussia_SCA',
         #'https://t.me/agiterms',
-        'https://t.me/OpenTalksAI',
+        #'https://t.me/OpenTalksAI',
         'https://t.me/agirussianews']
     for NameChanel in listName:
-        getInfoChanel(NameChanel)
+        getAllUsersChanel(NameChanel)
+        #getInfoChanel(NameChanel)
 
 
 
