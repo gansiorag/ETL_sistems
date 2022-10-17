@@ -20,8 +20,21 @@ options = "metadata"
 Next step install environment.
 1. sudo apt install python3-pip
 2. pip3 install apache-airflow[gcp, statsd, sentry]
-3. pip3 install pyspark
-4. export AIRFLOW_HOME=/mnt/c/Users/alwin/auirflow/
-5. nano ~/.bashrc and add  -> export AIRFLOW_HOME=/mnt/c/Users/alwin/auirflow/
-6. check - echo $AIRFLOW_HOME -> /mnt/c/Users/alwin/
-7. airflow db init
+3. pip3 install cryptography
+4. pip3 install pyspark
+5. export AIRFLOW_HOME=/mnt/c/Users/alwin/auirflow/
+6. nano ~/.bashrc and add  -> export AIRFLOW_HOME=/mnt/c/Users/alwin/auirflow/
+7. check - echo $AIRFLOW_HOME -> /mnt/c/Users/alwin/
+8. airflow db init
+9. airflow users create \
+    --username admin \
+    --firstname Peter \
+    --lastname Parker \
+    --role Admin \
+    --email spiderman@superhero.org
+10. airflow webserver
+11. if exist process on port 8080, nessery kill this process next command
+    netstat -ano | findstr :8080
+    taskkill /PID <PID> /F where <PID> number process.
+
+    
