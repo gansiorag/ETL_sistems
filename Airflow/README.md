@@ -38,3 +38,4 @@ Next step install environment.
     taskkill /PID <PID> /F where <PID> number process.
 
     
+# How install Airflow on Linux
