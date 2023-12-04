@@ -1,0 +1,112 @@
+id^first_name^last_name^user^phone^is_bot^data
+565875641^Gregory^Vovchok^None^None^False^2023-12-03 10:10:51
+123307867^Igor^Pivovarov^igorpivovarov^None^False^2023-12-03 10:10:51
+302910826^Anton^Kolonin^akolonin^None^False^2023-12-03 10:10:51
+303967065^Aigents^^AigentsBot^None^True^2023-12-03 10:10:51
+532510956^Nikita^^nikita_minyaev^None^False^2023-12-03 10:10:51
+112661964^Andrey^Kovtunenko🇷🇺^Scotchmann^None^False^2023-12-03 10:10:51
+956227090^Иван^^whatudoings^None^False^2023-12-03 10:10:51
+149331383^Roman^Titov^R_Titov^None^False^2023-12-03 10:10:51
+6512056901^Nikolai^^GRAVITON_RU^None^False^2023-12-03 10:10:51
+40937921^Николай^Крупий^NikolayKrupiy^None^False^2023-12-03 10:10:51
+582109551^Andrei^Klimov^andrei_v_klimov^None^False^2023-12-03 10:10:51
+206130832^ЗАФАР^^akaZAFAR^None^False^2023-12-03 10:10:51
+1831685710^ilia^^yalieto^None^False^2023-12-03 10:10:51
+540308572^Никита^Розанов^Careviolan^None^False^2023-12-03 10:10:51
+394199355^Sergey^^yom_zee^None^False^2023-12-03 10:10:51
+992851216^Владимир^Смолин^None^None^False^2023-12-03 10:10:51
+1054288665^Jugla^Silciema^sbzs_2^None^False^2023-12-03 10:10:51
+418198604^Alex^^Alex15785^None^False^2023-12-03 10:10:51
+2095800903^Nikita^Demerza^NikitaDemerza^None^False^2023-12-03 10:10:51
+191991590^Philipp^Zemskikh^PhilippZemskikh^None^False^2023-12-03 10:10:51
+285213472^Alexander^^Digitalzz^None^False^2023-12-03 10:10:51
+365462383^navy_admiral^^navy_admiral^None^False^2023-12-03 10:10:51
+5232208922^Елена^^aelenavictory^None^False^2023-12-03 10:10:51
+614278014^Алексей^Кабанов ✌^realbtr^None^False^2023-12-03 10:10:51
+426985664^Andrey^Voronko^av_qtx^None^False^2023-12-03 10:10:51
+400753764^DaySandBox^^daysandbox_bot^None^True^2023-12-03 10:10:51
+201770861^Vic^^Vic_Ai_Blockchain^None^False^2023-12-03 10:10:51
+789086558^Елена^Вишневская^cherry_krd^None^False^2023-12-03 10:10:51
+531522968^Nina^Chayka^cryptoprincesa^None^False^2023-12-03 10:10:51
+1482512625^Александр^Белов^None^None^False^2023-12-03 10:10:51
+1072329640^Борис^Новиков^None^None^False^2023-12-03 10:10:51
+133604876^Roman^Leventov^leventov^None^False^2023-12-03 10:10:51
+15857278^Eugene^Pavlenko^eugenepx^None^False^2023-12-03 10:10:51
+120255368^Albert^Yefimov^makkawity^None^False^2023-12-03 10:10:51
+302797553^Vadim^S^Javarool^None^False^2023-12-03 10:10:51
+5095554284^Антон^^Anton_Ermolaev_1^None^False^2023-12-03 10:10:51
+238508531^Vladimir^Samoylov^vsamoylov^None^False^2023-12-03 10:10:51
+154779277^Дмитрий^^None^None^False^2023-12-03 10:10:51
+412596430^Сергей^^Sergeu95^None^False^2023-12-03 10:10:51
+1148733360^Wokefefe 🏳‍🌈🏳‍⚧🇺🇳^^wokefefe^None^False^2023-12-03 10:10:51
+932804185^Валерия^^None^None^False^2023-12-03 10:10:51
+5283254998^Reader^^None^None^False^2023-12-03 10:10:51
+2130374639^Игорь^Дмитриенко^None^None^False^2023-12-03 10:10:51
+286734076^Neo^Dze^OverDan^None^False^2023-12-03 10:10:51
+477765522^Nadⁱa Petrovⁿa^^NadiaPetrovna^None^False^2023-12-03 10:10:51
+175888541^Natalia^Martemianova^natmartem^None^False^2023-12-03 10:10:51
+382041271^Arseny^Ivanov^arsmathprog^None^False^2023-12-03 10:10:51
+168776346^Alexey^Kabanov^None^None^False^2023-12-03 10:10:51
+357300342^Roman^^romgor91^None^False^2023-12-03 10:10:51
+213282416^Pavel^Abraksas^pabraxaz^None^False^2023-12-03 10:10:51
+491439241^Артём^Грязев^ArtemGryazev^None^False^2023-12-03 10:10:51
+404273041^Vadim^^kallivad^None^False^2023-12-03 10:10:51
+773734816^Арсений^arseni.pro Фефелов^Arseni_Pro^None^False^2023-12-03 10:10:51
+2104668228^./224^^firsmak^None^False^2023-12-03 10:10:51
+178932653^Peter^Volkov^peter_a_volkov^None^False^2023-12-03 10:10:51
+2053022242^AntiSpam Name Bot^^antispamname_bot^None^True^2023-12-03 10:10:51
+214001135^Vladimir^R^vsr42^None^False^2023-12-03 10:10:51
+2111631160^A^^zavadskiy_anatolii^None^False^2023-12-03 10:10:51
+277920479^Matti^Linnanvuori^Matti_Linnanvuori^None^False^2023-12-03 10:10:51
+781335221^Рамиль^Хикматуллин^ELePhanT_1708^None^False^2023-12-03 10:10:51
+510956956^Katya^^katia_matia^None^False^2023-12-03 10:10:51
+1025249004^ZOYA^^None^None^False^2023-12-03 10:10:51
+930356435^Ильгизар^Талипов^Ilgizart^None^False^2023-12-03 10:10:51
+1674689661^ОЛЬГА^^Olga_myJuly^None^False^2023-12-03 10:10:51
+783483688^Alexander^Gansior^Gansior_Alexandr^79184129948^False^2023-12-03 10:10:51
+813950528^Иван^Муравьев^None^None^False^2023-12-03 10:10:51
+132480154^s.blackoff^^s_blackoff^None^False^2023-12-03 10:10:51
+255312955^R^I^ibs23^None^False^2023-12-03 10:10:51
+1310842864^Лидия^Пархоменко^LydiaParkhomenko^None^False^2023-12-03 10:10:51
+373622697^Nikolay V.^Shmyrev^nshmyrev^None^False^2023-12-03 10:10:51
+157717957^Сергей^Алексеев^researger^None^False^2023-12-03 10:10:51
+160630665^Захар^Понимаш^ZaharFractalAI^None^False^2023-12-03 10:10:51
+438028700^Maxim^Gusev^maksgusev123^None^False^2023-12-03 10:10:51
+429856151^Алена^^alena_adventure_ahead^None^False^2023-12-03 10:10:51
+150242219^Valery^Datsyuk^twobeerornottwobear^None^False^2023-12-03 10:10:51
+5126788931^Компьютер^Персональный^PeComp^None^False^2023-12-03 10:10:51
+1164884418^Nikita^^it_diac^None^False^2023-12-03 10:10:51
+241096144^Backward^^olegs1339^None^False^2023-12-03 10:10:51
+348534187^Олег^Демин^Toptygaa^None^False^2023-12-03 10:10:51
+382161911^Greg^^biogreg^None^False^2023-12-03 10:10:51
+466200978^Serge^Sobolenko^Misteryest^None^False^2023-12-03 10:10:51
+790860286^AS Grib^^AS_Grib^None^False^2023-12-03 10:10:51
+82920281^Андрей^Егоров^opuxol^None^False^2023-12-03 10:10:51
+833227970^Валентина^Удод^None^None^False^2023-12-03 10:10:51
+188814292^GDB^^GennBooth^None^False^2023-12-03 10:10:51
+117104506^Alex^D^A_Drobysheva^None^False^2023-12-03 10:10:51
+381362663^Nataliya^Volkova^Nataliya_Volkova_MSK^None^False^2023-12-03 10:10:51
+562956308^Konstantin^^py_free_developer^None^False^2023-12-03 10:10:51
+1115736933^Antony^^Nao1209^None^False^2023-12-03 10:10:51
+113391726^Tatiana^Shavrina^rybolos^None^False^2023-12-03 10:10:51
+1461261513^Elena^^Elena_q_Elena^None^False^2023-12-03 10:10:51
+83012833^Олег^^donkoC^None^False^2023-12-03 10:10:51
+332412855^Anna^Kartasheva | Издатель^Anna3Kartasheva^79221488024^False^2023-12-03 10:10:51
+231639611^G^B ️^litpalata^None^False^2023-12-03 10:10:51
+295917286^Kirill^Krinkin^krinkin^None^False^2023-12-03 10:10:51
+854575732^🤔 Андрей^^None^None^False^2023-12-03 10:10:51
+372882153^Maxim Basov^^maximilianbasov^None^False^2023-12-03 10:10:51
+371687200^Anton^Mikhalev^Anton_Mikhalev^None^False^2023-12-03 10:10:51
+266341995^Igor^Nemov^NemoFF^None^False^2023-12-03 10:10:51
+435160228^Alexander^Maneev^funkyowl^None^False^2023-12-03 10:10:51
+667827332^Екатерина^Лисак^ekatlisak^None^False^2023-12-03 10:10:51
+119628032^Mikhail^Narkhov^None^None^False^2023-12-03 10:10:51
+787086849^Анатолий^Завадский^a_zavadskiy^None^False^2023-12-03 10:10:51
+313092884^Banof^^banofbot^None^True^2023-12-03 10:10:51
+302910826^Anton^Kolonin^akolonin^None^False^2023-12-03 10:10:51
+268723754^Julia^Gryaznova^juliagryaznova^None^False^2023-12-03 10:10:51
+77368187^Alexander^Teslya^ateslya^None^False^2023-12-03 10:10:51
+318715333^Alexander^Templar ➡️^LightTemplar^None^False^2023-12-03 10:10:51
+108879788^Рубикон^Безумный^Madness_Rubicon^None^False^2023-12-03 10:10:51
+187631807^Mike^Potanin^potan^None^False^2023-12-03 10:10:51
+783184327^Andrew^^None^None^False^2023-12-03 10:10:51
