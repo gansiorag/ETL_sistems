@@ -1,128 +1,144 @@
 '''
- This module make 
-    
+ This module make
+
 Athor: Gansior Alexander, gansior@gansior.ru, +79173383804
 Starting 2022/07/24
 Ending 2022//
-    
+
 '''
 import json
 import os
 import csv
-from collections import Counter  
 from pprint import pprint
-# для корректного переноса времени сообщений в json
-from datetime import date, datetime
-
+import asyncio
+from time import sleep
 # класс для создания соединения с Telegram
-from telethon import TelegramClient, events, sync
-
+from telethon import TelegramClient
 # классы для работы с каналами
 from telethon.tl.functions.channels import GetParticipantsRequest
 from telethon.tl.types import ChannelParticipantsSearch
 from telethon.errors import SessionPasswordNeededError
-from telethon.tl.functions.messages import GetHistoryRequest
 from telethon.tl.types import PeerChannel
 
 # класс для работы с сообщениями
 from telethon.tl.functions.messages import GetHistoryRequest
 
-def get_config(name_file:str):
-    with open(name_file) as f:
+
+# loop = asyncio.get_event_loop()
+
+def get_config(name_file: str):
+    """AI is creating summary for get_config
+
+    Args:
+        name_file (str): [description]
+
+    Returns:
+        [type]: [description]
+    """
+    with open(name_file, encoding='utf 8') as f:
         d = json.load(f)
         return d['api_id'], d['api_hash'], d['username'], d['api_id']
-        
 
-def getInfoChanelNum(NameChanel: list):
-    print(NameChanel[0])
+
+async def get_info_chanel_num(name_chanel_loc: list):
+    """AI is creating summary for getInfoChanelNum
+
+    Args:
+        name_chanel_loc (list): [description]
+    """
+    print(name_chanel_loc[0])
     # get config connection with Telegram
     cwd = os.getcwd()
-    WorkDir = cwd.split('ETL_sistems')
-    name=f'{WorkDir[0]}/ETL_sistems/config/telegram.json'
-    api_id, api_hash, username, phone  = get_config(name)
-    #print(api_id, api_hash, username, phone)
-    
+    work_dir = cwd.split('ETL_sistems')
+    name = f'{work_dir[0]}/ETL_sistems/config/telegram.json'
+    api_id, api_hash, username, phone = get_config(name)
+    # print(api_id, api_hash, username, phone)
+
     client = TelegramClient(username, api_id, api_hash)
-    client.start()
-    
-    if not client.is_user_authorized():
-        client.send_code_request(phone)
+    await client.start()
+
+    if not await client.is_user_authorized():
+        await client.send_code_request(phone)
         try:
-            client.sign_in(phone, input('Enter the code: '))
+            await client.sign_in(phone, input('Enter the code: '))
         except SessionPasswordNeededError:
-            client.sign_in(password=input('Password: '))
-    
-    # Work with channel NameChanel       
-    user_input_channel = NameChanel[0]
-   
+            await client.sign_in(password=input('Password: '))
+
+    # Work with channel name_chanel_loc
+    user_input_channel = name_chanel_loc[0]
+
     # get all users of chanel
     if user_input_channel.isdigit():
         entity = PeerChannel(int(user_input_channel))
     else:
         entity = user_input_channel
 
-    my_channel = client.get_entity(entity)
-    
+    my_channel = await client.get_entity(entity)
+    name_file_mes = f'{work_dir[0]}/ETL_sistems/datasets_com/AGI/' + name_chanel_loc[0].split('/')[-1] + '_Mes3.txt'
 
-    nameFileMes = f'{WorkDir[0]}/ETL_sistems/datasets_com/AGI/' + NameChanel[0].split('/')[-1] + '_Mes1.txt'
-  
     # get all messages of chanel
-    offset_id = 0
     limit = 100
-    all_messages = []
-    total_messages = 0
-    total_count_limit = 0
-    k =0
-    globalKey = True
-    while globalKey:
-        #print("Current Offset ID is:", offset_id, "; Total Messages:", total_messages)
-        history = client(GetHistoryRequest(
+    k = 0
+    global_key = True
+    id_mm = name_chanel_loc[1]
+    last_id = name_chanel_loc[1]
+    new_last_id = 0
+    while global_key:
+        # print("Current Offset ID is:", offset_id, "; Total Messages:", total_messages)
+        history = await client(GetHistoryRequest(
             peer=my_channel,
-            offset_id=offset_id,
+            offset_id=new_last_id,
             offset_date=None,
             add_offset=0,
             limit=limit,
             max_id=0,
-            min_id=0,
+            min_id=name_chanel_loc[1],
             hash=0
         ))
-        if not history.messages:
-            break
         messages = history.messages
-        with open(nameFileMes, 'a') as ff:
-            for message in messages:
-                if message.id > NameChanel[1]:
-                    ff.write("<============================>\n")
-                    mmrez = message.to_dict()
-                    for mm in mmrez:
-                        ff.write(f"{mm} : {mmrez[mm]}\n")
-                    k +=1
-                else:
-                    globalKey = False
-                    break
-        offset_id = messages[len(messages) - 1].id
-        #print('k == ', k)
-    print('com Messeges {nameFileMes}k == ', k)
+        if len(messages) > 0:
+            with open(name_file_mes, 'a', encoding='utf 8') as ff:
+                for message in messages:
+                    # print(message.id)
+                    if message.id > last_id:
+                        ff.write("<============================>\n")
+                        mmrez = message.to_dict()
+                        new_last_id = message.id
+                        if message.id > id_mm:
+                            id_mm = message.id
+                        for mm in mmrez:
+                            ff.write(f"{mm} : {mmrez[mm]}\n")
+                        k += 1
+        else:
+            global_key = False
+    print('com Messeges {name_file_mes}k == ', k)
+    print('last Messeges id == ', id_mm)
     client.disconnect()
-    
-    
-def getControlPoint() -> list:
-    currentPath = os.getcwd()
-    nameFilePoint = currentPath.split('ETL_sistems')[0] + '/ETL_sistems/getDataFromTelegram/controlPoint.csv'
-     
-    with open(nameFilePoint, newline='') as f:
-        reader = csv.reader(f, delimiter=('^'))
+
+
+def get_control_point() -> list:
+    """AI is creating summary for get_control_point
+
+    Returns:
+        list: [description]
+    """
+    current_path = os.getcwd()
+    name_file_point = current_path.split('ETL_sistems')[0] + '/ETL_sistems/getDataFromTelegram/controlPoint.csv'
+
+    with open(name_file_point, newline='', encoding='utf 8') as f:
+        reader = csv.reader(f, delimiter='^')
         rez = []
         for row in reader:
             if row[1].isdigit():
                 rez.append([row[0], int(row[1])])
     return rez
-            
+
+
 if __name__ == '__main__':
-    listName = getControlPoint()
-    pprint(listName)
-    for NameChanel in listName:
-        getInfoChanelNum(NameChanel)
-
-
-
+    list_name = get_control_point()
+    pprint(list_name)
+    # asyncio.run(get_info_chanel_num(list_name[0]))
+    for name_chanel in list_name:
+        print(name_chanel)
+        asyncio.run(get_info_chanel_num(name_chanel))
+        print()

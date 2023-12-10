@@ -1,0 +1,121 @@
+<============================>
+_ : Message
+id : 5881
+peer_id : {'_': 'PeerChannel', 'channel_id': 1564547985}
+date : 2023-12-10 07:03:34+00:00
+message : IBM и Meta* организовали международный альянс в области ИИ
+
+Организация преследует следующие цели:
+
+• Разработка и внедрение тестов и стандартов оценки, инструментов и т.д. которые позволят ответственно разрабатывать и использовать системы ИИ в глобальном масштабе, включая создание каталога проверенных инструментов безопасности, защиты и доверия.
+
+• Ответственное продвижение экосистемы открытых базовых (foundation) моделей с различными модальностями, включая высокоэффективные многоязычные, мультимодальные и научные модели, которые могут помочь в решении общих проблем в области климата, образования и других сфер.
+
+• Развитие динамичной экосистемы аппаратных ускорителей ИИ, увеличивая вклад и внедряя необходимые программные технологии.
+
+• Поддержка глобального развития навыков работы с ИИ и поисковых исследований. Привлечение академического сообщества к поддержке ученых и студентов в обучении и участию в проектах по созданию моделей и инструментов ИИ.
+
+• Разработка образовательного контента и ресурсов для информирования общественности и властей о преимуществах, рисках, решениях и точном регулировании ИИ.
+
+• Запуск инициатив, которые поощряют открытую разработку ИИ безопасными и эффективными способами, проведение мероприятий для изучения вариантов использования ИИ и демонстрации ответственного использование технологий ИИ членами Альянса.
+
+В организации более 50 членов и партнёров, включая AMD, CERN, Имперский колледж Лондона, Dell, Hugging Face, Intel, Oracle, INSAIT, Linux Foundation, Альянс MOC под управлением Бостонского и Гарвардского университетов, Токийский, Йельский университеты и других.
+
+*организация запрещена в России как экстремистская
+
+#news #бигтехи #AI #регулирование
+
+https://thealliance.ai/news
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+noforwards : False
+invert_media : False
+from_id : {'_': 'PeerUser', 'user_id': 302910826}
+fwd_from : {'_': 'MessageFwdHeader', 'date': datetime.datetime(2023, 12, 10, 7, 2, 51, tzinfo=datetime.timezone.utc), 'imported': False, 'from_id': {'_': 'PeerChannel', 'channel_id': 1258302502}, 'from_name': None, 'channel_post': 4527, 'post_author': None, 'saved_from_peer': None, 'saved_from_msg_id': None, 'psa_type': None}
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 5744196778935665162, 'url': 'https://thealliance.ai/news', 'display_url': 'thealliance.ai/news', 'hash': 0, 'has_large_media': True, 'type': 'article', 'site_name': 'thealliance.ai', 'title': 'AI Alliance', 'description': 'A community of technology creators, developers and adopters collaborating to advance safe, responsible AI rooted in open innovation.', 'photo': {'_': 'Photo', 'id': 6018266956257407491, 'access_hash': 1315738613362853595, 'file_reference': b'\x00eu\xc9\xa8\xce2\x1b3y\xff\xad\x9a\xf0coPt\x92A\x1a', 'date': datetime.datetime(2023, 12, 6, 0, 48, 1, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01((y5\x1c\xf2yq\x16\x1d{P\xd2(8,\x01\xf4\xcd$\x80:\x10\xdd)\xd8w+Ez\xe1\xbfy\xf3\x0fje\xcd\xc7\x9d\x80\x06\x14z\xd4\x14T\xd89\x9d\xacK\x04bF9\xedE\\\xb4\xb6\x01U\xff\x00\x88\x8a)\x88\xa1\xf7\xf9-\xf3\x13\xde\xa4\xcb\x94(d\xe0v\xf5\xa8h\xa0\x07\xf9|\x0f\x98sA\x8f\x1f\xc4\xb4\xca\xbbi\xa7\x9b\x88\xfc\xc6}\xaazc\xbd\x00;O\xba>b\xc2\xe0\x10x\x07\xd2\x8a\xb5m\xa7,\x12\x89\x19\xf7\x11\xd0c\x14P\x065\x14Q@\x05_\xb3\xd4\x04\x11yr) t"\x8a(\x02\xf5\xa5\xda\xdd\x06\xc7\x0c\x0f\xdd\xf6\xa2\x8a(\x03'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 320, 'size': 10028}, {'_': 'PhotoSizeProgressive', 'type': 'x', 'w': 800, 'h': 800, 'sizes': [4848, 8075, 13325, 17960, 28546]}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': 'Stanislav Pelak - stanislav.pelak@ibm.com', 'document': None, 'cached_page': None, 'attributes': []}, 'force_large_media': False, 'force_small_media': False, 'manual': True, 'safe': False}
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 59}, {'_': 'MessageEntityHashtag', 'offset': 1673, 'length': 5}, {'_': 'MessageEntityHashtag', 'offset': 1679, 'length': 8}, {'_': 'MessageEntityHashtag', 'offset': 1688, 'length': 3}, {'_': 'MessageEntityHashtag', 'offset': 1692, 'length': 14}, {'_': 'MessageEntityTextUrl', 'offset': 1708, 'length': 27, 'url': 'https://thealliance.ai/news'}, {'_': 'MessageEntityUnderline', 'offset': 1708, 'length': 27}]
+views : 230
+forwards : 3
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 9516, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+reactions : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 5880
+peer_id : {'_': 'PeerChannel', 'channel_id': 1564547985}
+date : 2023-12-10 06:54:52+00:00
+message : Популярный чат-бот ChatGPT может выдавать случайным пользователям гигабайты конфиденциальной информации — об этом предупредили эксперты. Среди таких данных специалисты обнаружили имена, фамилии и номера телефонов, идентификаторы соцсетей и откровенный контент с сайтов знакомств, — Известия. #briefly
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+noforwards : False
+invert_media : False
+from_id : {'_': 'PeerUser', 'user_id': 302910826}
+fwd_from : {'_': 'MessageFwdHeader', 'date': datetime.datetime(2023, 12, 9, 21, 40, 2, tzinfo=datetime.timezone.utc), 'imported': False, 'from_id': {'_': 'PeerChannel', 'channel_id': 1099350027}, 'from_name': None, 'channel_post': 181189, 'post_author': None, 'saved_from_peer': None, 'saved_from_msg_id': None, 'psa_type': None}
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityHashtag', 'offset': 292, 'length': 8}]
+views : 75766
+forwards : 294
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 9516, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+reactions : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 5879
+peer_id : {'_': 'PeerChannel', 'channel_id': 1564547985}
+date : 2023-12-10 03:26:17+00:00
+message : https://t.me/agirussianews/1318
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+noforwards : False
+invert_media : False
+from_id : {'_': 'PeerUser', 'user_id': 302910826}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 3463749425782648577, 'url': 'https://t.me/agirussianews/1318', 'display_url': 't.me/agirussianews/1318', 'hash': 0, 'has_large_media': False, 'type': 'telegram_message', 'site_name': 'Telegram', 'title': 'AGIRussia.news', 'description': 'БОЛЬШИЕ НОВОСТИ - Согласован Европеский The AI Act! \n\nTL;DR: На большие AI модели наложено очень много ограничений. Кончилась лафа для компаний, строящих LLM в EU.\n\nОсновные последствия The AI Act:\n\n1️⃣Система рисков по уровням: Для систем AI, классифицированных как высокорисковые, были согласованы четкие обязательства и требования прозрачности. Теперь потребуется обязательная оценка потенциально негативных воздействий на здравоозранение, бузопасность, базовые права человека, и общество в целом.\n\n2️⃣ Foundation модели будут регулироваться, если на их обучение ушло как минимум 10^25 flops вычислительной мощности - в эту категорию попадут модели как минимум уровня GPT-3.5.\n\n3️⃣Благодаря немцам, французам и итальянцам удалось добиться значительных поблажек для Open-Source моделей. Это слегка снимает стресс с некоторых компаний которые публикуют опенсорсные модели, включая французскую компанию Mistral и немецкую Aleph Alpha, а также Meta с ее моделями LLaMA. Ян Лекун поспособствовал.\n\n4️⃣ Следующие системы будут…', 'photo': None, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}, 'force_large_media': True, 'force_small_media': False, 'manual': True, 'safe': True}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 0, 'length': 31}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 9516, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+reactions : None
+restriction_reason : []
+ttl_period : None

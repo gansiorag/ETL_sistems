@@ -4,25 +4,22 @@
 Athor: Gansior Alexander, gansior@gansior.ru, +79173383804
 Starting 2022/02/04
 Ending 2022//
-    
+
 '''
 
-from cgitb import text
 import json
 import os
-from collections import Counter
-from pprint import pprint
+# from pprint import pprint
 # для корректного переноса времени сообщений в json
-from datetime import date, datetime
+from datetime import datetime
 
 # класс для создания соединения с Telegram
-from telethon import TelegramClient, events, sync
+from telethon import TelegramClient
 
 # классы для работы с каналами
 from telethon.tl.functions.channels import GetParticipantsRequest
 from telethon.tl.types import ChannelParticipantsSearch
 from telethon.errors import SessionPasswordNeededError
-from telethon.tl.functions.messages import GetHistoryRequest
 from telethon.tl.types import PeerChannel
 
 # класс для работы с сообщениями
@@ -30,7 +27,15 @@ from telethon.tl.functions.messages import GetHistoryRequest
 
 
 def get_config(name_file: str):
-    with open(name_file) as f:
+    """AI is creating summary for get_config
+
+    Args:
+        name_file (str): [description]
+
+    Returns:
+        [type]: [description]
+    """
+    with open(name_file, encoding='utf 8') as f:
         d = json.load(f)
         return d['api_id'], d['api_hash'], d['username'], d['api_id']
 
@@ -135,11 +140,13 @@ def get_info_chanel(name_chanel: str):
     # offset = 0
     # limit_users = 100
     # all_participants = []
-    name_file_user = f'{work_dir[0]}ETL_sistems/datasets_com/AGI/' + \
-        name_chanel.split('/')[-1] + '_User.txt'
-    nameFileMes = f'{work_dir[0]}ETL_sistems/datasets_com/AGI/' + \
+
+    name_file_mes = f'{work_dir[0]}ETL_sistems/datasets_com/AGI/' + \
         name_chanel.split('/')[-1] + '_Mes.txt'
-    # print(name_file_user, nameFileMes, sep = ' --- ')
+
+    # name_file_user = f'{work_dir[0]}ETL_sistems/datasets_com/AGI/' + \
+    #     name_chanel.split('/')[-1] + '_User.txt'
+    # print(name_file_user, name_file_mes, sep = ' --- ')
     # while True:
     #     participants = client(GetParticipantsRequest(
     #         my_channel, ChannelParticipantsSearch(''), offset, limit_users,
@@ -163,9 +170,6 @@ def get_info_chanel(name_chanel: str):
     # get all messages of chanel
     offset_id = 0
     limit = 100
-    all_messages = []
-    total_messages = 0
-    total_count_limit = 0
     k = 0
     while True:
         # print("Current Offset ID is:", offset_id, "; Total Messages:", total_messages)
@@ -182,7 +186,7 @@ def get_info_chanel(name_chanel: str):
         if not history.messages:
             break
         messages = history.messages
-        with open(nameFileMes, 'a') as ff:
+        with open(name_file_mes, 'a', encoding='utf 8') as ff:
             for message in messages:
                 ff.write("<============================>\n")
                 mmrez = message.to_dict()
@@ -191,7 +195,7 @@ def get_info_chanel(name_chanel: str):
                 k += 1
         offset_id = messages[len(messages) - 1].id
         # print('k == ', k)
-    print('com Messeges {nameFileMes}k == ', k)
+    print('com Messeges {name_file_mes}k == ', k)
     client.disconnect()
 
 

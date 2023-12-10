@@ -1,0 +1,33 @@
+<============================>
+_ : Message
+id : 660
+peer_id : {'_': 'PeerChannel', 'channel_id': 1324981513}
+date : 2023-12-10 10:53:50+00:00
+message : https://x.com/MindWisdomMoney/status/1730921766782968055?t=6v0HwyZVaVZyWUxk9Zds7g&s=35
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : True
+pinned : False
+noforwards : False
+invert_media : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 7330976585965055847, 'url': 'https://x.com/MindWisdomMoney/status/1730921766782968055?t=6v0HwyZVaVZyWUxk9Zds7g&s=35', 'display_url': 'twitter.com/MindWisdomMoney/status/1730921766782968055?t=6v0HwyZVaVZyWUxk9Zds7g&s=35', 'hash': 0, 'has_large_media': True, 'type': 'photo', 'site_name': 'X (formerly Twitter)', 'title': 'Mind Wisdom Money🕊 (@MindWisdomMoney) on X', 'description': 'RIP SEO experts!!!\n\nAI can now rank you no 1 on Google.\n\nFind out how 👇', 'photo': {'_': 'Photo', 'id': 6009137930255315598, 'access_hash': 726738879494686071, 'file_reference': b'\x00eu\xc9\xa4\xcc\xcb\xe0x\xadk\xce7\xee\xcc\xa0\x04\xe0.pT', 'date': datetime.datetime(2023, 12, 3, 10, 52, 51, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b"\x01((rH{\x1a\x90>z\x8a\xc9C\xb0\x86\xcf\xcc\x0f\\\xd5\xff\x00\xb4\x0cT\x94\x12\xc4\x1d\xd8\xb9'\xfb\xabU\xed\xdaH\xee\x84`\x9d\xb9\xe4S\x9er{\xf29\x15\x04R\xec\x9c;\x9cP\x1d\r|\xa0\x1f3c\xf0\xa2\xb3\xa4\xbaS\x9c\x1a)\x88\xad\xb50\x80\xbfQ\x93\xcfJ\x91\x04e\xd1ZC\x82@'p\xe2\x9c\xa6\xc8@\x0b.\xe98\xe3\x91\xdb\x9f\xd6\x866X!p\x0fc\xc9\xec\x7f\xfa\xd4X|\xcb\xb1+\xdb\xda\x8f\x95g\xc9/\x80w\x8e\x9cd\xfe\xa6\x9a\xd6\xd6\xdf7\xef\xbb\xf5\xf3\x07Nj\xaa\xf9;0~\xf7\xaf4\xa7\xec\xfbN:\xf6\xebE\xc7\xcb\xe6&\xc4\xf2\xf3\xbb\x9cz\xd1S\x86\xb1\xfb;e\x7fy\xb3\x8e\xbf{\x03\xfa\xe6\x8a\x05u\xd8\xab\x14\x9b\t\xe35#\\\x03\xb7\t\x8c\x11\xde\x8a(\xb0)\xb4\xacHoG\xd9\xd6/+\x90\x00\xdd\x9fCQ\xfd\xa0\x7fs\xf5\xa2\x8av\xb8)5\xb1\x14\x8e\x1c\xf0\x08\xebE\x14P&\xcf"}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 320, 'size': 24741}, {'_': 'PhotoSizeProgressive', 'type': 'x', 'w': 720, 'h': 720, 'sizes': [6786, 15112, 21300, 29727, 48873]}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}, 'force_large_media': False, 'force_small_media': False, 'manual': False, 'safe': True}
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 0, 'length': 86}]
+views : 47
+forwards : 0
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 1829, 'comments': True, 'recent_repliers': [], 'channel_id': 1322189883, 'max_id': None, 'read_max_id': None}
+edit_date : 2023-12-10 10:53:53+00:00
+post_author : None
+grouped_id : None
+reactions : None
+restriction_reason : []
+ttl_period : None

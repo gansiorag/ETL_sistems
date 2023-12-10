@@ -1,0 +1,143 @@
+<============================>
+_ : Message
+id : 48146
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2023-12-10 12:30:29+00:00
+message : 🌝✋🏻Здравствуйте,есть предложение для Тебя
+🔁Провожу набор в мою личную команду по зароботку:
+
+🔴 Средний результат и прирост в 200$ every day🔥💵.
+🔴 Гибкий график для заработка 👨🏼‍💻
+✅Обучение совершенно БЕСПЛАТНО🧑‍🎓
+✅Зарабатываешь с самого начала.🔥
+
+📣Хочу видеть желающих у нас 🤝🏼👉🏻@moscow_rua
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+noforwards : False
+invert_media : False
+from_id : {'_': 'PeerUser', 'user_id': 1719632092}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 43}, {'_': 'MessageEntityBold', 'offset': 44, 'length': 50}, {'_': 'MessageEntityBold', 'offset': 96, 'length': 52}, {'_': 'MessageEntityBold', 'offset': 149, 'length': 38}, {'_': 'MessageEntityBold', 'offset': 188, 'length': 35}, {'_': 'MessageEntityBold', 'offset': 224, 'length': 33}, {'_': 'MessageEntityBold', 'offset': 259, 'length': 37}, {'_': 'MessageEntityMention', 'offset': 296, 'length': 11}, {'_': 'MessageEntityBold', 'offset': 296, 'length': 11}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 74069, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+reactions : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 48145
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2023-12-10 12:30:26+00:00
+message : Добро пожаловать!
+
+Правила чата:
+1. После вступления, расскажите о себе с тегом #aboutme. Ваш бэкграунд, над чем работали или размышляли последнее время, ваши идеи, планы.
+2. Видите спам или сомнительное сообщение - ответьте на него в чате с текстом "@banofbot" и бот начнет голосование за кик участника и удаление этого сообщения.
+
+Спасибо! :)
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+noforwards : False
+invert_media : False
+from_id : {'_': 'PeerUser', 'user_id': 176365905}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityHashtag', 'offset': 80, 'length': 8}, {'_': 'MessageEntityMention', 'offset': 251, 'length': 9}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 74069, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+reactions : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : MessageService
+id : 48144
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2023-12-10 12:30:25+00:00
+action : {'_': 'MessageActionChatAddUser', 'users': [1719632092]}
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+legacy : False
+from_id : {'_': 'PeerUser', 'user_id': 1719632092}
+reply_to : None
+ttl_period : None
+<============================>
+_ : Message
+id : 48143
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2023-12-10 11:52:05+00:00
+message : Здравствуйте, это бот искусственного интеллекта?
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+noforwards : False
+invert_media : False
+from_id : {'_': 'PeerUser', 'user_id': 991074190}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 74069, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+reactions : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : MessageService
+id : 48141
+peer_id : {'_': 'PeerChannel', 'channel_id': 1289481478}
+date : 2023-12-10 11:50:28+00:00
+action : {'_': 'MessageActionChatAddUser', 'users': [991074190]}
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+legacy : False
+from_id : {'_': 'PeerUser', 'user_id': 991074190}
+reply_to : None
+ttl_period : None

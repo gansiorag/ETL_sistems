@@ -1,0 +1,327 @@
+<============================>
+_ : Message
+id : 29062
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2023-12-10 14:15:29+00:00
+message : В 98-99 годах примерно моей курсовой на кафедре было написание "чат-бота", который умел поддерживать диалог на основе анализа подключенных корпусов текстов с расчетом расстояний между словами в предложениях и их частотности. Ничего сложного, типа на "привет" - привет, на "как дела" - хорошо и тп, аналог обучения с учителем (пункты 4, 5, 6 из перечня).
+Да, за 25 лет далеко продвинулись 😂
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+noforwards : False
+invert_media : False
+from_id : {'_': 'PeerUser', 'user_id': 1035171825}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_scheduled': False, 'forum_topic': False, 'quote': False, 'reply_to_msg_id': 29057, 'reply_to_peer_id': None, 'reply_from': None, 'reply_media': None, 'reply_to_top_id': None, 'quote_text': None, 'quote_entities': [], 'quote_offset': None}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2023-12-10 14:16:55+00:00
+post_author : None
+grouped_id : None
+reactions : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 29061
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2023-12-10 13:43:31+00:00
+message : Модель памяти "мясная"
+
+Ситуационная нейроморфная память в импульсной сети нейрон-астроцитов
+https://ieeexplore.ieee.org/document/10339643
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+noforwards : False
+invert_media : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 93, 'length': 45}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 43301, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+reactions : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 29060
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2023-12-10 13:39:09+00:00
+message : Генри Уоррен. Алгоритмические трюки для программистов. (Hacker's delight). /2е изд, 2014/
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+noforwards : False
+invert_media : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 43301, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+reactions : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 29059
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2023-12-10 13:27:09+00:00
+message : Немного продвинулись. )
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+noforwards : False
+invert_media : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 43301, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+reactions : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 29058
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2023-12-10 13:26:36+00:00
+message : 1. Переход к аргументации
+2. Проблема оправдания
+3. Порождение объяснений.
+4. Поиск релевантных знаний.
+5. Понимание текстов
+6. Синтез текстов.
+7. Когнитивная графика
+8. Многоагентные системы
+10. Метазнания.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+noforwards : False
+invert_media : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 0, 'replies_pts': 43301, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': None, 'read_max_id': None}
+edit_date : None
+post_author : None
+grouped_id : None
+reactions : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 29057
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2023-12-10 13:26:01+00:00
+message : Десять "горячих точек" в исследованиях по искусственному интеллекту
+1996 год, четверть столетия взад! )
+https://deep-econom.livejournal.com/490771.html
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+noforwards : False
+invert_media : False
+from_id : {'_': 'PeerUser', 'user_id': 938994515}
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityUrl', 'offset': 104, 'length': 47}]
+views : None
+forwards : None
+replies : {'_': 'MessageReplies', 'replies': 1, 'replies_pts': 43301, 'comments': False, 'recent_repliers': [], 'channel_id': None, 'max_id': 29062, 'read_max_id': None}
+edit_date : 2023-12-10 13:26:34+00:00
+post_author : None
+grouped_id : None
+reactions : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 29056
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2023-12-10 07:22:42+00:00
+message : Т.е. после того как вы научите компьютер играть в Атари по определению в Дум он уже сможет обучится  играть сразу и без дополнительного программирования. Это впечатляет! И это можно будет легко проверить? Я правильно понял?
+Ок. Хорошо. Спасибо.
+А буковки распознавать ваше устройство тоже сразу уметь будет после обучения на размеченных буквенных БД?
+... И я жиж просто имитирую Ваш разговор с министром образования Тувы, вряд ли он шарит в области ML больше меня. Хозяева Гугл и прочие начальники "пуганые ИИ" после 10 летнего финансового "успеха" стартапа ДипМаинд вряд ли захотят поговорить с Вами про уже успешно пройденные несколько лет назад Атари-тесты на так называемый ИИ.
+А вот, кстати, может пригодиться при разговоре в Кызыле - топ разработчик методов ML из Гугл - Ф.Шолле (François Chollet) придумал специальные тесты на искусственный интеллект (ARC), которые еще не пройдены никаким стартапом и никакие методы ML  вроде не срабатывают (и Яндекс и Сбер пытались) - может лучше сразу на них министру свой ИИ продемонстрируете?
+Такое даже хозяева Гугл (даже Греф!), возможно,  воспримут..... и воспримут положительно.
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+noforwards : False
+invert_media : False
+from_id : {'_': 'PeerUser', 'user_id': 1203052445}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_scheduled': False, 'forum_topic': False, 'quote': False, 'reply_to_msg_id': 29055, 'reply_to_peer_id': None, 'reply_from': None, 'reply_media': None, 'reply_to_top_id': 29052, 'quote_text': None, 'quote_entities': [], 'quote_offset': None}
+media : None
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 786, 'length': 16}]
+views : None
+forwards : None
+replies : None
+edit_date : 2023-12-10 10:38:28+00:00
+post_author : None
+grouped_id : None
+reactions : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 29055
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2023-12-10 07:16:46+00:00
+message : Судя по вашему вопросу, вы совсем не в теме как работают модели машинного обучения 😏 Поэтому отвечу коротко - между играми Атари и Думом никакой разницы нет вообще, просто разные вычислительные мощности нужны. Дальше отвечать не буду, извините, почитайте хотя бы про основные модели и методы ML прежде чем в серьёзные дискуссии встревать((
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+noforwards : False
+invert_media : False
+from_id : {'_': 'PeerUser', 'user_id': 123307867}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_scheduled': False, 'forum_topic': False, 'quote': False, 'reply_to_msg_id': 29054, 'reply_to_peer_id': None, 'reply_from': None, 'reply_media': None, 'reply_to_top_id': 29052, 'quote_text': None, 'quote_entities': [], 'quote_offset': None}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : None
+post_author : None
+grouped_id : None
+reactions : None
+restriction_reason : []
+ttl_period : None
+<============================>
+_ : Message
+id : 29054
+peer_id : {'_': 'PeerChannel', 'channel_id': 1279610551}
+date : 2023-12-10 06:22:38+00:00
+message : Если погуглить набор слов -
+"стартап атари искусственный интеллект"
+Вываливаются ссылки прежде всего на стартап -  Google DeepMind
+Если погуглить -
+"Google DeepMind финансовые итоги"
+.....
+Успехи Google DeepMind по  "привлечению" "на деньги" впечатляют!!! (по некоторым нагугленным  данным прямых убытков за 10 лет у гугла на дипмаинде было более чем на 3.5 млрд. Долл.)
+Но, можно ли этот успех кому-то  повторить? ....Думаю можно! Министрерство образования и науки Тувы вполне возможно что и раскошелится тысяч. На 30? Рублей.
+....
+При таком раскладе по "тесту Атари" - если бы мне поручили инвестировать в "искусственный интеллект" эти 30 тыс. руб. (ну нож к горлу приставили бы и не обьяснили что они считают за ИИ). И пришел бы ко мне соискатель с устройством успешно играющим в Атари, то я бы у него всетаки спросил - а за какое время Ваше устройство вы бы обучили играть в Дум? И если бы он через пару дней вернулся с таким устройством (классно играющим в Дум), то я бы наверное разговор продолжил.
+Вопрос:
+После того, как осилите игры Атари, сколько Вам понадобится времени, "научить" компьютер играть в Дум?
+out : False
+mentioned : False
+media_unread : False
+silent : False
+post : False
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+noforwards : False
+invert_media : False
+from_id : {'_': 'PeerUser', 'user_id': 1203052445}
+fwd_from : None
+via_bot_id : None
+reply_to : {'_': 'MessageReplyHeader', 'reply_to_scheduled': False, 'forum_topic': False, 'quote': False, 'reply_to_msg_id': 29053, 'reply_to_peer_id': None, 'reply_from': None, 'reply_media': None, 'reply_to_top_id': 29052, 'quote_text': None, 'quote_entities': [], 'quote_offset': None}
+media : None
+reply_markup : None
+entities : []
+views : None
+forwards : None
+replies : None
+edit_date : 2023-12-10 06:52:44+00:00
+post_author : None
+grouped_id : None
+reactions : {'_': 'MessageReactions', 'results': [], 'min': False, 'can_see_list': True, 'recent_reactions': []}
+restriction_reason : []
+ttl_period : None

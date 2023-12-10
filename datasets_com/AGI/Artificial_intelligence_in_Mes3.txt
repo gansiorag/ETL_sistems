@@ -1,0 +1,34 @@
+<============================>
+_ : Message
+id : 951
+peer_id : {'_': 'PeerChannel', 'channel_id': 1450543193}
+date : 2023-12-10 14:16:08+00:00
+message : Join Artificial Intelligence WhatsApp Channel ✋
+https://whatsapp.com/channel/0029Va8iIT7KbYMOIWdNVu2Q/113
+out : False
+mentioned : False
+media_unread : False
+silent : True
+post : True
+from_scheduled : False
+legacy : False
+edit_hide : False
+pinned : False
+noforwards : False
+invert_media : False
+from_id : None
+fwd_from : None
+via_bot_id : None
+reply_to : None
+media : {'_': 'MessageMediaWebPage', 'webpage': {'_': 'WebPage', 'id': 8752154085452369547, 'url': 'https://www.whatsapp.com/channel/0029Va8iIT7KbYMOIWdNVu2Q/113', 'display_url': 'whatsapp.com/channel/0029Va8iIT7KbYMOIWdNVu2Q/113', 'hash': 0, 'has_large_media': True, 'type': 'article', 'site_name': 'WhatsApp.com', 'title': 'Artificial Intelligence', 'description': 'WhatsApp Channel Invite', 'photo': {'_': 'Photo', 'id': 5991185014202675743, 'access_hash': -2016041061875056335, 'file_reference': b'\x00eu\xc9\xa7\x87\x9b\xc4\x1bA\x877\x0e{qr\xa6\xdc\x85\x1eV', 'date': datetime.datetime(2023, 11, 27, 11, 59, 40, tzinfo=datetime.timezone.utc), 'sizes': [{'_': 'PhotoStrippedSize', 'type': 'i', 'bytes': b'\x01((\xc5\xa5\xa9#\x88\xb8\xcfjs@@\xc8`}\xa8\x02\n)\xea\x8c\xed\xb5FO\xa5<\xdb\xcb\x9cm\x19\xce:\x8a\x00\x86\x8as\xa3F\xdbX`\xd1@\x16!\x906\x14\xf0jF<\xd5*~\xf2\x14\x00H>\xb4\x98\xc74\x8d\x1c\xacP\xe3>\xd5*]\x85\x03*K\x0e\xa7\x8e\x7fJ\xabE1\x12I;\xc80\xe7#\xe8\x05\x15\x15\x14\x00QE\x14\x00\xa3\x9fjP\x07sE\x14\x00\x10;\x1c\xd1E\x14\x01'}, {'_': 'PhotoSize', 'type': 'm', 'w': 320, 'h': 320, 'size': 13831}, {'_': 'PhotoSizeProgressive', 'type': 'x', 'w': 640, 'h': 640, 'sizes': [3750, 9087, 18150, 27839, 34716]}], 'dc_id': 4, 'has_stickers': False, 'video_sizes': []}, 'embed_url': None, 'embed_type': None, 'embed_width': None, 'embed_height': None, 'duration': None, 'author': None, 'document': None, 'cached_page': None, 'attributes': []}, 'force_large_media': False, 'force_small_media': True, 'manual': True, 'safe': False}
+reply_markup : None
+entities : [{'_': 'MessageEntityBold', 'offset': 0, 'length': 46}, {'_': 'MessageEntityUrl', 'offset': 48, 'length': 57}]
+views : 238
+forwards : 0
+replies : None
+edit_date : 2023-12-10 14:18:08+00:00
+post_author : None
+grouped_id : None
+reactions : None
+restriction_reason : []
+ttl_period : None
